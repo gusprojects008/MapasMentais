@@ -1,0 +1,450 @@
+{:blocks (
+{:block/created-at 1746471041137
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [280 56]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Recomendações"
+:id "b71d0c40-29e1-11f0-9ea7-5d3ea9886c56"
+:fontWeight 400
+:noFill false
+:point [672 696]
+:fontSize 20
+:parentId "68190840-1654-446d-8c03-0398a967a84c"
+:nonce 1746470986717
+:italic false}}
+:block/updated-at 1746471041137} 
+{:block/content "Compiladores, montadores, arquivos objeto, linkers e executáveis e formatos de executáveis:\nhttps://pt.wikipedia.org/wiki/Arquivo_objeto"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "68190840-1654-446d-8c03-0398a967a84c"}
+:block/parent 
+{:block/uuid #uuid "68190840-1654-446d-8c03-0398a967a84c"}
+:block/properties 
+{}
+:block/uuid #uuid "6819086c-132f-47a3-bec3-63f2f04034e3"} 
+{:block/created-at 1746471037518
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "6819086c-132f-47a3-bec3-63f2f04034e3"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 89]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ca196e10-29e1-11f0-9ea7-5d3ea9886c56"
+:noFill false
+:point [632 768]
+:parentId "68190840-1654-446d-8c03-0398a967a84c"
+:collapsedHeight 0
+:nonce 1746471018520}}
+:block/updated-at 1746471037518} 
+{:block/created-at 1746471041137
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "d1bb0341-29e1-11f0-9ea7-5d3ea9886c56"
+:fontWeight 400
+:noFill true
+:point [813.05 753]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "d1badc30-29e1-11f0-9ea7-5d3ea9886c56"}
+:end 
+{:id "end"
+:canBind true
+:point [0.39 11]
+:bindingId "d1bb0340-29e1-11f0-9ea7-5d3ea9886c56"}}
+:decorations 
+{:end "arrow"}
+:parentId "68190840-1654-446d-8c03-0398a967a84c"
+:nonce 1746471031254
+:italic false}}
+:block/updated-at 1746471041137} 
+{:block/created-at 1746471114620
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 3
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "box"
+:size [448 136]
+:strokeType "line"
+:strokeWidth 3.2
+:opacity 1
+:label "CPU (Central Process Unit)"
+:id "ed0c6bc0-29e1-11f0-9ea7-5d3ea9886c56"
+:fontWeight 400
+:noFill false
+:point [-2376 -1136]
+:fontSize 32
+:parentId "68190840-1654-446d-8c03-0398a967a84c"
+:nonce 1746471077872
+:italic false}}
+:block/updated-at 1746471114620} 
+{:block/created-at 1746471264755
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 4
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "box"
+:size [504 88]
+:strokeType "line"
+:strokeWidth 3.2
+:opacity 1
+:label "Arquiteturas de processadores"
+:id "10bf0ff0-29e2-11f0-9ea7-5d3ea9886c56"
+:fontWeight 400
+:noFill false
+:point [-2864 -904]
+:fontSize 32
+:parentId "68190840-1654-446d-8c03-0398a967a84c"
+:nonce 1746471137695
+:italic false}}
+:block/updated-at 1746471264755} 
+{:block/created-at 1746471321241
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 5
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "box"
+:size [408 88]
+:strokeType "line"
+:strokeWidth 3.2
+:opacity 1
+:label "Montadores"
+:id "199d43d0-29e2-11f0-9ea7-5d3ea9886c56"
+:fontWeight 400
+:noFill false
+:point [-2272 -904]
+:fontSize 32
+:parentId "68190840-1654-446d-8c03-0398a967a84c"
+:nonce 1746471151993
+:italic false}}
+:block/updated-at 1746471321241} 
+{:block/created-at 1746471329162
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 6
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "box"
+:size [280 88]
+:strokeType "line"
+:strokeWidth 3.2
+:opacity 1
+:label "Compiladores"
+:id "1b6bc240-29e2-11f0-9ea7-5d3ea9886c56"
+:fontWeight 400
+:noFill false
+:point [-1784 -904]
+:fontSize 32
+:parentId "68190840-1654-446d-8c03-0398a967a84c"
+:nonce 1746471155248
+:italic false}}
+:block/updated-at 1746471329162} 
+{:block/created-at 1746471511511
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 7
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "box"
+:size [304 64]
+:strokeType "line"
+:strokeWidth 3.2
+:opacity 1
+:label "Arquivos-objeto"
+:id "1da29f70-29e2-11f0-9ea7-5d3ea9886c56"
+:fontWeight 400
+:noFill false
+:point [-2232 -648]
+:fontSize 32
+:parentId "68190840-1654-446d-8c03-0398a967a84c"
+:nonce 1746471160117
+:italic false}}
+:block/updated-at 1746471511511} 
+{:block/created-at 1746471513625
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 8
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "box"
+:size [176 72]
+:strokeType "line"
+:strokeWidth 3.2
+:opacity 1
+:label "Linkers"
+:id "20cdeec0-29e2-11f0-9ea7-5d3ea9886c56"
+:fontWeight 400
+:noFill false
+:point [-2184 -528]
+:fontSize 32
+:parentId "68190840-1654-446d-8c03-0398a967a84c"
+:nonce 1746471165477
+:italic false}}
+:block/updated-at 1746471513625} 
+{:block/created-at 1746471473585
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 9
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "box"
+:size [312 64]
+:strokeType "line"
+:strokeWidth 3.2
+:opacity 1
+:label "Executáveis"
+:id "22b636c0-29e2-11f0-9ea7-5d3ea9886c56"
+:fontWeight 400
+:noFill false
+:point [-1888 -584]
+:fontSize 32
+:parentId "68190840-1654-446d-8c03-0398a967a84c"
+:nonce 1746471168396
+:italic false}}
+:block/updated-at 1746471473585} 
+{:block/created-at 1746471243065
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 10
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "box"
+:size [232 64]
+:strokeType "line"
+:strokeWidth 3.2
+:opacity 1
+:label "Mini roteiro"
+:id "2a8e4540-29e2-11f0-9ea7-5d3ea9886c56"
+:fontWeight 400
+:noFill false
+:point [2192 1248]
+:fontSize 32
+:parentId "68190840-1654-446d-8c03-0398a967a84c"
+:nonce 1746471180888
+:italic false}}
+:block/updated-at 1746471243065} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6819086c-132f-47a3-bec3-63f2f04034e3"}
+:block/parent 
+{:block/uuid #uuid "68190840-1654-446d-8c03-0398a967a84c"}
+:block/uuid #uuid "6819093d-f310-4595-a5d9-7c0ca6e6dd95"} 
+{:block/created-at 1746471239369
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 11
+:scale [1 1]
+:pageId "6819093d-f310-4595-a5d9-7c0ca6e6dd95"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "46f93410-29e2-11f0-9ea7-5d3ea9886c56"
+:noFill false
+:point [2120 1336]
+:parentId "68190840-1654-446d-8c03-0398a967a84c"
+:collapsedHeight 0
+:nonce 1746471227974}}
+:block/updated-at 1746471239369} 
+{:block/created-at 1746471243065
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "4bc959c2-29e2-11f0-9ea7-5d3ea9886c56"
+:fontWeight 400
+:noFill true
+:point [2309.62 1313]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "4bc959c0-29e2-11f0-9ea7-5d3ea9886c56"}
+:end 
+{:id "end"
+:canBind true
+:point [0.92 19]
+:bindingId "4bc959c1-29e2-11f0-9ea7-5d3ea9886c56"}}
+:decorations 
+{:end "arrow"}
+:parentId "68190840-1654-446d-8c03-0398a967a84c"
+:nonce 1746471235973
+:italic false}}
+:block/updated-at 1746471243065} 
+{:block/created-at 1746471504671
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 13
+:scale [1 1]
+:scaleLevel "lg"
+:fill ""
+:type "box"
+:size [400 80]
+:strokeType "line"
+:strokeWidth 3.2
+:opacity 1
+:label "Formatos de executáveis"
+:id "de762dc0-29e2-11f0-9ea7-5d3ea9886c56"
+:fontWeight 400
+:noFill false
+:point [-1920 -456]
+:fontSize 32
+:parentId "68190840-1654-446d-8c03-0398a967a84c"
+:nonce 1746471482487
+:italic false}}
+:block/updated-at 1746471504671})
+:pages (
+{:block/uuid #uuid "68190840-1654-446d-8c03-0398a967a84c"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "68190840-1654-446d-8c03-0398a967a84c"
+:name "compiladores, montadores, arquivos objeto, linkers e executáveis e formatos de executáveis."
+:bindings 
+{:d1badc30-29e1-11f0-9ea7-5d3ea9886c56 
+{:id "d1badc30-29e1-11f0-9ea7-5d3ea9886c56"
+:type "line"
+:fromId "d1bb0341-29e1-11f0-9ea7-5d3ea9886c56"
+:toId "b71d0c40-29e1-11f0-9ea7-5d3ea9886c56"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:d1bb0340-29e1-11f0-9ea7-5d3ea9886c56 
+{:id "d1bb0340-29e1-11f0-9ea7-5d3ea9886c56"
+:type "line"
+:fromId "d1bb0341-29e1-11f0-9ea7-5d3ea9886c56"
+:toId "ca196e10-29e1-11f0-9ea7-5d3ea9886c56"
+:handleId "end"
+:point [0.46 0.64]
+:distance 4}
+:4bc959c0-29e2-11f0-9ea7-5d3ea9886c56 
+{:id "4bc959c0-29e2-11f0-9ea7-5d3ea9886c56"
+:type "line"
+:fromId "4bc959c2-29e2-11f0-9ea7-5d3ea9886c56"
+:toId "2a8e4540-29e2-11f0-9ea7-5d3ea9886c56"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:4bc959c1-29e2-11f0-9ea7-5d3ea9886c56 
+{:id "4bc959c1-29e2-11f0-9ea7-5d3ea9886c56"
+:type "line"
+:fromId "4bc959c2-29e2-11f0-9ea7-5d3ea9886c56"
+:toId "46f93410-29e2-11f0-9ea7-5d3ea9886c56"
+:handleId "end"
+:point [0.48 0.54]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("b71d0c40-29e1-11f0-9ea7-5d3ea9886c56" "ca196e10-29e1-11f0-9ea7-5d3ea9886c56" "d1bb0341-29e1-11f0-9ea7-5d3ea9886c56" "ed0c6bc0-29e1-11f0-9ea7-5d3ea9886c56" "10bf0ff0-29e2-11f0-9ea7-5d3ea9886c56" "199d43d0-29e2-11f0-9ea7-5d3ea9886c56" "1b6bc240-29e2-11f0-9ea7-5d3ea9886c56" "1da29f70-29e2-11f0-9ea7-5d3ea9886c56" "20cdeec0-29e2-11f0-9ea7-5d3ea9886c56" "22b636c0-29e2-11f0-9ea7-5d3ea9886c56" "2a8e4540-29e2-11f0-9ea7-5d3ea9886c56" "46f93410-29e2-11f0-9ea7-5d3ea9886c56" "4bc959c2-29e2-11f0-9ea7-5d3ea9886c56" "de762dc0-29e2-11f0-9ea7-5d3ea9886c56")}}
+:block/updated-at 1746471513625
+:block/created-at 1746470976590
+:block/type "whiteboard"
+:block/name "compiladores, montadores, arquivos objeto, linkers e executáveis e formatos de executáveis."
+:block/original-name "compiladores, montadores, arquivos objeto, linkers e executáveis e formatos de executáveis."})}
