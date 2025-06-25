@@ -1,1655 +1,12 @@
 {:blocks (
-{:block/created-at 1750689554349
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 0
-:scale [1 1]
-:pageId "68589a0a-3e2a-45bb-83d8-fb9b6aa17523"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 41.00002163080461]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "9f943fd0-4fc5-11f0-bfdc-d7178148d623"
-:noFill false
-:point [464 560]
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:collapsedHeight 0
-:nonce 1750637065696}}
-:block/updated-at 1750689554349} 
-{:block/created-at 1750731187752
+{:block/created-at 1750825913463
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
 :rotation 0
 :borderRadius 2
-:index 29
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [328 48]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "What is modified in boot.img?"
-:id "84376c00-4fcd-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill false
-:point [-2360 744]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750640457371
-:italic false}}
-:block/updated-at 1750731187752} 
-{:block/created-at 1750639210908
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 19
-:scale [1 1]
-:refs []
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [496 48]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "Extract boot.img from AP file"
-:id "7147e2d0-4fca-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill false
-:point [-112 336]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750639135238
-:italic false}}
-:block/updated-at 1750639210908} 
-{:block/created-at 1750639010609
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 15
-:scale [1 1]
-:refs []
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [480 48]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "Install Magisk APK"
-:id "2f246320-4fc9-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill false
-:point [-104 192]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750638595619
-:italic false}}
-:block/updated-at 1750639010609} 
-{:block/created-at 1750639127905
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 17
-:scale [1 1]
-:refs []
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [496 48]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "Download the official STOCK ROM of the smartphone on a computer"
-:id "2864fb20-4fca-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill false
-:point [-112 264]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750639013077
-:italic false}}
-:block/updated-at 1750639127905} 
-{:block/created-at 1750640165702
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 26
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "a7094292-4fcc-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill true
-:point [-116 578.3]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [51 0]
-:bindingId "a7094290-4fcc-11f0-bfdc-d7178148d623"}
-:end 
-{:id "end"
-:canBind true
-:point [0 0.46]
-:bindingId "a7094291-4fcc-11f0-bfdc-d7178148d623"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750640084429
-:italic false}}
-:block/updated-at 1750640165702} 
-{:block/created-at 1750638558531
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:borderRadius 2
-:index 7
-:scale [1 1]
-:refs []
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [296 64]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "Requirements"
-:id "8fdf8790-4fc8-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill false
-:point [940 80]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750638327445
-:italic false}}
-:block/updated-at 1750638558531} 
-{:block/created-at 1750639327027
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 21
-:scale [1 1]
-:pageId "6858a28d-d98e-4288-89f8-5fb68c31e455"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 89]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "b1951150-4fca-11f0-bfdc-d7178148d623"
-:noFill false
-:point [-64 416]
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:collapsedHeight 0
-:nonce 1750639243235}}
-:block/updated-at 1750639327027} 
-{:block/created-at 1750638999411
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 16
-:scale [1 1]
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "2f248a30-4fc9-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill true
-:point [380 213.71]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [35 0]
-:bindingId "2f248a31-4fc9-11f0-bfdc-d7178148d623"}
-:end 
-{:id "end"
-:canBind true
-:point [0 0.29]
-:bindingId "2f248a32-4fc9-11f0-bfdc-d7178148d623"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750638594692
-:italic false}}
-:block/updated-at 1750638999411} 
-{:block/created-at 1750638586701
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 12
-:scale [1 1]
-:refs []
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [416 64]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "Download interface"
-:id "dc0c6a20-4fc8-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill false
-:point [1424 280]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750638455424
-:italic false}}
-:block/updated-at 1750638586701} 
-{:block/created-at 1750638571370
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 5
-:scale [1 1]
-:refs []
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [520 72]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "Insert USB cable + Restart + Press power, down and up buttons"
-:id "6c228320-4fc8-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill false
-:point [880 272]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750638268299
-:italic false}}
-:block/updated-at 1750638571370} 
-{:block/created-at 1750638558530
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:borderRadius 2
-:index 9
-:scale [1 1]
-:refs []
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [296 64]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "Bootloader Unlock"
-:id "94da18a0-4fc8-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill false
-:point [1336 80]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750638335827
-:italic false}}
-:block/updated-at 1750638558530} 
-{:block/created-at 1750639258271
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 22
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "b7d39411-4fca-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill true
-:point [136 385]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "b7d36d00-4fca-11f0-bfdc-d7178148d623"}
-:end 
-{:id "end"
-:canBind true
-:point [0 27]
-:bindingId "b7d39410-4fca-11f0-bfdc-d7178148d623"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750639253497
-:italic false}}
-:block/updated-at 1750639258271} 
-{:block/content "Basically, magisk receives the official boot.img or ramdisk (initramfs) file as input and modifies it, returning as output a new version of boot.img/ramdisk with binaries and scripts added to provide root access, through an \"overlay\" technique that makes it possible to modify the system without altering critical partitions such as /system /vendor among others. In this way, magisk's approach becomes \"systemless\", that is, it does not modify the real system, but only a mounted copy of it."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6858a304-c6fd-4347-bd4a-17c5a96bb554"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "6858a631-1e6f-4cee-9061-85405952ee9f"} 
-{:block/content "Open Magisk APK and update boot.img. Then use the command \"adb pull /storage/Download/magiskboot.img\" to get the updated version of boot.img."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6858a28d-d98e-4288-89f8-5fb68c31e455"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "6858a304-c6fd-4347-bd4a-17c5a96bb554"} 
-{:block/created-at 1750639137780
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 20
-:scale [1 1]
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "714809e0-4fca-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill true
-:point [136 313]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "714809e1-4fca-11f0-bfdc-d7178148d623"}
-:end 
-{:id "end"
-:canBind true
-:point [0 19]
-:bindingId "714809e2-4fca-11f0-bfdc-d7178148d623"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750639135114
-:italic false}}
-:block/updated-at 1750639137780} 
-{:block/created-at 1750638562796
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 4
-:scale [1 1]
-:refs []
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [416 64]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "Enter download mode"
-:id "4bcf5da0-4fc8-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill false
-:point [928 184]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750638214129
-:italic false}}
-:block/updated-at 1750638562796} 
-{:block/created-at 1750638578820
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 3
-:scale [1 1]
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "29379f50-4fc8-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill true
-:point [621.32 145]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "29379f51-4fc8-11f0-bfdc-d7178148d623"}
-:end 
-{:id "end"
-:canBind true
-:point [0.76 19]
-:bindingId "29379f52-4fc8-11f0-bfdc-d7178148d623"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750638155275
-:italic false}}
-:block/updated-at 1750638578820} 
-{:block/created-at 1750638562797
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 11
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "d9cb2cb2-4fc8-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill true
-:point [1318.13 145]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [85.37 0]
-:bindingId "d9cb2cb0-4fc8-11f0-bfdc-d7178148d623"}
-:end 
-{:id "end"
-:canBind true
-:point [0 35]
-:bindingId "d9cb2cb1-4fc8-11f0-bfdc-d7178148d623"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750638451704
-:italic false}}
-:block/updated-at 1750638562797} 
-{:block/created-at 1750638578821
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 14
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "1e294f92-4fc9-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill true
-:point [833 213.63]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "1e294f90-4fc9-11f0-bfdc-d7178148d623"}
-:end 
-{:id "end"
-:canBind true
-:point [91 0.71]
-:bindingId "1e294f91-4fc9-11f0-bfdc-d7178148d623"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750638566260
-:italic false}}
-:block/updated-at 1750638578821} 
-{:block/created-at 1750638576356
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 8
-:scale [1 1]
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "8fdfaea0-4fc8-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill true
-:point [769 112]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "8fdfaea1-4fc8-11f0-bfdc-d7178148d623"}
-:end 
-{:id "end"
-:canBind true
-:point [167 0]
-:bindingId "8fdfaea2-4fc8-11f0-bfdc-d7178148d623"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750638327443
-:italic false}}
-:block/updated-at 1750638576356} 
-{:block/created-at 1750638576356
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:borderRadius 2
-:index 1
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [296 64]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "Magisk"
-:id "a6f8f310-4fc5-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill false
-:point [472 80]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750637077816
-:italic false}}
-:block/updated-at 1750638576356} 
-{:block/created-at 1750689575611
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 27
-:scale [1 1]
-:pageId "6858a631-1e6f-4cee-9061-85405952ee9f"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 281.00001809711307]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "de122860-4fcc-11f0-bfdc-d7178148d623"
-:noFill false
-:point [-488 648]
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:collapsedHeight 0
-:nonce 1750640176713}}
-:block/updated-at 1750689575611} 
-{:block/created-at 1750638571371
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 6
-:scale [1 1]
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "6c228321-4fc8-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill true
-:point [1137.43 249]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "6c228322-4fc8-11f0-bfdc-d7178148d623"}
-:end 
-{:id "end"
-:canBind true
-:point [0.83 19]
-:bindingId "6c228323-4fc8-11f0-bfdc-d7178148d623"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750638267680
-:italic false}}
-:block/updated-at 1750638571371} 
-{:block/content ""
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/uuid #uuid "68589a0a-3e2a-45bb-83d8-fb9b6aa17523"} 
-{:block/created-at 1750638578821
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 2
-:scale [1 1]
-:refs []
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [416 88]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "Magisk installation and initialization Flow"
-:id "29375130-4fc8-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill false
-:point [416 168]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750638155697
-:italic false}}
-:block/updated-at 1750638578821} 
-{:block/created-at 1750638586701
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 13
-:scale [1 1]
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "dc0c9130-4fc8-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill true
-:point [1401 310.12]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "dc0c9131-4fc8-11f0-bfdc-d7178148d623"}
-:end 
-{:id "end"
-:canBind true
-:point [19 0.16]
-:bindingId "dc0c9132-4fc8-11f0-bfdc-d7178148d623"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750638455299
-:italic false}}
-:block/updated-at 1750638586701} 
-{:block/created-at 1750639987530
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 23
-:scale [1 1]
-:pageId "6858a304-c6fd-4347-bd4a-17c5a96bb554"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 113]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "f9e248b0-4fca-11f0-bfdc-d7178148d623"
-:noFill false
-:point [-64 520]
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:collapsedHeight 0
-:nonce 1750639364352}}
-:block/updated-at 1750639987530} 
-{:block/created-at 1750638558531
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 10
-:scale [1 1]
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "94da18a1-4fc8-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill true
-:point [1237 112]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "94da18a2-4fc8-11f0-bfdc-d7178148d623"}
-:end 
-{:id "end"
-:canBind true
-:point [95 0]
-:bindingId "94da3fb0-4fc8-11f0-bfdc-d7178148d623"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750638335788
-:italic false}}
-:block/updated-at 1750638558531} 
-{:block/created-at 1750639042244
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 18
-:scale [1 1]
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "28652230-4fca-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill true
-:point [136 241]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "28652231-4fca-11f0-bfdc-d7178148d623"}
-:end 
-{:id "end"
-:canBind true
-:point [0 19]
-:bindingId "28652232-4fca-11f0-bfdc-d7178148d623"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750639012837
-:italic false}}
-:block/updated-at 1750639042244} 
-{:block/created-at 1750639922510
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 24
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "fe8e4492-4fca-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill true
-:point [136 506]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "fe8e4490-4fca-11f0-bfdc-d7178148d623"}
-:end 
-{:id "end"
-:canBind true
-:point [0 10]
-:bindingId "fe8e4491-4fca-11f0-bfdc-d7178148d623"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750639372166
-:italic false}}
-:block/updated-at 1750639922510} 
-{:block/created-at 1750640165701
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 25
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [336 80]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "What is the boot.img file from Magisk?"
-:id "995e9280-4fcc-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill false
-:point [-456 544]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750640062481
-:italic false}}
-:block/updated-at 1750640165701} 
-{:block/created-at 1750640189228
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 28
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "e328f402-4fcc-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill true
-:point [-288 625]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "e328f400-4fcc-11f0-bfdc-d7178148d623"}
-:end 
-{:id "end"
-:canBind true
-:point [0 19]
-:bindingId "e328f401-4fcc-11f0-bfdc-d7178148d623"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750640185203
-:italic false}}
-:block/updated-at 1750640189228} 
-{:block/created-at 1750731187752
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 30
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "8c42e692-4fcd-11f0-bfdc-d7178148d623"
-:fontWeight 400
-:noFill true
-:point [-2028 780.73]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [1539 6.87]
-:bindingId "8c42e690-4fcd-11f0-bfdc-d7178148d623"}
-:end 
-{:id "end"
-:canBind true
-:point [0 0]
-:bindingId "8c42e691-4fcd-11f0-bfdc-d7178148d623"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750640469213
-:italic false}}
-:block/updated-at 1750731187752} 
-{:block/content "Send the boot.img file to the smatphone with command: \"adb push boot.img /storage/Download\"."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "68589a0a-3e2a-45bb-83d8-fb9b6aa17523"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "6858a28d-d98e-4288-89f8-5fb68c31e455"} 
-{:block/created-at 1750726547563
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 32
-:scale [1 1]
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "a34cf740-5063-11f0-b666-3f00e4227e8b"
-:fontWeight 400
-:noFill true
-:point [769 -199.69]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 295.7]
-:bindingId "a34cf741-5063-11f0-b666-3f00e4227e8b"}
-:end 
-{:id "end"
-:canBind true
-:point [2755 0]
-:bindingId "a34d1e50-5063-11f0-b666-3f00e4227e8b"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750704932562
-:italic false}}
-:block/updated-at 1750726547563} 
-{:block/created-at 1750726547562
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:borderRadius 2
-:index 31
-:scale [1 1]
-:refs []
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [296 64]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "Links:"
-:id "a34ca920-5063-11f0-b666-3f00e4227e8b"
-:fontWeight 400
-:noFill false
-:point [3528 -248]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750704933765
-:italic false}}
-:block/updated-at 1750726547562} 
-{:block/content "Magisk internal details: https://topjohnwu.github.io/Magisk/details.html\nhttps://android.stackexchange.com/questions/213167/how-does-magisk-work\n\nOfficial Docs:\nhttps://github.com/topjohnwu/Magisk/tree/master/docs\nhttps://magisk.readthedocs.io/en/latest/developers/internaldetails.html"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6858a631-1e6f-4cee-9061-85405952ee9f"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "6859a352-a8ee-4fd3-96e8-f10e69932c71"} 
-{:block/created-at 1750737658830
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 33
-:scale [1 1]
-:pageId "6859a352-a8ee-4fd3-96e8-f10e69932c71"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 256.99999999999994]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "beb93ac0-5063-11f0-b666-3f00e4227e8b"
-:noFill false
-:point [3488 -168]
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:collapsedHeight 0
-:nonce 1750704978171}}
-:block/updated-at 1750737658830} 
-{:block/created-at 1750737658839
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 34
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "d2bc8541-5063-11f0-b666-3f00e4227e8b"
-:fontWeight 400
-:noFill true
-:point [3675.26 -183]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0.18 0]
-:bindingId "d2bc5e30-5063-11f0-b666-3f00e4227e8b"}
-:end 
-{:id "end"
-:canBind true
-:point [0 11]
-:bindingId "d2bc8540-5063-11f0-b666-3f00e4227e8b"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750705011729
-:italic false}}
-:block/updated-at 1750737658839} 
-{:block/created-at 1750726547563
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:borderRadius 2
-:index 35
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [248 56]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "Mini roteiro"
-:id "1a166d10-5092-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill false
-:point [5048 -192]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750724888268
-:italic false}}
-:block/updated-at 1750726547563} 
-{:block/content "Vantagens e desvantagens do magisk.\nMostrar formas de entender como o magisk funciona: Desempacotar o boot.img original e o do magisk, e comparar eles.\nExplorar debug_ramdisk e /data/adb.\nLer documentação oficial, usar binários do magisk, analisar o comportamento dele em tempo real e processo.\nLer init.rc."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6859a352-a8ee-4fd3-96e8-f10e69932c71"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "6859f124-da95-4608-a4c7-4bd0cb9aa10e"} 
-{:block/created-at 1750729360340
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 36
-:scale [1 1]
-:pageId "6859f124-da95-4608-a4c7-4bd0cb9aa10e"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 233]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "210972c0-5092-11f0-a877-7b31214a5acb"
-:noFill false
-:point [4968 -120]
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:collapsedHeight 0
-:nonce 1750724900047}}
-:block/updated-at 1750729360340} 
-{:block/created-at 1750729360347
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 37
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "26530e32-5092-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill true
-:point [5171.41 -135]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0.16 0]
-:bindingId "26530e30-5092-11f0-a877-7b31214a5acb"}
-:end 
-{:id "end"
-:canBind true
-:point [0 11]
-:bindingId "26530e31-5092-11f0-a877-7b31214a5acb"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750724908765
-:italic false}}
-:block/updated-at 1750729360347} 
-{:block/created-at 1750726547563
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 38
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "a5f9dc12-5095-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill true
-:point [3825 -210.82]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "a5f9dc10-5095-11f0-a877-7b31214a5acb"}
-:end 
-{:id "end"
-:canBind true
-:point [1219 42.37]
-:bindingId "a5f9dc11-5095-11f0-a877-7b31214a5acb"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750726411537
-:italic false}}
-:block/updated-at 1750726547563} 
-{:block/content "Para entender melhor isso, é necessário saber que o magisk pode definir à inicialização do init magisk de 2 maneiras diferentes, dependendo do dispositivo."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6859f124-da95-4608-a4c7-4bd0cb9aa10e"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "6859f798-34c6-4615-a2d0-da1bca6f157d"} 
-{:block/created-at 1750731181727
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 39
-:scale [1 1]
-:pageId "6859f798-34c6-4615-a2d0-da1bca6f157d"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 113]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "f9606a40-5095-11f0-a877-7b31214a5acb"
-:noFill false
-:point [-2392 800]
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:collapsedHeight 0
-:nonce 1750726552604}}
-:block/updated-at 1750731181727} 
-{:block/content "SELinux é o subsistema de segurança do kernel Linux, ele implementa o conceito de segurança obrigatoria MAC (Mandatory Access Control).\nEsse vai além do modelo tradicional de segurança linux, baseado em permissões, grupos e usuários."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6859f798-34c6-4615-a2d0-da1bca6f157d"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "6859f86d-51b8-48ad-8ca3-c4bbbb405d6c"} 
-{:block/created-at 1750731804708
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 40
-:scale [1 1]
-:pageId "6859f86d-51b8-48ad-8ca3-c4bbbb405d6c"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 161]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "78b06cf0-5096-11f0-a877-7b31214a5acb"
-:noFill false
-:point [-1672 928]
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:collapsedHeight 0
-:nonce 1750726765358}}
-:block/updated-at 1750731804708} 
-{:block/content "Geralmente o init do magisk é iniciado com o PID 1, e dependendo da forma de como a SEPolicies do sistema é organizada, o magisk vai configurar ele  de maneira diferente, podendo levar o init_secod_stage (init original) a ser PID 1."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6859f86d-51b8-48ad-8ca3-c4bbbb405d6c"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "6859f881-16f0-4e74-98df-cc479345a548"} 
-{:block/created-at 1750731601362
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 41
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [272 48]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "SELinux e SEPolicies"
-:id "9292fbd0-5099-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill false
-:point [-1616 872]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750728098013
-:italic false}}
-:block/updated-at 1750731601362} 
-{:block/created-at 1750731187751
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 42
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "aa9909e2-5099-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill true
-:point [-2194.92 792]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "aa9909e0-5099-11f0-a877-7b31214a5acb"}
-:end 
-{:id "end"
-:canBind true
-:point [0.46 9.99]
-:bindingId "f667b821-509f-11f0-a877-7b31214a5acb"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750728137435
-:italic false}}
-:block/updated-at 1750731187751} 
-{:block/created-at 1750731601361
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 43
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "ad31b622-5099-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill true
-:point [-1991 857.76]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "b3ccfee1-5099-11f0-a877-7b31214a5acb"}
-:end 
-{:id "end"
-:canBind true
-:point [371 24.65]
-:bindingId "b899a221-5099-11f0-a877-7b31214a5acb"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750728141961
-:italic false}}
-:block/updated-at 1750731601361} 
-{:block/created-at 1750731804715
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 44
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "be751d52-5099-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill true
-:point [-1480.03 920]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0.01 0]
-:bindingId "be751d50-5099-11f0-a877-7b31214a5acb"}
-:end 
-{:id "end"
-:canBind true
-:point [0 10]
-:bindingId "be751d51-5099-11f0-a877-7b31214a5acb"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750728170572
-:italic false}}
-:block/updated-at 1750731804715} 
-{:block/created-at 1750737478896
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 45
-:scale [1 1]
-:refs []
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [272 48]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "Overlays"
-:id "103d16b0-509a-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill false
-:point [-1192 872]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750728307723
-:italic false}}
-:block/updated-at 1750737478896} 
-{:block/created-at 1750737478896
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 46
-:scale [1 1]
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "103d3dc0-509a-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill true
-:point [-1343 896]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "103d3dc1-509a-11f0-a877-7b31214a5acb"}
-:end 
-{:id "end"
-:canBind true
-:point [147 0]
-:bindingId "103d3dc2-509a-11f0-a877-7b31214a5acb"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750728307633
-:italic false}}
-:block/updated-at 1750737478896} 
-{:block/created-at 1750737478896
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 48
-:scale [1 1]
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "11a8dbb0-509a-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill true
-:point [-919 898.69]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "11a8dbb1-509a-11f0-a877-7b31214a5acb"}
-:end 
-{:id "end"
-:canBind true
-:point [131 2.56]
-:bindingId "11a8dbb2-509a-11f0-a877-7b31214a5acb"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750728310031
-:italic false}}
-:block/updated-at 1750737478896} 
-{:block/created-at 1750737474497
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 47
-:scale [1 1]
-:refs []
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [272 48]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "magiskd"
-:id "11a8b4a0-509a-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill false
-:point [-784 880]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750728310181
-:italic false}}
-:block/updated-at 1750737474497} 
-{:block/content "A inicialização do init do magisk pode ser realizada de 2 formas:\nO init original poder ser modificado para redirecionar e executar o init customizado do magisk."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6859f881-16f0-4e74-98df-cc479345a548"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "6859ff38-be42-4e36-a4c7-50ce5b09b20e"} 
-{:block/content "O magisk substitui o init original pelo magiskinit, e então o magisk init faz todo processo necessário, e por fim executa o init original do sistema em /system."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "6859ff38-be42-4e36-a4c7-50ce5b09b20e"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "685a084e-bea8-4d6d-8419-5d4d8b0f65fb"} 
-{:block/created-at 1750731597048
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:collapsed false
-:borderRadius 8
 :index 49
-:scale [1 1]
-:pageId "685a084e-bea8-4d6d-8419-5d4d8b0f65fb"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 113]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "ef2c85e0-509f-11f0-a877-7b31214a5acb"
-:noFill false
-:point [-2704 1000]
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:collapsedHeight 0
-:nonce 1750730829709}}
-:block/updated-at 1750731597048} 
-{:block/created-at 1750731597048
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 50
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1667,535 +24,13 @@
 :parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
 :nonce 1750730856910
 :italic false}}
-:block/updated-at 1750731597048} 
-{:block/created-at 1750731597048
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913463
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:rotation 0
-:borderRadius 2
-:index 51
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [264 48]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "Dispositivo mais novos 2SI"
-:id "014342a0-50a0-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill false
-:point [-2080 944]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750730860450
-:italic false}}
-:block/updated-at 1750731597048} 
-{:block/content "O magisk substitui o init original do sistema pelo init do magisk, e também adiciona alguns binários e scripts necessários. Ele é responsável por montar overlays, injetar hooks em init.rc configurar/injeta o patch do SELinux, inicia magiskd (deamon) e então inicia e transferir o controle para o init original do android."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "685a084e-bea8-4d6d-8419-5d4d8b0f65fb"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "685a08cc-f9b5-44ac-a6b0-fb8593436dc2"} 
-{:block/created-at 1750731597048
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 52
-:scale [1 1]
-:pageId "685a08cc-f9b5-44ac-a6b0-fb8593436dc2"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 185]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "3a877270-50a0-11f0-a877-7b31214a5acb"
-:noFill false
-:point [-2128 1000]
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:collapsedHeight 0
-:nonce 1750730955862}}
-:block/updated-at 1750731597048} 
-{:block/created-at 1750731597048
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 53
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "44fe6ec2-50a0-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill true
-:point [-2040.52 914]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "44fe6ec0-50a0-11f0-a877-7b31214a5acb"}
-:end 
-{:id "end"
-:canBind true
-:point [68.5 26]
-:bindingId "4a633351-50a0-11f0-a877-7b31214a5acb"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750730973353
-:italic false}}
-:block/updated-at 1750731597048} 
-{:block/created-at 1750731597048
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 54
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "48346c72-50a0-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill true
-:point [-2439 914]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [76.91 0]
-:bindingId "48346c70-50a0-11f0-a877-7b31214a5acb"}
-:end 
-{:id "end"
-:canBind true
-:point [0 26]
-:bindingId "ba716b31-50a0-11f0-a877-7b31214a5acb"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750730978873
-:italic false}}
-:block/updated-at 1750731597048} 
-{:block/created-at 1750731597048
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 55
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "5b830cf0-50a0-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill true
-:point [-2503.21 992]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "5b82e5e0-50a0-11f0-a877-7b31214a5acb"}
-:end 
-{:id "end"
-:canBind true
-:point [0.33 9.99]
-:bindingId "5b82e5e1-50a0-11f0-a877-7b31214a5acb"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750731011098
-:italic false}}
-:block/updated-at 1750731597048} 
-{:block/created-at 1750731597048
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 56
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "72d693e2-50a0-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill true
-:point [-1947.55 992]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "72d693e0-50a0-11f0-a877-7b31214a5acb"}
-:end 
-{:id "end"
-:canBind true
-:point [0.19 10]
-:bindingId "72d693e1-50a0-11f0-a877-7b31214a5acb"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750731050096
-:italic false}}
-:block/updated-at 1750731597048} 
-{:block/content "O SELinux dita quem pode e o quê acessar no sistema, como recursos abertos e dispositivos.\nEle faz isso por meio das configurações do SEPolicies, que pode ser um arquivo compilado, ou um conjunto de arquivos."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "685a08cc-f9b5-44ac-a6b0-fb8593436dc2"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "685a0c23-e9ea-4b39-8ad7-8d87c584ca37"} 
-{:block/created-at 1750732163566
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 57
-:scale [1 1]
-:pageId "685a0c23-e9ea-4b39-8ad7-8d87c584ca37"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 137]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "38534270-50a2-11f0-a877-7b31214a5acb"
-:noFill false
-:point [-1672 1096]
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:collapsedHeight 0
-:nonce 1750731810984}}
-:block/updated-at 1750732163566} 
-{:block/created-at 1750732180951
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 58
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "141cf9e0-50a3-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill true
-:point [-1472 1089]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "141cd2d0-50a3-11f0-a877-7b31214a5acb"}
-:end 
-{:id "end"
-:canBind true
-:point [0 10]
-:bindingId "141cd2d1-50a3-11f0-a877-7b31214a5acb"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750732179630
-:italic false}}
-:block/updated-at 1750732180951} 
-{:block/created-at 1750735885439
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 59
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [240 56]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "SEPolicies monolítico"
-:id "9fe54720-50a3-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill false
-:point [-1920 2784]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750732415931
-:italic false}}
-:block/updated-at 1750735885439} 
-{:block/content "Dependendo da forma de como o seu SELinux está organizado, o magisk escolher 2 estrategias para injetar/configurar o SEPolicies sem alterar o binário e partições originais."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "685a0c23-e9ea-4b39-8ad7-8d87c584ca37"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "685a0e87-1c39-4e8a-a3db-cdab19e01945"} 
-{:block/created-at 1750733268179
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 60
-:scale [1 1]
-:pageId "685a0e87-1c39-4e8a-a3db-cdab19e01945"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 112.99999999999997]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "a4f757d0-50a3-11f0-a877-7b31214a5acb"
-:noFill false
-:point [-1672 1240]
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:collapsedHeight 0
-:nonce 1750732422689}}
-:block/updated-at 1750733268179} 
-{:block/content "Em sistema onde o SEPolicies é um único arquivo binário, o magisk precisa gerar um novo blob (arquivo binário SEPolicies) com seu próprio correação (patch), que adiciona seus próprios domínios, módulos de política etc...\nDessa forma o kernel irá carregar o SEPolicies corrigido do magisk."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "685a0e87-1c39-4e8a-a3db-cdab19e01945"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "685a0fd0-cbd3-495c-ad79-a5d17c161d55"} 
-{:block/created-at 1750736229988
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 61
-:scale [1 1]
-:pageId "685a0fd0-cbd3-495c-ad79-a5d17c161d55"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 184.99999999999997]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "691be5e0-50a4-11f0-a877-7b31214a5acb"
-:noFill false
-:point [-2008 2848]
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:collapsedHeight 0
-:nonce 1750732752363}}
-:block/updated-at 1750736229988} 
-{:block/created-at 1750735885439
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 62
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "6ce4fbd2-50a4-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill true
-:point [-1799.97 2840]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "6ce4fbd0-50a4-11f0-a877-7b31214a5acb"}
-:end 
-{:id "end"
-:canBind true
-:point [0.01 10]
-:bindingId "6ce4fbd1-50a4-11f0-a877-7b31214a5acb"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750732758391
-:italic false}}
-:block/updated-at 1750735885439} 
-{:block/content "O SEPolicies do magisk contém os labels ( context=u:r:magisk:s0), dóminios do magisk  configurações"
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "685a0fd0-cbd3-495c-ad79-a5d17c161d55"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "685a10fa-6a2e-494d-bb85-519c2f9f863e"} 
-{:block/created-at 1750736165119
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:rotation 0
-:borderRadius 2
-:index 63
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "box"
-:size [328 48]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:label "Estrutura de uma SEPolicies"
-:id "7fdb26a0-50a5-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill false
-:point [-1632 1360]
-:fontSize 20
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750733219998
-:italic false}}
-:block/updated-at 1750736165119} 
-{:block/created-at 1750736165119
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 64
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "8d55c602-50a5-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill true
-:point [-1471.67 1353]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [0 0]
-:bindingId "8d55c600-50a5-11f0-a877-7b31214a5acb"}
-:end 
-{:id "end"
-:canBind true
-:point [0.06 10]
-:bindingId "8d55c601-50a5-11f0-a877-7b31214a5acb"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750733242023
-:italic false}}
-:block/updated-at 1750736165119} 
-{:block/content "Módulos de política: cada módulo (.pp ou CIL) agrupa regras para um subsistema ou app específico, Ex: (módulo para init, para o Magisk, entre outros).\n\nType Enforcement (TE):\nÉ o núcleo da política, formado por:\nDomínios: representam processos ou classes de processos, Ex: (init, system_server, magiskd).\n\nTipos de objeto: file, socket, device_file.\nAtributos permitem agrupar tipos e domínios para simplificar regras.\n\nRole-based Access Control (RBAC):\nCada domínio é associado a um papel, controlando quais domínios podem transitar para outros, ex: como system_r, untrusted_app_r, magisk_r. \n\nType Transitions: Regras que definem qual domínio o processo entra quando executa certos binários, ex: executar binário \"su\" leva do domínio shell para o domínio shell_magisk.\n\nFile contexts: arquivo file_context mapeia caminhos de aquivo para tipos SELinux, dessa forma o kernel sabe associar contextos a cada arquivo no disco, ex: (/system/bin/* system_file).\n\nPort, Sockets e Netif Contexts: Mapas de portas de rede para tipos de socket, e interfaces de rede para contextos.\nDessa forma, é possível controlar quais domínios podem usar quais portas ou interfaces, ex: (80 tcp_port_t).\n\nMLS (Multi-Level) / MCS (Multi-Category Security):\nMLS: define níveis (ex: s0-s15) e categorias para isolamento de dados; raramente usado em Android padrão.\nMCS: variante simplificada usada por containers (cada app recebe uma categoria única).\n\nBooleans:\nFlags que podem habilitar/desabilitar grupos de regras em tempo de execução, sem recarregar, ou alterar a política inteira. Usado para cenários de debug, compatibilidade ou para módulos como o Magisk ligarem permissões adicionais.\n\nO SELinux pode ter 2 tipos política, e o magisk lida de forma diferente em cada delas."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "685a10fa-6a2e-494d-bb85-519c2f9f863e"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "685a11db-70ff-4cc6-a75d-28c056cdd84c"} 
-{:block/created-at 1750736165119
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
 :index 65
-:scale [1 1]
-:pageId "685a11db-70ff-4cc6-a75d-28c056cdd84c"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 1312.9999999999998]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "a0ed5660-50a5-11f0-a877-7b31214a5acb"
-:noFill false
-:point [-1656 1416]
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:collapsedHeight 0
-:nonce 1750733275342}}
-:block/updated-at 1750736165119} 
-{:block/created-at 1750736165119
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 66
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2225,51 +60,15 @@
 :parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
 :nonce 1750733285248
 :italic false}}
-:block/updated-at 1750736165119} 
-{:block/created-at 1750736165118
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 67
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "line"
-:strokeType "line"
-:strokeWidth 1
-:opacity 1
-:label ""
-:id "cf147722-50ab-11f0-a877-7b31214a5acb"
-:fontWeight 400
-:noFill true
-:point [-1776.68 2615.73]
-:fontSize 20
-:handles 
-{:start 
-{:id "start"
-:canBind true
-:point [119.68 0]
-:bindingId "d30fe7b1-50ab-11f0-a877-7b31214a5acb"}
-:end 
-{:id "end"
-:canBind true
-:point [0 164.27]
-:bindingId "d457a9f1-50ab-11f0-a877-7b31214a5acb"}}
-:decorations 
-{:end "arrow"}
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750735930201
-:italic false}}
-:block/updated-at 1750736165118} 
-{:block/created-at 1750736165119
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913464
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
 :rotation 0
 :borderRadius 2
-:index 68
+:index 67
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2282,18 +81,45 @@
 :id "da19d0c0-50ab-11f0-a877-7b31214a5acb"
 :fontWeight 400
 :noFill false
-:point [-1264 2792]
+:point [-1336 3256]
 :fontSize 20
 :parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750735950433
+:nonce 1750735950705
 :italic false}}
-:block/updated-at 1750736165119} 
-{:block/created-at 1750736165119
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 38
+:scale [1 1]
+:pageId "6859f798-34c6-4615-a2d0-da1bca6f157d"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 113]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f9606a40-5095-11f0-a877-7b31214a5acb"
+:noFill false
+:point [-2392 800]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750726552604}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913463
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 69
+:index 68
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2305,7 +131,7 @@
 :id "00b786f2-50ac-11f0-a877-7b31214a5acb"
 :fontWeight 400
 :noFill true
-:point [-1255 2628.27]
+:point [-1347.82 2730]
 :fontSize 20
 :handles 
 {:start 
@@ -2316,14 +142,668 @@
 :end 
 {:id "end"
 :canBind true
-:point [89.78 159.73]
+:point [122.93 522]
 :bindingId "00b786f1-50ac-11f0-a877-7b31214a5acb"}}
 :decorations 
 {:end "arrow"}
 :parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750736013249
+:nonce 1750736013309
 :italic false}}
-:block/updated-at 1750736165119} 
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 39
+:scale [1 1]
+:pageId "6859f86d-51b8-48ad-8ca3-c4bbbb405d6c"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 161]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "78b06cf0-5096-11f0-a877-7b31214a5acb"
+:noFill false
+:point [-1672 928]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750726765358}}
+:block/updated-at 1750825913463} 
+{:block/content "O magisk substitui o init original do sistema pelo init do magisk, e também adiciona alguns binários e scripts necessários. Ele é responsável por montar overlays, injetar hooks em init.rc configurar/injeta o patch do SELinux, inicia magiskd (deamon) e então inicia e transferir o controle para o init original do android."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685a084e-bea8-4d6d-8419-5d4d8b0f65fb"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685a08cc-f9b5-44ac-a6b0-fb8593436dc2"} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 28
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [328 48]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "What is modified in boot.img?"
+:id "84376c00-4fcd-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill false
+:point [-2360 744]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750640457371
+:italic false}}
+:block/updated-at 1750825913462} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 33
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "d2bc8541-5063-11f0-b666-3f00e4227e8b"
+:fontWeight 400
+:noFill true
+:point [3675.26 -183]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.18 0]
+:bindingId "d2bc5e30-5063-11f0-b666-3f00e4227e8b"}
+:end 
+{:id "end"
+:canBind true
+:point [0 11]
+:bindingId "d2bc8540-5063-11f0-b666-3f00e4227e8b"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750705011729
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 61
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "6ce4fbd2-50a4-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [-1798.77 3313]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "6ce4fbd0-50a4-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [0.47 11]
+:bindingId "6ce4fbd1-50a4-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750732758664
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750826306363
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 73
+:scale [1 1]
+:pageId "685a224a-8571-4a1c-8624-71dedd59e02b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 161]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6ca22570-50af-11f0-a877-7b31214a5acb"
+:noFill false
+:point [-816 944]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750737482154}}
+:block/updated-at 1750826306363} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 18
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [496 48]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Extract boot.img from AP file"
+:id "7147e2d0-4fca-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill false
+:point [-112 336]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750639135238
+:italic false}}
+:block/updated-at 1750825913462} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 64
+:scale [1 1]
+:pageId "685a11db-70ff-4cc6-a75d-28c056cdd84c"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 1312.9999999999998]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a0ed5660-50a5-11f0-a877-7b31214a5acb"
+:noFill false
+:point [-1656 1416]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750733275342}}
+:block/updated-at 1750825913462} 
+{:block/content "Para entender melhor isso, é necessário saber que o magisk pode definir à inicialização do init magisk de 2 maneiras diferentes, dependendo do dispositivo."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6859f124-da95-4608-a4c7-4bd0cb9aa10e"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "6859f798-34c6-4615-a2d0-da1bca6f157d"} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 14
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [480 48]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Install Magisk APK"
+:id "2f246320-4fc9-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill false
+:point [-104 192]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750638595619
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 16
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [496 48]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Download the official STOCK ROM of the smartphone on a computer"
+:id "2864fb20-4fca-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill false
+:point [-112 264]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750639013077
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 25
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a7094292-4fcc-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill true
+:point [-116 578.3]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [51 0]
+:bindingId "a7094290-4fcc-11f0-bfdc-d7178148d623"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0.46]
+:bindingId "a7094291-4fcc-11f0-bfdc-d7178148d623"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750640084429
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 54
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "5b830cf0-50a0-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [-2503.46 992]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "5b82e5e0-50a0-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [0.23 10]
+:bindingId "5b82e5e1-50a0-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750731011154
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 6
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [296 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Requirements"
+:id "8fdf8790-4fc8-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill false
+:point [940 80]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750638327445
+:italic false}}
+:block/updated-at 1750825913462} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 20
+:scale [1 1]
+:pageId "6858a28d-d98e-4288-89f8-5fb68c31e455"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 89]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b1951150-4fca-11f0-bfdc-d7178148d623"
+:noFill false
+:point [-64 416]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750639243235}}
+:block/updated-at 1750825913462} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 15
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "2f248a30-4fc9-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill true
+:point [380 213.71]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [35 0]
+:bindingId "2f248a31-4fc9-11f0-bfdc-d7178148d623"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0.29]
+:bindingId "2f248a32-4fc9-11f0-bfdc-d7178148d623"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750638594692
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 11
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [416 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Download interface"
+:id "dc0c6a20-4fc8-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill false
+:point [1424 280]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750638455424
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 4
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [520 72]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Insert USB cable + Restart + Press power, down and up buttons"
+:id "6c228320-4fc8-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill false
+:point [880 272]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750638268299
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 8
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [296 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Bootloader Unlock"
+:id "94da18a0-4fc8-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill false
+:point [1336 80]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750638335827
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/content "A inicialização do init do magisk pode ser realizada de 2 formas:\nO init original poder ser modificado para redirecionar e executar o init customizado do magisk."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6859f881-16f0-4e74-98df-cc479345a548"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "6859ff38-be42-4e36-a4c7-50ce5b09b20e"} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 21
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "b7d39411-4fca-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill true
+:point [136 385]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "b7d36d00-4fca-11f0-bfdc-d7178148d623"}
+:end 
+{:id "end"
+:canBind true
+:point [0 27]
+:bindingId "b7d39410-4fca-11f0-bfdc-d7178148d623"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750639253497
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 56
+:scale [1 1]
+:pageId "685a0c23-e9ea-4b39-8ad7-8d87c584ca37"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 137]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "38534270-50a2-11f0-a877-7b31214a5acb"
+:noFill false
+:point [-1672 1096]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750731810984}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 58
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [240 56]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "SEPolicies monolítico"
+:id "9fe54720-50a3-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill false
+:point [-1920 3256]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750732416073
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 52
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "44fe6ec2-50a0-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [-2040.52 914]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "44fe6ec0-50a0-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [68.5 26]
+:bindingId "4a633351-50a0-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750730973353
+:italic false}}
+:block/updated-at 1750825913464} 
 {:block/content "O init de fábrica percorre um diretorio exemplo: (\"/vendor/etc/seelinux/*.cil\") dessa forma, para cada arquivo, ele faz inernamente: \"security_load_policy(fd, size)\" para assim carregar e formar o SEPolicy completo na memória."
 :block/format :markdown
 :block/left 
@@ -2333,7 +813,213 @@
 :block/properties 
 {}
 :block/uuid #uuid "685a1ca1-0590-4955-a27a-5e0f45f03d49"} 
-{:block/created-at 1750736739485
+{:block/content "Basically, magisk receives the official boot.img or ramdisk (initramfs) file as input and modifies it, returning as output a new version of boot.img/ramdisk with binaries and scripts added to provide root access, through an \"overlay\" technique that makes it possible to modify the system without altering critical partitions such as /system /vendor among others. In this way, magisk's approach becomes \"systemless\", that is, it does not modify the real system, but only a mounted copy of it."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6858a304-c6fd-4347-bd4a-17c5a96bb554"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "6858a631-1e6f-4cee-9061-85405952ee9f"} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 63
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "8d55c602-50a5-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [-1471.67 1353]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "8d55c600-50a5-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [0.06 10]
+:bindingId "8d55c601-50a5-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750733242023
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/content "Módulos de política: cada módulo (.pp ou CIL) agrupa regras para um subsistema ou app específico, Ex: (módulo para init, para o Magisk, entre outros).\n\nType Enforcement (TE):\nÉ o núcleo da política, formado por:\nDomínios: representam processos ou classes de processos, Ex: (init, system_server, magiskd).\n\nTipos de objeto: file, socket, device_file.\nAtributos permitem agrupar tipos e domínios para simplificar regras.\n\nRole-based Access Control (RBAC):\nCada domínio é associado a um papel, controlando quais domínios podem transitar para outros, ex: como system_r, untrusted_app_r, magisk_r. \n\nType Transitions: Regras que definem qual domínio o processo entra quando executa certos binários, ex: executar binário \"su\" leva do domínio shell para o domínio shell_magisk.\n\nFile contexts: arquivo file_context mapeia caminhos de aquivo para tipos SELinux, dessa forma o kernel sabe associar contextos a cada arquivo no disco, ex: (/system/bin/* system_file).\n\nPort, Sockets e Netif Contexts: Mapas de portas de rede para tipos de socket, e interfaces de rede para contextos.\nDessa forma, é possível controlar quais domínios podem usar quais portas ou interfaces, ex: (80 tcp_port_t).\n\nMLS (Multi-Level) / MCS (Multi-Category Security):\nMLS: define níveis (ex: s0-s15) e categorias para isolamento de dados; raramente usado em Android padrão.\nMCS: variante simplificada usada por containers (cada app recebe uma categoria única).\n\nBooleans:\nFlags que podem habilitar/desabilitar grupos de regras em tempo de execução, sem recarregar, ou alterar a política inteira. Usado para cenários de debug, compatibilidade ou para módulos como o Magisk ligarem permissões adicionais.\n\nO SELinux pode ter 2 tipos política, e o magisk lida de forma diferente em cada delas."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685a10fa-6a2e-494d-bb85-519c2f9f863e"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685a11db-70ff-4cc6-a75d-28c056cdd84c"} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 35
+:scale [1 1]
+:pageId "6859f124-da95-4608-a4c7-4bd0cb9aa10e"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 233]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "210972c0-5092-11f0-a877-7b31214a5acb"
+:noFill false
+:point [4968 -120]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750724900047}}
+:block/updated-at 1750825913462} 
+{:block/created-at 1750825913461
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 50
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [264 48]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Dispositivo mais novos 2SI"
+:id "014342a0-50a0-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill false
+:point [-2080 944]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750730860450
+:italic false}}
+:block/updated-at 1750825913461} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 44
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [272 48]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Systemless"
+:id "103d16b0-509a-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill false
+:point [-1176 872]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750728307873
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/content "Open Magisk APK and update boot.img. Then use the command \"adb pull /storage/Download/magiskboot.img\" to get the updated version of boot.img."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6858a28d-d98e-4288-89f8-5fb68c31e455"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "6858a304-c6fd-4347-bd4a-17c5a96bb554"} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 19
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "714809e0-4fca-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill true
+:point [136 313]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "714809e1-4fca-11f0-bfdc-d7178148d623"}
+:end 
+{:id "end"
+:canBind true
+:point [0 19]
+:bindingId "714809e2-4fca-11f0-bfdc-d7178148d623"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750639135114
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 3
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [416 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Enter download mode"
+:id "4bcf5da0-4fc8-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill false
+:point [928 184]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750638214129
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913464
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2341,7 +1027,1213 @@
 :stroke ""
 :collapsed false
 :borderRadius 8
-:index 70
+:index 71
+:scale [1 1]
+:pageId "685a1f8b-c4d7-41fd-8aed-4a36b02b7da2"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 184.99999999999997]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c942d510-50ad-11f0-a877-7b31214a5acb"
+:noFill false
+:point [-1416 3488]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750736779011}}
+:block/updated-at 1750825913464} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685a1f8b-c4d7-41fd-8aed-4a36b02b7da2"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/uuid #uuid "685a223a-cb9d-4386-b36a-68d85061e282"} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 72
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "99f160f1-50ae-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [-1207.94 3481]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "99f139e0-50ae-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [0.01 10]
+:bindingId "99f160f0-50ae-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750737128771
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "29379f50-4fc8-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill true
+:point [621.32 145]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "29379f51-4fc8-11f0-bfdc-d7178148d623"}
+:end 
+{:id "end"
+:canBind true
+:point [0.76 19]
+:bindingId "29379f52-4fc8-11f0-bfdc-d7178148d623"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750638155275
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913461
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "d9cb2cb2-4fc8-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill true
+:point [1318.13 145]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [85.37 0]
+:bindingId "d9cb2cb0-4fc8-11f0-bfdc-d7178148d623"}
+:end 
+{:id "end"
+:canBind true
+:point [0 35]
+:bindingId "d9cb2cb1-4fc8-11f0-bfdc-d7178148d623"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750638451704
+:italic false}}
+:block/updated-at 1750825913461} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 55
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "72d693e2-50a0-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [-1947.55 992]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "72d693e0-50a0-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [0.19 10]
+:bindingId "72d693e1-50a0-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750731050096
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/content "Dependendo da forma de como o seu SELinux está organizado, o magisk escolher 2 estrategias para injetar/configurar o SEPolicies sem alterar o binário e partições originais."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685a0c23-e9ea-4b39-8ad7-8d87c584ca37"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685a0e87-1c39-4e8a-a3db-cdab19e01945"} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 45
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "103d3dc0-509a-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [-1343 896]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "103d3dc1-509a-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [163 0]
+:bindingId "103d3dc2-509a-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750728307643
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "1e294f92-4fc9-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill true
+:point [833 213.63]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "1e294f90-4fc9-11f0-bfdc-d7178148d623"}
+:end 
+{:id "end"
+:canBind true
+:point [91 0.71]
+:bindingId "1e294f91-4fc9-11f0-bfdc-d7178148d623"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750638566260
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/content "Vantagens e desvantagens do magisk.\nMostrar formas de entender como o magisk funciona: Desempacotar o boot.img original e o do magisk, e comparar eles.\nExplorar debug_ramdisk e /data/adb.\nLer documentação oficial, usar binários do magisk, analisar o comportamento dele em tempo real e processo.\nLer init.rc."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6859a352-a8ee-4fd3-96e8-f10e69932c71"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "6859f124-da95-4608-a4c7-4bd0cb9aa10e"} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 7
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "8fdfaea0-4fc8-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill true
+:point [769 112]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "8fdfaea1-4fc8-11f0-bfdc-d7178148d623"}
+:end 
+{:id "end"
+:canBind true
+:point [167 0]
+:bindingId "8fdfaea2-4fc8-11f0-bfdc-d7178148d623"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750638327443
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/content "O magisk substitui o init original pelo magiskinit, ele faz todo processo necessário como configurar SEPolicies, criar overlays, adicionarseus scripts, deamon e outros binários em init.rc (para serem executado automaticamente), para então por fim executa o init original do sistema em /system."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6859ff38-be42-4e36-a4c7-50ce5b09b20e"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685a084e-bea8-4d6d-8419-5d4d8b0f65fb"} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 59
+:scale [1 1]
+:pageId "685a0e87-1c39-4e8a-a3db-cdab19e01945"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 112.99999999999997]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a4f757d0-50a3-11f0-a877-7b31214a5acb"
+:noFill false
+:point [-1672 1240]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750732422689}}
+:block/updated-at 1750825913463} 
+{:block/content "Geralmente o init do magisk é iniciado com o PID 1, e dependendo da forma de como a SEPolicies do sistema é organizada, o magisk vai configurar ele  de maneira diferente, podendo levar o init_secod_stage (init original) a ser PID 1."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6859f86d-51b8-48ad-8ca3-c4bbbb405d6c"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "6859f881-16f0-4e74-98df-cc479345a548"} 
+{:block/content "SELinux é o subsistema de segurança do kernel Linux, ele implementa o conceito de segurança obrigatoria MAC (Mandatory Access Control).\nEsse vai além do modelo tradicional de segurança linux, baseado em permissões, grupos e usuários."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6859f798-34c6-4615-a2d0-da1bca6f157d"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "6859f86d-51b8-48ad-8ca3-c4bbbb405d6c"} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 62
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [328 48]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Estrutura de uma SEPolicies"
+:id "7fdb26a0-50a5-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill false
+:point [-1632 1360]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750733219998
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 36
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "26530e32-5092-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [5171.41 -135]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.16 0]
+:bindingId "26530e30-5092-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [0 11]
+:bindingId "26530e31-5092-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750724908765
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/content "O SEPolicies do magisk contém os labels ( context=u:r:magisk:s0), dóminios do magisk  configurações"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685a0fd0-cbd3-495c-ad79-a5d17c161d55"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685a10fa-6a2e-494d-bb85-519c2f9f863e"} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 42
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "ad31b622-5099-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [-1991 857.76]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "b3ccfee1-5099-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [371 24.65]
+:bindingId "b899a221-5099-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750728141961
+:italic false}}
+:block/updated-at 1750825913462} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 43
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "be751d52-5099-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [-1480.03 920]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.01 0]
+:bindingId "be751d50-5099-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [0 10]
+:bindingId "be751d51-5099-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750728170572
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/content "Este é o daemon do Magisk, um serviço executado pelo \"init\" original do sistema por meio do arquivo \"init.rc\", que foi temporariamente modificado pelo \"magiskinit\" para inserir o comando que inicializa o daemon (\"magisk --daemon\")."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685a223a-cb9d-4386-b36a-68d85061e282"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685a224a-8571-4a1c-8624-71dedd59e02b"} 
+{:block/content "O SELinux dita quem pode e o quê acessar no sistema, como recursos abertos e dispositivos.\nEle faz isso por meio das configurações do SEPolicies, que pode ser um arquivo compilado, ou um conjunto de arquivos."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685a08cc-f9b5-44ac-a6b0-fb8593436dc2"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685a0c23-e9ea-4b39-8ad7-8d87c584ca37"} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 41
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "aa9909e2-5099-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [-2194.92 792]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "aa9909e0-5099-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [0.46 9.99]
+:bindingId "f667b821-509f-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750728137435
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [296 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Magisk"
+:id "a6f8f310-4fc5-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill false
+:point [472 80]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750637077816
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 30
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [296 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Links:"
+:id "a34ca920-5063-11f0-b666-3f00e4227e8b"
+:fontWeight 400
+:noFill false
+:point [3528 -248]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750704933765
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 60
+:scale [1 1]
+:pageId "685a0fd0-cbd3-495c-ad79-a5d17c161d55"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 184.99999999999997]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "691be5e0-50a4-11f0-a877-7b31214a5acb"
+:noFill false
+:point [-2000 3328]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750732753271}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 26
+:scale [1 1]
+:pageId "6858a631-1e6f-4cee-9061-85405952ee9f"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 281.00001809711307]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "de122860-4fcc-11f0-bfdc-d7178148d623"
+:noFill false
+:point [-488 648]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750640176713}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "6c228321-4fc8-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill true
+:point [1137.43 249]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "6c228322-4fc8-11f0-bfdc-d7178148d623"}
+:end 
+{:id "end"
+:canBind true
+:point [0.83 19]
+:bindingId "6c228323-4fc8-11f0-bfdc-d7178148d623"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750638267680
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 32
+:scale [1 1]
+:pageId "6859a352-a8ee-4fd3-96e8-f10e69932c71"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 256.99999999999994]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "beb93ac0-5063-11f0-b666-3f00e4227e8b"
+:noFill false
+:point [3488 -168]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750704978171}}
+:block/updated-at 1750825913464} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/uuid #uuid "68589a0a-3e2a-45bb-83d8-fb9b6aa17523"} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 1
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [416 88]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Magisk installation and initialization Flow"
+:id "29375130-4fc8-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill false
+:point [416 168]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750638155697
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 31
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a34cf740-5063-11f0-b666-3f00e4227e8b"
+:fontWeight 400
+:noFill true
+:point [769 -199.69]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 295.7]
+:bindingId "a34cf741-5063-11f0-b666-3f00e4227e8b"}
+:end 
+{:id "end"
+:canBind true
+:point [2755 0]
+:bindingId "a34d1e50-5063-11f0-b666-3f00e4227e8b"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750704932562
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 40
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [272 48]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "SELinux e SEPolicies"
+:id "9292fbd0-5099-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill false
+:point [-1616 872]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750728098013
+:italic false}}
+:block/updated-at 1750825913462} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "dc0c9130-4fc8-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill true
+:point [1401 310.12]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "dc0c9131-4fc8-11f0-bfdc-d7178148d623"}
+:end 
+{:id "end"
+:canBind true
+:point [19 0.16]
+:bindingId "dc0c9132-4fc8-11f0-bfdc-d7178148d623"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750638455299
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 57
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "141cf9e0-50a3-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [-1472 1089]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "141cd2d0-50a3-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [0 10]
+:bindingId "141cd2d1-50a3-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750732179630
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 22
+:scale [1 1]
+:pageId "6858a304-c6fd-4347-bd4a-17c5a96bb554"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 113]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f9e248b0-4fca-11f0-bfdc-d7178148d623"
+:noFill false
+:point [-64 520]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750639364352}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 47
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "11a8dbb0-509a-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [-903 898.8]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "11a8dbb1-509a-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [115 2.34]
+:bindingId "11a8dbb2-509a-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750728310041
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/content "Em sistema onde o SEPolicies é um único arquivo binário, o magisk precisa gerar um novo blob (arquivo binário SEPolicies) com seu próprio correação (patch), que adiciona seus próprios domínios, módulos de política etc...\nDessa forma o kernel irá carregar o SEPolicies corrigido do magisk."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685a0e87-1c39-4e8a-a3db-cdab19e01945"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685a0fd0-cbd3-495c-ad79-a5d17c161d55"} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 37
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a5f9dc12-5095-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [3825 -210.82]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "a5f9dc10-5095-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [1219 42.37]
+:bindingId "a5f9dc11-5095-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750726411537
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "94da18a1-4fc8-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill true
+:point [1237 112]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "94da18a2-4fc8-11f0-bfdc-d7178148d623"}
+:end 
+{:id "end"
+:canBind true
+:point [95 0]
+:bindingId "94da3fb0-4fc8-11f0-bfdc-d7178148d623"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750638335788
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 17
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "28652230-4fca-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill true
+:point [136 241]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "28652231-4fca-11f0-bfdc-d7178148d623"}
+:end 
+{:id "end"
+:canBind true
+:point [0 19]
+:bindingId "28652232-4fca-11f0-bfdc-d7178148d623"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750639012837
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 53
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "48346c72-50a0-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [-2439 914]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [76.91 0]
+:bindingId "48346c70-50a0-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [0 26]
+:bindingId "ba716b31-50a0-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750730978873
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/content "Magisk internal details: https://topjohnwu.github.io/Magisk/details.html\nhttps://android.stackexchange.com/questions/213167/how-does-magisk-work\n\nOfficial Docs:\nhttps://github.com/topjohnwu/Magisk/tree/master/docs\nhttps://magisk.readthedocs.io/en/latest/developers/internaldetails.html"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6858a631-1e6f-4cee-9061-85405952ee9f"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "6859a352-a8ee-4fd3-96e8-f10e69932c71"} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 23
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "fe8e4492-4fca-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill true
+:point [136 506]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "fe8e4490-4fca-11f0-bfdc-d7178148d623"}
+:end 
+{:id "end"
+:canBind true
+:point [0 10]
+:bindingId "fe8e4491-4fca-11f0-bfdc-d7178148d623"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750639372166
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/content "Essa forma fornece uma maior modularidade,\npermitindo adição ou remoção de políticas de forma mais facilitada, mas permitindo o magisk implementar um hook que intercepta (via LD_PRELOAD e FIFOs em seelinuxfs) a chamada security_load_policy() para um arquivo e logo depois adicionar seu(s) próprio(s) policy."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685a1ca1-0590-4955-a27a-5e0f45f03d49"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685a1f8b-c4d7-41fd-8aed-4a36b02b7da2"} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 51
+:scale [1 1]
+:pageId "685a08cc-f9b5-44ac-a6b0-fb8593436dc2"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 185]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3a877270-50a0-11f0-a877-7b31214a5acb"
+:noFill false
+:point [-2128 1000]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750730955862}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913461
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 24
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [336 80]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "What is the boot.img file from Magisk?"
+:id "995e9280-4fcc-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill false
+:point [-456 544]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750640062481
+:italic false}}
+:block/updated-at 1750825913461} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 69
 :scale [1 1]
 :pageId "685a1ca1-0590-4955-a27a-5e0f45f03d49"
 :scaleLevel "md"
@@ -2355,17 +2247,152 @@
 :opacity 1
 :id "0cd63fd0-50ac-11f0-a877-7b31214a5acb"
 :noFill false
-:point [-1336 2856]
+:point [-1408 3320]
 :parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
 :collapsedHeight 0
-:nonce 1750736032964}}
-:block/updated-at 1750736739485} 
-{:block/created-at 1750736739494
+:nonce 1750736033306}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913463
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 71
+:rotation 0
+:borderRadius 2
+:index 46
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [272 48]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "magiskd"
+:id "11a8b4a0-509a-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill false
+:point [-784 880]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750728310181
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 27
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e328f402-4fcc-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill true
+:point [-288 625]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "e328f400-4fcc-11f0-bfdc-d7178148d623"}
+:end 
+{:id "end"
+:canBind true
+:point [0 19]
+:bindingId "e328f401-4fcc-11f0-bfdc-d7178148d623"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750640185203
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 29
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "8c42e692-4fcd-11f0-bfdc-d7178148d623"
+:fontWeight 400
+:noFill true
+:point [-2028 780.73]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [1539 6.87]
+:bindingId "8c42e690-4fcd-11f0-bfdc-d7178148d623"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "8c42e691-4fcd-11f0-bfdc-d7178148d623"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750640469213
+:italic false}}
+:block/updated-at 1750825913462} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 66
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "cf147722-50ab-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill true
+:point [-1787.69 2730]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [200.84 0]
+:bindingId "d30fe7b1-50ab-11f0-a877-7b31214a5acb"}
+:end 
+{:id "end"
+:canBind true
+:point [0 522]
+:bindingId "d457a9f1-50ab-11f0-a877-7b31214a5acb"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750735930245
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 70
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2377,7 +2404,7 @@
 :id "8b1d36f2-50ac-11f0-a877-7b31214a5acb"
 :fontWeight 400
 :noFill true
-:point [-1143.27 2848]
+:point [-1215.27 3312]
 :fontSize 20
 :handles 
 {:start 
@@ -2393,19 +2420,10 @@
 :decorations 
 {:end "arrow"}
 :parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750736244785
+:nonce 1750736244920
 :italic false}}
-:block/updated-at 1750736739494} 
-{:block/content "Essa forma fornece uma maior modularidade,\npermitindo adição ou remoção de políticas de forma mais facilitada, mas permitindo o magisk implementar um hook que intercepta (via LD_PRELOAD e FIFOs em seelinuxfs) a chamada security_load_policy() para um arquivo e logo depois adicionar seu(s) próprio(s) policy."
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "685a1ca1-0590-4955-a27a-5e0f45f03d49"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/properties 
-{}
-:block/uuid #uuid "685a1f8b-c4d7-41fd-8aed-4a36b02b7da2"} 
-{:block/created-at 1750737181198
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913463
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2413,31 +2431,65 @@
 :stroke ""
 :collapsed false
 :borderRadius 8
-:index 72
+:index 48
 :scale [1 1]
-:pageId "685a1f8b-c4d7-41fd-8aed-4a36b02b7da2"
+:pageId "685a084e-bea8-4d6d-8419-5d4d8b0f65fb"
 :scaleLevel "md"
 :fill ""
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 184.99999999999997]
+:size [400 185]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "c942d510-50ad-11f0-a877-7b31214a5acb"
+:id "ef2c85e0-509f-11f0-a877-7b31214a5acb"
 :noFill false
-:point [-1336 3024]
+:point [-2704 1000]
 :parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
 :collapsedHeight 0
-:nonce 1750736778589}}
-:block/updated-at 1750737181198} 
-{:block/created-at 1750737181207
+:nonce 1750730829972}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913464
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 73
+:borderRadius 2
+:index 34
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [248 56]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Mini roteiro"
+:id "1a166d10-5092-11f0-a877-7b31214a5acb"
+:fontWeight 400
+:noFill false
+:point [5048 -192]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750724888268
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/content "Send the boot.img file to the smatphone with command: \"adb push boot.img /storage/Download\"."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "68589a0a-3e2a-45bb-83d8-fb9b6aa17523"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "6858a28d-d98e-4288-89f8-5fb68c31e455"} 
+{:block/created-at 1750826306374
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 74
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2446,70 +2498,38 @@
 :strokeWidth 1
 :opacity 1
 :label ""
-:id "99f160f1-50ae-11f0-a877-7b31214a5acb"
+:id "70964300-50af-11f0-a877-7b31214a5acb"
 :fontWeight 400
 :noFill true
-:point [-1132.74 3017]
+:point [-647.44 929]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
 :point [0 0]
-:bindingId "99f139e0-50ae-11f0-a877-7b31214a5acb"}
+:bindingId "70961bf0-50af-11f0-a877-7b31214a5acb"}
 :end 
 {:id "end"
 :canBind true
-:point [0.41 9.99]
-:bindingId "99f160f0-50ae-11f0-a877-7b31214a5acb"}}
+:point [0.24 11]
+:bindingId "70961bf1-50af-11f0-a877-7b31214a5acb"}}
 :decorations 
 {:end "arrow"}
 :parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750737128617
+:nonce 1750737488770
 :italic false}}
-:block/updated-at 1750737181207} 
-{:block/content ""
+:block/updated-at 1750826306374} 
+{:block/content "O magisk implmenta vários métodos de overlay para poder fornecer e aplicar sua abordagem \"systemless\"."
 :block/format :markdown
 :block/left 
-{:block/uuid #uuid "685a1f8b-c4d7-41fd-8aed-4a36b02b7da2"}
+{:block/uuid #uuid "685a224a-8571-4a1c-8624-71dedd59e02b"}
 :block/parent 
 {:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/uuid #uuid "685a223a-cb9d-4386-b36a-68d85061e282"} 
-{:block/created-at 1750737480688
 :block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:collapsed false
-:borderRadius 8
-:index 74
-:scale [1 1]
-:pageId "685a223a-cb9d-4386-b36a-68d85061e282"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [400 40.99999999999999]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "63360970-50af-11f0-a877-7b31214a5acb"
-:noFill false
-:point [-1240 928]
-:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:collapsedHeight 0
-:nonce 1750737466339}}
-:block/updated-at 1750737480688} 
-{:block/content ""
-:block/format :markdown
-:block/left 
-{:block/uuid #uuid "685a223a-cb9d-4386-b36a-68d85061e282"}
-:block/parent 
-{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
-:block/uuid #uuid "685a224a-8571-4a1c-8624-71dedd59e02b"} 
-{:block/created-at 1750737486031
+{}
+:block/uuid #uuid "685b30b2-31d2-42ef-8726-61dcb4c6cdfe"} 
+{:block/created-at 1750825913463
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2519,24 +2539,24 @@
 :borderRadius 8
 :index 75
 :scale [1 1]
-:pageId "685a224a-8571-4a1c-8624-71dedd59e02b"
+:pageId "685b30b2-31d2-42ef-8726-61dcb4c6cdfe"
 :scaleLevel "md"
 :fill ""
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 40.99999999999999]
+:size [400 88.99998210042222]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:id "6ca22570-50af-11f0-a877-7b31214a5acb"
+:id "98d5d730-5150-11f0-8621-3954fda0263e"
 :noFill false
-:point [-816 944]
+:point [-1240 928]
 :parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
 :collapsedHeight 0
-:nonce 1750737482139}}
-:block/updated-at 1750737486031} 
-{:block/created-at 1750737498240
+:nonce 1750806705453}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913462
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -2550,34 +2570,59 @@
 :strokeWidth 1
 :opacity 1
 :label ""
-:id "70964300-50af-11f0-a877-7b31214a5acb"
+:id "ea8da3f2-5150-11f0-8621-3954fda0263e"
 :fontWeight 400
 :noFill true
-:point [-646.78 929]
+:point [-1040 920]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
 :point [0 0]
-:bindingId "70961bf0-50af-11f0-a877-7b31214a5acb"}
+:bindingId "ea8da3f0-5150-11f0-8621-3954fda0263e"}
 :end 
 {:id "end"
 :canBind true
-:point [0.54 11]
-:bindingId "70961bf1-50af-11f0-a877-7b31214a5acb"}}
+:point [0 10]
+:bindingId "ea8da3f1-5150-11f0-8621-3954fda0263e"}}
 :decorations 
 {:end "arrow"}
 :parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750737488755
+:nonce 1750806842417
 :italic false}}
-:block/updated-at 1750737498240} 
-{:block/created-at 1750737601889
+:block/updated-at 1750825913462} 
+{:block/created-at 1750825913463
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
+:borderRadius 2
 :index 77
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [312 48]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "OverlayFS + Arquivo-espaço"
+:id "f0515160-5150-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill false
+:point [-1192 1024]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750806852236
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 78
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2586,28 +2631,979 @@
 :strokeWidth 1
 :opacity 1
 :label ""
-:id "758429e2-50af-11f0-a877-7b31214a5acb"
+:id "0fbc60d2-5151-11f0-8621-3954fda0263e"
 :fontWeight 400
 :noFill true
-:point [-1054.65 920]
+:point [-1039.62 1017]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
 :point [0 0]
-:bindingId "758429e0-50af-11f0-a877-7b31214a5acb"}
+:bindingId "0fbc60d0-5151-11f0-8621-3954fda0263e"}
 :end 
 {:id "end"
 :canBind true
-:point [0.57 9.98]
-:bindingId "758429e1-50af-11f0-a877-7b31214a5acb"}}
+:point [0.09 10]
+:bindingId "0fbc60d1-5151-11f0-8621-3954fda0263e"}}
 :decorations 
 {:end "arrow"}
 :parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
-:nonce 1750737497000
+:nonce 1750806904728
 :italic false}}
-:block/updated-at 1750737601889})
+:block/updated-at 1750825913464} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685b30b2-31d2-42ef-8726-61dcb4c6cdfe"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685b331e-d074-4c61-9ec8-6722bf284f71"} 
+{:block/content "OverlayFS é um sistema de arquivos que permite combinar múltiplos diretórios um um sistema de arquivos virtual, que no caso irá ser um arquivo magisk.img que usa o filesystem ext4 ou ext2. Ele geralmente é usado para guardar alterações dessas partições do sistema de forma não persistente."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685b331e-d074-4c61-9ec8-6722bf284f71"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685b364a-26f5-443e-8225-dcfceeea2518"} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 79
+:scale [1 1]
+:pageId "685b364a-26f5-443e-8225-dcfceeea2518"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 184.9999981157968]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ee90d550-5153-11f0-8621-3954fda0263e"
+:noFill false
+:point [-1240 1080]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750808137881}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 80
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a4ccbff0-5154-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1035.98 1072]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "a4cc98e0-5154-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0 10]
+:bindingId "a9d47061-5154-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750808443335
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/content "O magisk básicamente faz: \"mount -t overlay -o lowerdir=/system,upperdir=/magisk/system,wordir=/magisk/.work overlay /system\"."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685b364a-26f5-443e-8225-dcfceeea2518"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685b3f1c-c82c-424e-8d06-032fa1f8b248"} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 81
+:scale [1 1]
+:pageId "685b3f1c-c82c-424e-8d06-032fa1f8b248"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 88.99997118470066]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "30665f40-5159-11f0-8621-3954fda0263e"
+:noFill false
+:point [-1240 1272]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750810395568}}
+:block/updated-at 1750825913464} 
+{:block/content "lowerdir representa a camada inferior, geralmente é um filesystem existente no dispositivo, como /system (partição original, read-only).\nupperdir é a camada superior qualquer alteração feita será salva nela, deixando a camada inferior \"/system\" original intacto.\nworkdir é o diretório temporario exigido pelo kernel linux para operações internas do OverlayFS, como mesclar arquivos ou lidar com exclusões.\nO /system no final, é o ponto de montagem usado para \"exibir\" o resultado das camadas combinadas."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685b3f1c-c82c-424e-8d06-032fa1f8b248"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685b40ba-5c73-4466-ae98-bca8877dfb5a"} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 82
+:scale [1 1]
+:pageId "685b40ba-5c73-4466-ae98-bca8877dfb5a"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 328.9999348130863]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "26afb040-515a-11f0-8621-3954fda0263e"
+:noFill false
+:point [-1240 1368]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750810808680}}
+:block/updated-at 1750825913462} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 83
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "02f79860-515b-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1040 1265]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "02f77150-515b-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0 10]
+:bindingId "02f77151-515b-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750811178260
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 84
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "0594d882-515b-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1040 1361]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "0594d880-515b-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0 10]
+:bindingId "0594d881-515b-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750811182737
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685b40ba-5c73-4466-ae98-bca8877dfb5a"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685b44d9-9210-470d-a566-199d77871aa6"} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 85
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [320 56]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Usando bind-mounts recursirvos"
+:id "d1015b50-5161-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill false
+:point [-1200 1712]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750814101144
+:italic false}}
+:block/updated-at 1750825913462} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 86
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e259f830-5161-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1042.64 1698]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.15 0]
+:bindingId "e259d120-5161-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0 10]
+:bindingId "e259d121-5161-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750814130046
+:italic false}}
+:block/updated-at 1750825913462} 
+{:block/content "Nesse método o magisk não utiliza OverlayFS e nem arquivo-espaço, o magisk basicamente realiza um bind-mount recursivo dos diretórios do magisk para os diretórios reais do sistema, isso significa que ele associa todas alterações que estão no seu diretório, para o diretório real do sistema, mas sem altera-lo realmente, pois as alterações só serão refletidas nos diretório reais enquanto o bind-mounts recursivo estiver ativo."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685b44d9-9210-470d-a566-199d77871aa6"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685b4db9-87b7-4e08-b7d9-c79e224cd1b9"} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 87
+:scale [1 1]
+:pageId "685b4db9-87b7-4e08-b7d9-c79e224cd1b9"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 233.0000061234841]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e62fdf60-5161-11f0-8621-3954fda0263e"
+:noFill false
+:point [-1240 1776]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750814136501}}
+:block/updated-at 1750825913462} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 88
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "eaf35ae0-5161-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1040 1768]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "eaf333d0-5161-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0 10]
+:bindingId "eaf333d1-5161-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750814144429
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/content "Exemplo:\nmount --rbind /magisk/system/app /system/app\nmount --rbind /magisk/system/lib /system/lib\nTodas as alterações em /magisk/system/app serão refletidas em /system/app original, enquanto esse rbind estiver ativo."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685b4db9-87b7-4e08-b7d9-c79e224cd1b9"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685b523c-bbc0-45e8-8095-bc7844ca4a9b"} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 89
+:scale [1 1]
+:pageId "685b523c-bbc0-45e8-8095-bc7844ca4a9b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 161]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "96e588d0-5164-11f0-8621-3954fda0263e"
+:noFill false
+:point [-1232 2016]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750815292003}}
+:block/updated-at 1750825913463} 
+{:block/content "mount --rbind /magisk/system/app /system/app\nmount --rbind /magisk/system/lib /system/lib"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685b523c-bbc0-45e8-8095-bc7844ca4a9b"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/uuid #uuid "685b525a-29e9-41b3-b732-857b697837cf"} 
+{:block/content "# …para cada pasta modificada"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685b525a-29e9-41b3-b732-857b697837cf"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{:heading 1}
+:block/uuid #uuid "685b525a-c223-4485-9b97-30df4cc99a9d"} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 90
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e2d0a770-5164-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1035.43 2009]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "e2d08060-5164-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0.39 9.99]
+:bindingId "e2d08061-5164-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750815419271
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825916642
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 91
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [392 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "TMPFS diretos no ramdisk"
+:id "0fe8ff00-5165-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill false
+:point [-1224 2192]
+:fontSize 20
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750815495039
+:italic false}}
+:block/updated-at 1750825916642} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 92
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "3ef6bdf0-5165-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1032 2178]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "3ef696e0-5165-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0 10]
+:bindingId "3ef696e1-5165-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750815573865
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/content "Neste modo o init do magisk utiliza um TMPFS para criar um ambiente virtual onde as modificações serão aplicadas. Como o TMPFS é um sistema arquivos que armazena dados na RAM, as modificações serão perdidas após a reinicialização, isso torna bem seguro, mas existem suas desvantagens caso deseje que as alterações persistam."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685b525a-c223-4485-9b97-30df4cc99a9d"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685b535b-dfdc-4537-ac3c-2d08751a8b23"} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 93
+:scale [1 1]
+:pageId "685b535b-dfdc-4537-ac3c-2d08751a8b23"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 209]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "41ef1660-5165-11f0-8621-3954fda0263e"
+:noFill false
+:point [-1224 2248]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750815578883}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 94
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "4ea7b362-5167-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1028.01 2233]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "4ea7b360-5167-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0 11]
+:bindingId "50fdb151-5167-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750816459260
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/content "Inicialmente, o init do magisk irá criar o tmpfs \"base\" usado para armazenar os scripts e binários do magisk, ex (\"mount -t tmpfs magisk /debug_ramdisk\" (\"magisk\"  é apenas um rótulo)).\nDessa forma, o /debug_ramdisk utiliza o tmpfs e se torna um ponto de montagem para armazenar dados de forma volátil na memória RAM."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685b535b-dfdc-4537-ac3c-2d08751a8b23"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685b6a28-3129-439b-83e1-19de3a9f7d2b"} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 95
+:scale [1 1]
+:pageId "685b6a28-3129-439b-83e1-19de3a9f7d2b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 184.99999999999997]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d8651470-5172-11f0-8621-3954fda0263e"
+:noFill false
+:point [-1224 2464]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750821415195}}
+:block/updated-at 1750825913463} 
+{:block/content "O init do magisk executa:\nxz -d /overlay.d/sbin/magisk.xz > /debug_ramdisk\nxz -d /overlay.d/init-ld.xz > /debug_ramdisk\nxz -d /overlay.d/stub.xz > /debug_ramdisk\nmkdir -p /system/system_ext/bin/\nxz -d /overlay.d/sbin/magisk.xz > /system/system_ext/bin/magisk\nxz -d /overlay.d/init-ld.xz > /system/system_ext/bin/init-ld\nxz -d /overlay.d/stub.xz > /system/system_ext/bin/stub"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685b6a28-3129-439b-83e1-19de3a9f7d2b"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685b6c07-dfd1-4925-97d9-d2b53d9bc28f"} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 96
+:scale [1 1]
+:pageId "685b6c07-dfd1-4925-97d9-d2b53d9bc28f"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [536 209]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f6b4d360-5173-11f0-8621-3954fda0263e"
+:noFill false
+:point [-1224 2752]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750821896020}}
+:block/updated-at 1750825913464} 
+{:block/content "Assim ele pode extrair os binários para debug_ramdisk e depois fazer uma cópia deles para /system/system_ext/bin."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685b6c07-dfd1-4925-97d9-d2b53d9bc28f"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685b7577-ac44-4e90-86b3-309805e6b6f4"} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 97
+:scale [1 1]
+:pageId "685b7577-ac44-4e90-86b3-309805e6b6f4"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 89]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "967a5e60-5179-11f0-8621-3954fda0263e"
+:noFill false
+:point [-1224 2656]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750824310630}}
+:block/updated-at 1750825913464} 
+{:block/content "Após isso, o magisk possui seus binários necessários para processeguir com a inicialização do deamon e ouras configurações"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685b7577-ac44-4e90-86b3-309805e6b6f4"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685b7760-7f62-4dfa-81a0-df87876b02cf"} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 98
+:scale [1 1]
+:pageId "685b7760-7f62-4dfa-81a0-df87876b02cf"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 89]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b990a610-517a-11f0-8621-3954fda0263e"
+:noFill false
+:point [-1224 2968]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750824799427}}
+:block/updated-at 1750825913462} 
+{:block/created-at 1750825913464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 99
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "f4a724e0-517a-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1021.91 2745]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "f4a6fdd0-517a-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0.47 9.99]
+:bindingId "f4a6fdd1-517a-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750824898153
+:italic false}}
+:block/updated-at 1750825913464} 
+{:block/created-at 1750825913463
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 100
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "09de5b80-517b-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1082.71 2961]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "0bdff7e1-517b-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0.87 9.96]
+:bindingId "09de3471-517b-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750824933862
+:italic false}}
+:block/updated-at 1750825913463} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 101
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "11c732e2-517b-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1032.74 2457]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.76 0]
+:bindingId "11c732e0-517b-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0 9.97]
+:bindingId "11c732e1-517b-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750824947007
+:italic false}}
+:block/updated-at 1750825913462} 
+{:block/created-at 1750825913462
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 102
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "13a93952-517b-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1035.16 2649]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [1.08 0]
+:bindingId "13a93950-517b-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0 9.94]
+:bindingId "13a93951-517b-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750824950162
+:italic false}}
+:block/updated-at 1750825913462} 
+{:block/content "Esse é responsável por gerenciar o root de forma dinâmica, comunicação com o magisk manager e aplicação de módulos e patches em runtime."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685b7760-7f62-4dfa-81a0-df87876b02cf"}
+:block/parent 
+{:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"}
+:block/properties 
+{}
+:block/uuid #uuid "685b7cee-2a7d-4736-951d-af41d6b7e43a"} 
+{:block/created-at 1750826704743
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 103
+:scale [1 1]
+:pageId "685b7cee-2a7d-4736-951d-af41d6b7e43a"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 89]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0985d3e0-517e-11f0-8621-3954fda0263e"
+:noFill false
+:point [-816 1112]
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:collapsedHeight 0
+:nonce 1750826221666}}
+:block/updated-at 1750826704743} 
+{:block/created-at 1750826704742
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 104
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "2636afe2-517f-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-620.91 1105]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.54 0]
+:bindingId "2636afe0-517f-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0 9.99]
+:bindingId "2636afe1-517f-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "685899fd-c189-48d9-b489-8f85c2725c4c"
+:nonce 1750826699269
+:italic false}}
+:block/updated-at 1750826704742})
 :pages (
 {:block/uuid #uuid "685899fd-c189-48d9-b489-8f85c2725c4c"
 :block/properties 
@@ -2616,7 +3612,15 @@
 {:id "685899fd-c189-48d9-b489-8f85c2725c4c"
 :name "funcionamento do magisk"
 :bindings 
-{:6c228322-4fc8-11f0-bfdc-d7178148d623 
+{:3ef696e0-5165-11f0-8621-3954fda0263e 
+{:id "3ef696e0-5165-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "3ef6bdf0-5165-11f0-8621-3954fda0263e"
+:toId "96e588d0-5164-11f0-8621-3954fda0263e"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:6c228322-4fc8-11f0-bfdc-d7178148d623 
 {:id "6c228322-4fc8-11f0-bfdc-d7178148d623"
 :type "line"
 :fromId "6c228321-4fc8-11f0-bfdc-d7178148d623"
@@ -2664,11 +3668,27 @@
 :handleId "end"
 :point [0.5 0.5]
 :distance 4}
+:0fbc60d1-5151-11f0-8621-3954fda0263e 
+{:id "0fbc60d1-5151-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "0fbc60d2-5151-11f0-8621-3954fda0263e"
+:toId "f0515160-5150-11f0-8621-3954fda0263e"
+:handleId "end"
+:point [0.49 0.82]
+:distance 4}
 :48346c70-50a0-11f0-a877-7b31214a5acb 
 {:id "48346c70-50a0-11f0-a877-7b31214a5acb"
 :type "line"
 :fromId "48346c72-50a0-11f0-a877-7b31214a5acb"
 :toId "f9606a40-5095-11f0-a877-7b31214a5acb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:11c732e0-517b-11f0-8621-3954fda0263e 
+{:id "11c732e0-517b-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "11c732e2-517b-11f0-8621-3954fda0263e"
+:toId "41ef1660-5165-11f0-8621-3954fda0263e"
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
@@ -2704,11 +3724,27 @@
 :handleId "end"
 :point [0.5 0.59]
 :distance 4}
+:13a93951-517b-11f0-8621-3954fda0263e 
+{:id "13a93951-517b-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "13a93952-517b-11f0-8621-3954fda0263e"
+:toId "967a5e60-5179-11f0-8621-3954fda0263e"
+:handleId "end"
+:point [0.46 0.56]
+:distance 4}
 :8b1d36f0-50ac-11f0-a877-7b31214a5acb 
 {:id "8b1d36f0-50ac-11f0-a877-7b31214a5acb"
 :type "line"
 :fromId "8b1d36f2-50ac-11f0-a877-7b31214a5acb"
 :toId "da19d0c0-50ab-11f0-a877-7b31214a5acb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:0594d880-515b-11f0-8621-3954fda0263e 
+{:id "0594d880-515b-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "0594d882-515b-11f0-8621-3954fda0263e"
+:toId "30665f40-5159-11f0-8621-3954fda0263e"
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
@@ -2726,6 +3762,14 @@
 :fromId "6ce4fbd2-50a4-11f0-a877-7b31214a5acb"
 :toId "9fe54720-50a3-11f0-a877-7b31214a5acb"
 :handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:0594d881-515b-11f0-8621-3954fda0263e 
+{:id "0594d881-515b-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "0594d882-515b-11f0-8621-3954fda0263e"
+:toId "26afb040-515a-11f0-8621-3954fda0263e"
+:handleId "end"
 :point [0.5 0.5]
 :distance 4}
 :a70bf511-50a5-11f0-a877-7b31214a5acb 
@@ -2792,6 +3836,14 @@
 :handleId "end"
 :point [0.5 0.95]
 :distance 4}
+:e259d121-5161-11f0-8621-3954fda0263e 
+{:id "e259d121-5161-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "e259f830-5161-11f0-8621-3954fda0263e"
+:toId "d1015b50-5161-11f0-8621-3954fda0263e"
+:handleId "end"
+:point [0.49 0.66]
+:distance 4}
 :d30fe7b1-50ab-11f0-a877-7b31214a5acb 
 {:id "d30fe7b1-50ab-11f0-a877-7b31214a5acb"
 :type "line"
@@ -2822,6 +3874,22 @@
 :fromId "29379f50-4fc8-11f0-bfdc-d7178148d623"
 :toId "29375130-4fc8-11f0-bfdc-d7178148d623"
 :handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:e2d08061-5164-11f0-8621-3954fda0263e 
+{:id "e2d08061-5164-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "e2d0a770-5164-11f0-8621-3954fda0263e"
+:toId "96e588d0-5164-11f0-8621-3954fda0263e"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:0fbc60d0-5151-11f0-8621-3954fda0263e 
+{:id "0fbc60d0-5151-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "0fbc60d2-5151-11f0-8621-3954fda0263e"
+:toId "98d5d730-5150-11f0-8621-3954fda0263e"
+:handleId "start"
 :point [0.5 0.5]
 :distance 4}
 :e328f401-4fcc-11f0-bfdc-d7178148d623 
@@ -2856,13 +3924,13 @@
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
-:758429e1-50af-11f0-a877-7b31214a5acb 
-{:id "758429e1-50af-11f0-a877-7b31214a5acb"
+:f4a6fdd0-517a-11f0-8621-3954fda0263e 
+{:id "f4a6fdd0-517a-11f0-8621-3954fda0263e"
 :type "line"
-:fromId "758429e2-50af-11f0-a877-7b31214a5acb"
-:toId "63360970-50af-11f0-a877-7b31214a5acb"
-:handleId "end"
-:point [0.47 0.79]
+:fromId "f4a724e0-517a-11f0-8621-3954fda0263e"
+:toId "967a5e60-5179-11f0-8621-3954fda0263e"
+:handleId "start"
+:point [0.5 0.5]
 :distance 4}
 :be751d51-5099-11f0-a877-7b31214a5acb 
 {:id "be751d51-5099-11f0-a877-7b31214a5acb"
@@ -2878,6 +3946,14 @@
 :fromId "00b786f2-50ac-11f0-a877-7b31214a5acb"
 :toId "a0ed5660-50a5-11f0-a877-7b31214a5acb"
 :handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:eaf333d1-5161-11f0-8621-3954fda0263e 
+{:id "eaf333d1-5161-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "eaf35ae0-5161-11f0-8621-3954fda0263e"
+:toId "e62fdf60-5161-11f0-8621-3954fda0263e"
+:handleId "end"
 :point [0.5 0.5]
 :distance 4}
 :8c42e691-4fcd-11f0-bfdc-d7178148d623 
@@ -2904,6 +3980,22 @@
 :handleId "end"
 :point [0.51 0.79]
 :distance 4}
+:0bdff7e1-517b-11f0-8621-3954fda0263e 
+{:id "0bdff7e1-517b-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "09de5b80-517b-11f0-8621-3954fda0263e"
+:toId "f6b4d360-5173-11f0-8621-3954fda0263e"
+:handleId "start"
+:point [0.25 0.49]
+:distance 4}
+:09de3471-517b-11f0-8621-3954fda0263e 
+{:id "09de3471-517b-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "09de5b80-517b-11f0-8621-3954fda0263e"
+:toId "b990a610-517a-11f0-8621-3954fda0263e"
+:handleId "end"
+:point [0.37 0.64]
+:distance 4}
 :b7d39410-4fca-11f0-bfdc-d7178148d623 
 {:id "b7d39410-4fca-11f0-bfdc-d7178148d623"
 :type "line"
@@ -2927,6 +4019,14 @@
 :toId "9292fbd0-5099-11f0-a877-7b31214a5acb"
 :handleId "start"
 :point [0.5 0.5]
+:distance 4}
+:50fdb151-5167-11f0-8621-3954fda0263e 
+{:id "50fdb151-5167-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "4ea7b362-5167-11f0-8621-3954fda0263e"
+:toId "41ef1660-5165-11f0-8621-3954fda0263e"
+:handleId "end"
+:point [0.49 0.71]
 :distance 4}
 :d2bc5e30-5063-11f0-b666-3f00e4227e8b 
 {:id "d2bc5e30-5063-11f0-b666-3f00e4227e8b"
@@ -2952,11 +4052,19 @@
 :handleId "end"
 :point [0.43 0.7]
 :distance 4}
-:758429e0-50af-11f0-a877-7b31214a5acb 
-{:id "758429e0-50af-11f0-a877-7b31214a5acb"
+:e259d120-5161-11f0-8621-3954fda0263e 
+{:id "e259d120-5161-11f0-8621-3954fda0263e"
 :type "line"
-:fromId "758429e2-50af-11f0-a877-7b31214a5acb"
-:toId "103d16b0-509a-11f0-a877-7b31214a5acb"
+:fromId "e259f830-5161-11f0-8621-3954fda0263e"
+:toId "26afb040-515a-11f0-8621-3954fda0263e"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:eaf333d0-5161-11f0-8621-3954fda0263e 
+{:id "eaf333d0-5161-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "eaf35ae0-5161-11f0-8621-3954fda0263e"
+:toId "d1015b50-5161-11f0-8621-3954fda0263e"
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
@@ -2976,6 +4084,14 @@
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
+:2636afe0-517f-11f0-8621-3954fda0263e 
+{:id "2636afe0-517f-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "2636afe2-517f-11f0-8621-3954fda0263e"
+:toId "6ca22570-50af-11f0-a877-7b31214a5acb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
 :44fe6ec0-50a0-11f0-a877-7b31214a5acb 
 {:id "44fe6ec0-50a0-11f0-a877-7b31214a5acb"
 :type "line"
@@ -2992,11 +4108,43 @@
 :handleId "end"
 :point [0.46 0.8]
 :distance 4}
+:3ef696e1-5165-11f0-8621-3954fda0263e 
+{:id "3ef696e1-5165-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "3ef6bdf0-5165-11f0-8621-3954fda0263e"
+:toId "0fe8ff00-5165-11f0-8621-3954fda0263e"
+:handleId "end"
+:point [0.49 0.96]
+:distance 4}
+:11c732e1-517b-11f0-8621-3954fda0263e 
+{:id "11c732e1-517b-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "11c732e2-517b-11f0-8621-3954fda0263e"
+:toId "d8651470-5172-11f0-8621-3954fda0263e"
+:handleId "end"
+:point [0.46 0.55]
+:distance 4}
 :be751d50-5099-11f0-a877-7b31214a5acb 
 {:id "be751d50-5099-11f0-a877-7b31214a5acb"
 :type "line"
 :fromId "be751d52-5099-11f0-a877-7b31214a5acb"
 :toId "9292fbd0-5099-11f0-a877-7b31214a5acb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:a4cc98e0-5154-11f0-8621-3954fda0263e 
+{:id "a4cc98e0-5154-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "a4ccbff0-5154-11f0-8621-3954fda0263e"
+:toId "f0515160-5150-11f0-8621-3954fda0263e"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:13a93950-517b-11f0-8621-3954fda0263e 
+{:id "13a93950-517b-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "13a93952-517b-11f0-8621-3954fda0263e"
+:toId "d8651470-5172-11f0-8621-3954fda0263e"
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
@@ -3015,6 +4163,14 @@
 :toId "b1951150-4fca-11f0-bfdc-d7178148d623"
 :handleId "start"
 :point [0.5 0.5]
+:distance 4}
+:f4a6fdd1-517a-11f0-8621-3954fda0263e 
+{:id "f4a6fdd1-517a-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "f4a724e0-517a-11f0-8621-3954fda0263e"
+:toId "f6b4d360-5173-11f0-8621-3954fda0263e"
+:handleId "end"
+:point [0.39 0.58]
 :distance 4}
 :4a633351-50a0-11f0-a877-7b31214a5acb 
 {:id "4a633351-50a0-11f0-a877-7b31214a5acb"
@@ -3063,6 +4219,14 @@
 :toId "a0ed5660-50a5-11f0-a877-7b31214a5acb"
 :handleId "start"
 :point [0.5 0.63]
+:distance 4}
+:02f77151-515b-11f0-8621-3954fda0263e 
+{:id "02f77151-515b-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "02f79860-515b-11f0-8621-3954fda0263e"
+:toId "30665f40-5159-11f0-8621-3954fda0263e"
+:handleId "end"
+:point [0.5 0.5]
 :distance 4}
 :28652232-4fca-11f0-bfdc-d7178148d623 
 {:id "28652232-4fca-11f0-bfdc-d7178148d623"
@@ -3120,6 +4284,14 @@
 :handleId "end"
 :point [0.22 0.44]
 :distance 4}
+:a9d47061-5154-11f0-8621-3954fda0263e 
+{:id "a9d47061-5154-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "a4ccbff0-5154-11f0-8621-3954fda0263e"
+:toId "ee90d550-5153-11f0-8621-3954fda0263e"
+:handleId "end"
+:point [0.51 0.51]
+:distance 4}
 :b3ccfee1-5099-11f0-a877-7b31214a5acb 
 {:id "b3ccfee1-5099-11f0-a877-7b31214a5acb"
 :type "line"
@@ -3141,6 +4313,14 @@
 :type "line"
 :fromId "b7d39411-4fca-11f0-bfdc-d7178148d623"
 :toId "7147e2d0-4fca-11f0-bfdc-d7178148d623"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:ea8da3f0-5150-11f0-8621-3954fda0263e 
+{:id "ea8da3f0-5150-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "ea8da3f2-5150-11f0-8621-3954fda0263e"
+:toId "103d16b0-509a-11f0-a877-7b31214a5acb"
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
@@ -3192,11 +4372,27 @@
 :handleId "end"
 :point [0.5 0.5]
 :distance 4}
+:02f77150-515b-11f0-8621-3954fda0263e 
+{:id "02f77150-515b-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "02f79860-515b-11f0-8621-3954fda0263e"
+:toId "ee90d550-5153-11f0-8621-3954fda0263e"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
 :29379f51-4fc8-11f0-bfdc-d7178148d623 
 {:id "29379f51-4fc8-11f0-bfdc-d7178148d623"
 :type "line"
 :fromId "29379f50-4fc8-11f0-bfdc-d7178148d623"
 :toId "a6f8f310-4fc5-11f0-bfdc-d7178148d623"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:e2d08060-5164-11f0-8621-3954fda0263e 
+{:id "e2d08060-5164-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "e2d0a770-5164-11f0-8621-3954fda0263e"
+:toId "e62fdf60-5161-11f0-8621-3954fda0263e"
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
@@ -3208,11 +4404,35 @@
 :handleId "end"
 :point [0.25 0.55]
 :distance 4}
+:4ea7b360-5167-11f0-8621-3954fda0263e 
+{:id "4ea7b360-5167-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "4ea7b362-5167-11f0-8621-3954fda0263e"
+:toId "0fe8ff00-5165-11f0-8621-3954fda0263e"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
 :72d693e0-50a0-11f0-a877-7b31214a5acb 
 {:id "72d693e0-50a0-11f0-a877-7b31214a5acb"
 :type "line"
 :fromId "72d693e2-50a0-11f0-a877-7b31214a5acb"
 :toId "014342a0-50a0-11f0-a877-7b31214a5acb"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:2636afe1-517f-11f0-8621-3954fda0263e 
+{:id "2636afe1-517f-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "2636afe2-517f-11f0-8621-3954fda0263e"
+:toId "0985d3e0-517e-11f0-8621-3954fda0263e"
+:handleId "end"
+:point [0.48 0.69]
+:distance 4}
+:09de3470-517b-11f0-8621-3954fda0263e 
+{:id "09de3470-517b-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "09de5b80-517b-11f0-8621-3954fda0263e"
+:toId "f6b4d360-5173-11f0-8621-3954fda0263e"
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
@@ -3272,6 +4492,14 @@
 :handleId "start"
 :point [0.5 0.5]
 :distance 4}
+:ea8da3f1-5150-11f0-8621-3954fda0263e 
+{:id "ea8da3f1-5150-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "ea8da3f2-5150-11f0-8621-3954fda0263e"
+:toId "98d5d730-5150-11f0-8621-3954fda0263e"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
 :ad31b621-5099-11f0-a877-7b31214a5acb 
 {:id "ad31b621-5099-11f0-a877-7b31214a5acb"
 :type "line"
@@ -3279,6 +4507,14 @@
 :toId "9292fbd0-5099-11f0-a877-7b31214a5acb"
 :handleId "end"
 :point [0.52 0.81]
+:distance 4}
+:a4cc98e1-5154-11f0-8621-3954fda0263e 
+{:id "a4cc98e1-5154-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "a4ccbff0-5154-11f0-8621-3954fda0263e"
+:toId "ee90d550-5153-11f0-8621-3954fda0263e"
+:handleId "end"
+:point [0.53 0.59]
 :distance 4}
 :a34cf741-5063-11f0-b666-3f00e4227e8b 
 {:id "a34cf741-5063-11f0-b666-3f00e4227e8b"
@@ -3295,6 +4531,14 @@
 :toId "8fdf8790-4fc8-11f0-bfdc-d7178148d623"
 :handleId "start"
 :point [0.5 0.5]
+:distance 4}
+:4ea7b361-5167-11f0-8621-3954fda0263e 
+{:id "4ea7b361-5167-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "4ea7b362-5167-11f0-8621-3954fda0263e"
+:toId "41ef1660-5165-11f0-8621-3954fda0263e"
+:handleId "end"
+:point [0.5 0.87]
 :distance 4}
 :103d3dc2-509a-11f0-a877-7b31214a5acb 
 {:id "103d3dc2-509a-11f0-a877-7b31214a5acb"
@@ -3314,9 +4558,9 @@
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("9f943fd0-4fc5-11f0-bfdc-d7178148d623" "a6f8f310-4fc5-11f0-bfdc-d7178148d623" "29375130-4fc8-11f0-bfdc-d7178148d623" "29379f50-4fc8-11f0-bfdc-d7178148d623" "4bcf5da0-4fc8-11f0-bfdc-d7178148d623" "6c228320-4fc8-11f0-bfdc-d7178148d623" "6c228321-4fc8-11f0-bfdc-d7178148d623" "8fdf8790-4fc8-11f0-bfdc-d7178148d623" "8fdfaea0-4fc8-11f0-bfdc-d7178148d623" "94da18a0-4fc8-11f0-bfdc-d7178148d623" "94da18a1-4fc8-11f0-bfdc-d7178148d623" "d9cb2cb2-4fc8-11f0-bfdc-d7178148d623" "dc0c6a20-4fc8-11f0-bfdc-d7178148d623" "dc0c9130-4fc8-11f0-bfdc-d7178148d623" "1e294f92-4fc9-11f0-bfdc-d7178148d623" "2f246320-4fc9-11f0-bfdc-d7178148d623" "2f248a30-4fc9-11f0-bfdc-d7178148d623" "2864fb20-4fca-11f0-bfdc-d7178148d623" "28652230-4fca-11f0-bfdc-d7178148d623" "7147e2d0-4fca-11f0-bfdc-d7178148d623" "714809e0-4fca-11f0-bfdc-d7178148d623" "b1951150-4fca-11f0-bfdc-d7178148d623" "b7d39411-4fca-11f0-bfdc-d7178148d623" "f9e248b0-4fca-11f0-bfdc-d7178148d623" "fe8e4492-4fca-11f0-bfdc-d7178148d623" "995e9280-4fcc-11f0-bfdc-d7178148d623" "a7094292-4fcc-11f0-bfdc-d7178148d623" "de122860-4fcc-11f0-bfdc-d7178148d623" "e328f402-4fcc-11f0-bfdc-d7178148d623" "84376c00-4fcd-11f0-bfdc-d7178148d623" "8c42e692-4fcd-11f0-bfdc-d7178148d623" "a34ca920-5063-11f0-b666-3f00e4227e8b" "a34cf740-5063-11f0-b666-3f00e4227e8b" "beb93ac0-5063-11f0-b666-3f00e4227e8b" "d2bc8541-5063-11f0-b666-3f00e4227e8b" "1a166d10-5092-11f0-a877-7b31214a5acb" "210972c0-5092-11f0-a877-7b31214a5acb" "26530e32-5092-11f0-a877-7b31214a5acb" "a5f9dc12-5095-11f0-a877-7b31214a5acb" "f9606a40-5095-11f0-a877-7b31214a5acb" "78b06cf0-5096-11f0-a877-7b31214a5acb" "9292fbd0-5099-11f0-a877-7b31214a5acb" "aa9909e2-5099-11f0-a877-7b31214a5acb" "ad31b622-5099-11f0-a877-7b31214a5acb" "be751d52-5099-11f0-a877-7b31214a5acb" "103d16b0-509a-11f0-a877-7b31214a5acb" "103d3dc0-509a-11f0-a877-7b31214a5acb" "11a8b4a0-509a-11f0-a877-7b31214a5acb" "11a8dbb0-509a-11f0-a877-7b31214a5acb" "ef2c85e0-509f-11f0-a877-7b31214a5acb" "fe548720-509f-11f0-a877-7b31214a5acb" "014342a0-50a0-11f0-a877-7b31214a5acb" "3a877270-50a0-11f0-a877-7b31214a5acb" "44fe6ec2-50a0-11f0-a877-7b31214a5acb" "48346c72-50a0-11f0-a877-7b31214a5acb" "5b830cf0-50a0-11f0-a877-7b31214a5acb" "72d693e2-50a0-11f0-a877-7b31214a5acb" "38534270-50a2-11f0-a877-7b31214a5acb" "141cf9e0-50a3-11f0-a877-7b31214a5acb" "9fe54720-50a3-11f0-a877-7b31214a5acb" "a4f757d0-50a3-11f0-a877-7b31214a5acb" "691be5e0-50a4-11f0-a877-7b31214a5acb" "6ce4fbd2-50a4-11f0-a877-7b31214a5acb" "7fdb26a0-50a5-11f0-a877-7b31214a5acb" "8d55c602-50a5-11f0-a877-7b31214a5acb" "a0ed5660-50a5-11f0-a877-7b31214a5acb" "a70c1c20-50a5-11f0-a877-7b31214a5acb" "cf147722-50ab-11f0-a877-7b31214a5acb" "da19d0c0-50ab-11f0-a877-7b31214a5acb" "00b786f2-50ac-11f0-a877-7b31214a5acb" "0cd63fd0-50ac-11f0-a877-7b31214a5acb" "8b1d36f2-50ac-11f0-a877-7b31214a5acb" "c942d510-50ad-11f0-a877-7b31214a5acb" "99f160f1-50ae-11f0-a877-7b31214a5acb" "63360970-50af-11f0-a877-7b31214a5acb" "6ca22570-50af-11f0-a877-7b31214a5acb" "70964300-50af-11f0-a877-7b31214a5acb" "758429e2-50af-11f0-a877-7b31214a5acb")}}
+:shapes-index ("a6f8f310-4fc5-11f0-bfdc-d7178148d623" "29375130-4fc8-11f0-bfdc-d7178148d623" "29379f50-4fc8-11f0-bfdc-d7178148d623" "4bcf5da0-4fc8-11f0-bfdc-d7178148d623" "6c228320-4fc8-11f0-bfdc-d7178148d623" "6c228321-4fc8-11f0-bfdc-d7178148d623" "8fdf8790-4fc8-11f0-bfdc-d7178148d623" "8fdfaea0-4fc8-11f0-bfdc-d7178148d623" "94da18a0-4fc8-11f0-bfdc-d7178148d623" "94da18a1-4fc8-11f0-bfdc-d7178148d623" "d9cb2cb2-4fc8-11f0-bfdc-d7178148d623" "dc0c6a20-4fc8-11f0-bfdc-d7178148d623" "dc0c9130-4fc8-11f0-bfdc-d7178148d623" "1e294f92-4fc9-11f0-bfdc-d7178148d623" "2f246320-4fc9-11f0-bfdc-d7178148d623" "2f248a30-4fc9-11f0-bfdc-d7178148d623" "2864fb20-4fca-11f0-bfdc-d7178148d623" "28652230-4fca-11f0-bfdc-d7178148d623" "7147e2d0-4fca-11f0-bfdc-d7178148d623" "714809e0-4fca-11f0-bfdc-d7178148d623" "b1951150-4fca-11f0-bfdc-d7178148d623" "b7d39411-4fca-11f0-bfdc-d7178148d623" "f9e248b0-4fca-11f0-bfdc-d7178148d623" "fe8e4492-4fca-11f0-bfdc-d7178148d623" "995e9280-4fcc-11f0-bfdc-d7178148d623" "a7094292-4fcc-11f0-bfdc-d7178148d623" "de122860-4fcc-11f0-bfdc-d7178148d623" "e328f402-4fcc-11f0-bfdc-d7178148d623" "84376c00-4fcd-11f0-bfdc-d7178148d623" "8c42e692-4fcd-11f0-bfdc-d7178148d623" "a34ca920-5063-11f0-b666-3f00e4227e8b" "a34cf740-5063-11f0-b666-3f00e4227e8b" "beb93ac0-5063-11f0-b666-3f00e4227e8b" "d2bc8541-5063-11f0-b666-3f00e4227e8b" "1a166d10-5092-11f0-a877-7b31214a5acb" "210972c0-5092-11f0-a877-7b31214a5acb" "26530e32-5092-11f0-a877-7b31214a5acb" "a5f9dc12-5095-11f0-a877-7b31214a5acb" "f9606a40-5095-11f0-a877-7b31214a5acb" "78b06cf0-5096-11f0-a877-7b31214a5acb" "9292fbd0-5099-11f0-a877-7b31214a5acb" "aa9909e2-5099-11f0-a877-7b31214a5acb" "ad31b622-5099-11f0-a877-7b31214a5acb" "be751d52-5099-11f0-a877-7b31214a5acb" "103d16b0-509a-11f0-a877-7b31214a5acb" "103d3dc0-509a-11f0-a877-7b31214a5acb" "11a8b4a0-509a-11f0-a877-7b31214a5acb" "11a8dbb0-509a-11f0-a877-7b31214a5acb" "ef2c85e0-509f-11f0-a877-7b31214a5acb" "fe548720-509f-11f0-a877-7b31214a5acb" "014342a0-50a0-11f0-a877-7b31214a5acb" "3a877270-50a0-11f0-a877-7b31214a5acb" "44fe6ec2-50a0-11f0-a877-7b31214a5acb" "48346c72-50a0-11f0-a877-7b31214a5acb" "5b830cf0-50a0-11f0-a877-7b31214a5acb" "72d693e2-50a0-11f0-a877-7b31214a5acb" "38534270-50a2-11f0-a877-7b31214a5acb" "141cf9e0-50a3-11f0-a877-7b31214a5acb" "9fe54720-50a3-11f0-a877-7b31214a5acb" "a4f757d0-50a3-11f0-a877-7b31214a5acb" "691be5e0-50a4-11f0-a877-7b31214a5acb" "6ce4fbd2-50a4-11f0-a877-7b31214a5acb" "7fdb26a0-50a5-11f0-a877-7b31214a5acb" "8d55c602-50a5-11f0-a877-7b31214a5acb" "a0ed5660-50a5-11f0-a877-7b31214a5acb" "a70c1c20-50a5-11f0-a877-7b31214a5acb" "cf147722-50ab-11f0-a877-7b31214a5acb" "da19d0c0-50ab-11f0-a877-7b31214a5acb" "00b786f2-50ac-11f0-a877-7b31214a5acb" "0cd63fd0-50ac-11f0-a877-7b31214a5acb" "8b1d36f2-50ac-11f0-a877-7b31214a5acb" "c942d510-50ad-11f0-a877-7b31214a5acb" "99f160f1-50ae-11f0-a877-7b31214a5acb" "6ca22570-50af-11f0-a877-7b31214a5acb" "70964300-50af-11f0-a877-7b31214a5acb" "98d5d730-5150-11f0-8621-3954fda0263e" "ea8da3f2-5150-11f0-8621-3954fda0263e" "f0515160-5150-11f0-8621-3954fda0263e" "0fbc60d2-5151-11f0-8621-3954fda0263e" "ee90d550-5153-11f0-8621-3954fda0263e" "a4ccbff0-5154-11f0-8621-3954fda0263e" "30665f40-5159-11f0-8621-3954fda0263e" "26afb040-515a-11f0-8621-3954fda0263e" "02f79860-515b-11f0-8621-3954fda0263e" "0594d882-515b-11f0-8621-3954fda0263e" "d1015b50-5161-11f0-8621-3954fda0263e" "e259f830-5161-11f0-8621-3954fda0263e" "e62fdf60-5161-11f0-8621-3954fda0263e" "eaf35ae0-5161-11f0-8621-3954fda0263e" "96e588d0-5164-11f0-8621-3954fda0263e" "e2d0a770-5164-11f0-8621-3954fda0263e" "0fe8ff00-5165-11f0-8621-3954fda0263e" "3ef6bdf0-5165-11f0-8621-3954fda0263e" "41ef1660-5165-11f0-8621-3954fda0263e" "4ea7b362-5167-11f0-8621-3954fda0263e" "d8651470-5172-11f0-8621-3954fda0263e" "f6b4d360-5173-11f0-8621-3954fda0263e" "967a5e60-5179-11f0-8621-3954fda0263e" "b990a610-517a-11f0-8621-3954fda0263e" "f4a724e0-517a-11f0-8621-3954fda0263e" "09de5b80-517b-11f0-8621-3954fda0263e" "11c732e2-517b-11f0-8621-3954fda0263e" "13a93952-517b-11f0-8621-3954fda0263e" "0985d3e0-517e-11f0-8621-3954fda0263e" "2636afe2-517f-11f0-8621-3954fda0263e")}}
 :block/journal? false
-:block/updated-at 1750737659331
+:block/updated-at 1750826704742
 :block/created-at 1750637053410
 :block/type "whiteboard"
 :block/name "funcionamento do magisk"
