@@ -1,0 +1,2223 @@
+{:blocks (
+{:block/created-at 1750273185299
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 16
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "c3789680-4c50-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill true
+:point [-606.67 -433.42]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "c3789681-4c50-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [1192.27 373.18]
+:bindingId "c378bd90-4c50-11f0-86df-8527de875ac2"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750257021581
+:italic false}}
+:block/updated-at 1750273185299} 
+{:block/created-at 1750275937355
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 43
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [307.89162519411593 56.203066726990414]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "b0802850-4c7c-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill false
+:point [-2154.720763380242 173.4006332461089]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750275887259
+:italic false}}
+:block/updated-at 1750275937355} 
+{:block/created-at 1750273203531
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 26
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "70b6c0e2-4c5d-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill true
+:point [-697.77 -96.25]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.35 0]
+:bindingId "70b6c0e0-4c5d-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [0 14.98]
+:bindingId "70b6c0e1-4c5d-11f0-86df-8527de875ac2"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750262465985
+:italic false}}
+:block/updated-at 1750273203531} 
+{:block/created-at 1750256985785
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 7
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [274 56]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Usando Windows"
+:id "899d5db0-4b1a-11f0-abc4-7b433ac1805a"
+:fontWeight 400
+:noFill false
+:point [1232 280]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750123780129
+:italic false}}
+:block/updated-at 1750256985785} 
+{:block/created-at 1750275941569
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 45
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [307.89162519411593 56.203066726990414]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "b1301760-4c7c-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill false
+:point [-3792.455138380242 199.9631332461089]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750275888507
+:italic false}}
+:block/updated-at 1750275941569} 
+{:block/created-at 1750125656422
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 11
+:scale [1 1]
+:pageId "6850c584-b74f-4721-97ba-8e1bbbe64371"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 89]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d5b13a00-4b1a-11f0-abc4-7b433ac1805a"
+:noFill false
+:point [792.5 447.5]
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:collapsedHeight 0
+:nonce 1750123907527}}
+:block/updated-at 1750125656422} 
+{:block/created-at 1750124121539
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 3
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [274 56]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Fazer backup do dados"
+:id "6454fe50-4b1a-11f0-abc4-7b433ac1805a"
+:fontWeight 400
+:noFill false
+:point [1058.5 119.5]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750123717462
+:italic false}}
+:block/updated-at 1750124121539} 
+{:block/created-at 1750273192730
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 19
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a7752d02-4c59-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill true
+:point [-702.81 -337.71]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.47 0]
+:bindingId "a7752d00-4c59-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [0 17.79]
+:bindingId "a7752d01-4c59-11f0-86df-8527de875ac2"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750260839827
+:italic false}}
+:block/updated-at 1750273192730} 
+{:block/created-at 1750275546108
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 37
+:scale [1 1]
+:pageId "685314f6-0556-459e-a77a-35147070401b"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 185]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5d3247b0-4c7b-11f0-86df-8527de875ac2"
+:noFill false
+:point [-1391.098537068512 348.64989814260014]
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:collapsedHeight 0
+:nonce 1750275317775}}
+:block/updated-at 1750275546108} 
+{:block/created-at 1750273206282
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 25
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "4635b600-4c5d-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill true
+:point [-1048.96 -29.5]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [210.95 0]
+:bindingId "4635b601-4c5d-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [0 28.58]
+:bindingId "4635b602-4c5d-11f0-86df-8527de875ac2"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750262395331
+:italic false}}
+:block/updated-at 1750273206282} 
+{:block/created-at 1750125656427
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "f59aa132-4b1a-11f0-abc4-7b433ac1805a"
+:fontWeight 400
+:noFill true
+:point [993.86 428]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "f59aa130-4b1a-11f0-abc4-7b433ac1805a"}
+:end 
+{:id "end"
+:canBind true
+:point [0.46 15.5]
+:bindingId "f59aa131-4b1a-11f0-abc4-7b433ac1805a"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750123961126
+:italic false}}
+:block/updated-at 1750125656427} 
+{:block/created-at 1750296729085
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 23
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "4537a6f0-4c5d-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill true
+:point [-691.46 -21.07]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "4537a6f1-4c5d-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [0.5 9.99]
+:bindingId "4537a6f2-4c5d-11f0-86df-8527de875ac2"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750262393688
+:italic false}}
+:block/updated-at 1750296729085} 
+{:block/created-at 1750275938530
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 41
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [307.89162519411593 56.203066726990414]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "afc7fbe0-4c7c-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill false
+:point [-2706.283263380242 207.7756332461089]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750275885924
+:italic false}}
+:block/updated-at 1750275938530} 
+{:block/content "Alguns arquivo .img comuns são:\n\nrecovery.img: Arquivo responsável por fornecer ao usuário uma interface para fazer o gerenciamento básico do dispositivo, como opções para redefinação para padrões de fábrica, restauração, testes de gráficos/apps, entre outras opções.\n\nboot.img: Arquivo que carrega o kernel e ramdisk (initramfs) padrão para fábricante, eles geralmente são modificados e implementam e fornecem funcionalidades específicas para o dispositivo.\n\nvendor.img: Possui Drivers e firmwares carregáveis para os diferentes componentes e dispositivos presentes no dispositivo.\n\nvbmeta.img: Responsável por fazer a verificação de bootloader e imagens \"flasheadas\" nas partições do dispositivo.\n\nsystem.img: Fornece os binários e utilitários utilizados pelo sistema operacional."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "685314f6-0556-459e-a77a-35147070401b"}
+:block/parent 
+{:block/uuid #uuid "6850c470-b17d-47ad-bc10-8f27d4b6dd42"}
+:block/properties 
+{}
+:block/uuid #uuid "685315dc-fb31-4963-8171-4a1ed743f1f2"} 
+{:block/created-at 1750261251354
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "64552560-4b1a-11f0-abc4-7b433ac1805a"
+:fontWeight 400
+:noFill true
+:point [684.44 0.76]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "cf760bc1-4c50-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [399.61 114.74]
+:bindingId "64552562-4b1a-11f0-abc4-7b433ac1805a"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750123718449
+:italic false}}
+:block/updated-at 1750261251354} 
+{:block/content "Usar comando ADB para fazer pull e push entre o sistema de arquivo do android e computador.\nOu usar \"adb backup\"."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6850c470-b17d-47ad-bc10-8f27d4b6dd42"}
+:block/parent 
+{:block/uuid #uuid "6850c470-b17d-47ad-bc10-8f27d4b6dd42"}
+:block/properties 
+{}
+:block/uuid #uuid "6850c584-b74f-4721-97ba-8e1bbbe64371"} 
+{:block/created-at 1750273229677
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 35
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "80a3b670-4c76-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill true
+:point [194.64 85.71]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "80a3b671-4c76-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [0 95]
+:bindingId "80a3b672-4c76-11f0-86df-8527de875ac2"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750273229656
+:italic false}}
+:block/updated-at 1750273229677} 
+{:block/content "Esses arquivo de .img e .bin possuem muitas funções e responsabilidades, eles são responsáveis por gerenciar e fornecerem as funcionalidades que os dispositivos de hardware possuem, além de fornecerem os componentes básicos e cruciais para o funcionamento do smartphone."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "68530ff1-69f6-4e51-93b1-bf36265d0573"}
+:block/parent 
+{:block/uuid #uuid "6850c470-b17d-47ad-bc10-8f27d4b6dd42"}
+:block/properties 
+{}
+:block/uuid #uuid "685314f6-0556-459e-a77a-35147070401b"} 
+{:block/created-at 1750273198066
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 20
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "ab16bdc2-4c59-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill true
+:point [-700.28 -225.92]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "ab16bdc0-4c59-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [0.02 11.67]
+:bindingId "ab16bdc1-4c59-11f0-86df-8527de875ac2"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750260845950
+:italic false}}
+:block/updated-at 1750273198066} 
+{:block/content "Reduzindo a medo que geralmente as pessoas possuem sobre as operações de modificação do celular, como root e customização do recovery com TWRP."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6852cdff-2f69-4ee4-ac42-473fd34c93bf"}
+:block/parent 
+{:block/uuid #uuid "6850c470-b17d-47ad-bc10-8f27d4b6dd42"}
+:block/properties 
+{}
+:block/uuid #uuid "6852d05b-6c91-44e5-886c-6ab7ef8fd001"} 
+{:block/created-at 1750275940193
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 47
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [307.89162519411593 56.203066726990414]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "b2885460-4c7c-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill false
+:point [-3215.658263380242 206.2131332461089]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750275890668
+:italic false}}
+:block/updated-at 1750275940193} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6852f0bb-a93f-4042-9ff7-5c5ccb315b26"}
+:block/parent 
+{:block/uuid #uuid "6850c470-b17d-47ad-bc10-8f27d4b6dd42"}
+:block/uuid #uuid "6852f0bd-8c10-4695-a53c-875074bead3c"} 
+{:block/created-at 1750275946538
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 40
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "5d2a3bf0-4c7c-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill true
+:point [-2661.58 7.63]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [1299.73 11.49]
+:bindingId "5d2a3bf1-4c7c-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "5d2a3bf2-4c7c-11f0-86df-8527de875ac2"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750275747852
+:italic false}}
+:block/updated-at 1750275946538} 
+{:block/created-at 1750296729085
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 22
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [317.24807718174134 56.203066726990414]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Esquema de particionamento"
+:id "45377fe0-4c5d-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill false
+:point [-848 -8]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750262394478
+:italic false}}
+:block/updated-at 1750296729085} 
+{:block/created-at 1750275946539
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 39
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [307.89162519411593 56.203066726990414]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Estrutura Stock ROM Samsung"
+:id "5d2a14e0-4c7c-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill false
+:point [-2973.470763380242 -21.86493348088146]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750275748671
+:italic false}}
+:block/updated-at 1750275946539} 
+{:block/created-at 1750273192730
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 17
+:scale [1 1]
+:pageId "6852cdff-2f69-4ee4-ac42-473fd34c93bf"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 89.00002297261153]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1125fe90-4c51-11f0-86df-8527de875ac2"
+:noFill false
+:point [-900.3412669201888 -315.91882283170895]
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:collapsedHeight 0
+:nonce 1750257151848}}
+:block/updated-at 1750273192730} 
+{:block/created-at 1750256982273
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 14
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a193fb90-4c50-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill true
+:point [1302.01 176.5]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "a193fb91-4c50-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [365.46 99.5]
+:bindingId "a19422a0-4c50-11f0-86df-8527de875ac2"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750256964136
+:italic false}}
+:block/updated-at 1750256982273} 
+{:block/created-at 1750273203531
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 21
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [288.2430760201024 56.203066726990414]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Conceitos básicos"
+:id "3667d7d0-4c5d-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill false
+:point [-837.0097825289489 -77.27081932233637]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750262368499
+:italic false}}
+:block/updated-at 1750273203531} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6852f0ba-d635-44db-a6b2-8ed3782c5956"}
+:block/parent 
+{:block/uuid #uuid "6850c470-b17d-47ad-bc10-8f27d4b6dd42"}
+:block/uuid #uuid "6852f0bb-a93f-4042-9ff7-5c5ccb315b26"} 
+{:block/created-at 1750275946539
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 44
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "b0804f60-4c7c-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill true
+:point [-2697.5 35.34]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "b0804f61-4c7c-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [562.12 134.06]
+:bindingId "b0804f62-4c7c-11f0-86df-8527de875ac2"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750275887190
+:italic false}}
+:block/updated-at 1750275946539} 
+{:block/created-at 1750275946539
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 48
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "b288a280-4c7c-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill true
+:point [-3027.63 35.34]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [177.2 0]
+:bindingId "b288a281-4c7c-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [0 166.87]
+:bindingId "b288a282-4c7c-11f0-86df-8527de875ac2"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750275890593
+:italic false}}
+:block/updated-at 1750275946539} 
+{:block/content "A Stock ROM é desenvolvida e instalada pela própria fabricante do seu dispositivo, pois ela é construida e organizada para se adequar perfeitamente as configurações de hardware do seu dispositivo e o esquema de particionamento do dispositivo de armazenamento."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6852f0bd-8c10-4695-a53c-875074bead3c"}
+:block/parent 
+{:block/uuid #uuid "6850c470-b17d-47ad-bc10-8f27d4b6dd42"}
+:block/properties 
+{}
+:block/uuid #uuid "68530ff1-69f6-4e51-93b1-bf36265d0573"} 
+{:block/content "Uma Stock ROM é conjunto de vários arquivos binários \".img/.bin\" que compõem e formam o seu sistema operacional, incluindo drivers e firmwares de fábrica."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6852d05b-6c91-44e5-886c-6ab7ef8fd001"}
+:block/parent 
+{:block/uuid #uuid "6850c470-b17d-47ad-bc10-8f27d4b6dd42"}
+:block/properties 
+{}
+:block/uuid #uuid "6852f0ba-d635-44db-a6b2-8ed3782c5956"} 
+{:block/created-at 1750256982273
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 13
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [274 56]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Google en outras formas"
+:id "a193d480-4c50-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill false
+:point [1648 280]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750256964419
+:italic false}}
+:block/updated-at 1750256982273} 
+{:block/created-at 1750273229677
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 34
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [288.2430760201024 69.3605773345887]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "80a38f60-4c76-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill false
+:point [50.51696268081855 184.70693712475997]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750273229654
+:italic false}}
+:block/updated-at 1750273229677} 
+{:block/created-at 1750275946539
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 42
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "afc822f0-4c7c-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill true
+:point [-2785.67 35.34]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "afc84a00-4c7c-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [195.98 168.44]
+:bindingId "afc84a01-4c7c-11f0-86df-8527de875ac2"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750275885910
+:italic false}}
+:block/updated-at 1750275946539} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6850c584-b74f-4721-97ba-8e1bbbe64371"}
+:block/parent 
+{:block/uuid #uuid "6850c470-b17d-47ad-bc10-8f27d4b6dd42"}
+:block/properties 
+{}
+:block/uuid #uuid "6850c5c2-dda1-4076-9f4c-a935b9a69c85"} 
+{:block/created-at 1750123898873
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 9
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [274 56]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Instalar e utilizar comandos ADB"
+:id "ac1beeb0-4b1a-11f0-abc4-7b433ac1805a"
+:fontWeight 400
+:noFill false
+:point [856 371]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750123838419
+:italic false}}
+:block/updated-at 1750123898873} 
+{:block/created-at 1750273185300
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [274 56]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Processo"
+:id "56bec0a0-4b1a-11f0-abc4-7b433ac1805a"
+:fontWeight 400
+:noFill false
+:point [-836.3203785109008 -490.4245628186872]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750123696081
+:italic false}}
+:block/updated-at 1750273185300} 
+{:block/created-at 1750273188444
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 1
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [274 56]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Obter informações"
+:id "5c942150-4b1a-11f0-abc4-7b433ac1805a"
+:fontWeight 400
+:noFill false
+:point [-838.5713570389204 -394.7140595003727]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750123705560
+:italic false}}
+:block/updated-at 1750273188444} 
+{:block/created-at 1750261251353
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 15
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [274 56]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Preparação"
+:id "c3786f70-4c50-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill false
+:point [550.8321064795001 -56.23823993348077]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750257021715
+:italic false}}
+:block/updated-at 1750261251353} 
+{:block/created-at 1750273198066
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 18
+:scale [1 1]
+:pageId "6852d05b-6c91-44e5-886c-6ab7ef8fd001"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 113.00005900440753]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "78b76700-4c52-11f0-86df-8527de875ac2"
+:noFill false
+:point [-896.072385700835 -210.24939319646364]
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:collapsedHeight 0
+:nonce 1750257755041}}
+:block/updated-at 1750273198066} 
+{:block/created-at 1750124121539
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "81b0dcd1-4b1a-11f0-abc4-7b433ac1805a"
+:fontWeight 400
+:noFill true
+:point [1032.34 176.5]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [128.87 0]
+:bindingId "81b0dcd2-4b1a-11f0-abc4-7b433ac1805a"}
+:end 
+{:id "end"
+:canBind true
+:point [0 109]
+:bindingId "81b103e0-4b1a-11f0-abc4-7b433ac1805a"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750123766660
+:italic false}}
+:block/updated-at 1750124121539} 
+{:block/created-at 1750275312755
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 36
+:scale [1 1]
+:pageId "68530ff1-69f6-4e51-93b1-bf36265d0573"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 160.9999597462468]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5f46d730-4c78-11f0-86df-8527de875ac2"
+:noFill false
+:point [-1392.799570315843 180.26343918514078]
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:collapsedHeight 0
+:nonce 1750274032807}}
+:block/updated-at 1750275312755} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6850c5c2-dda1-4076-9f4c-a935b9a69c85"}
+:block/parent 
+{:block/uuid #uuid "6850c470-b17d-47ad-bc10-8f27d4b6dd42"}
+:block/uuid #uuid "6850c675-b1a4-43cb-bb10-a85fa0429e8b"} 
+{:block/created-at 1750273221354
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 27
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [288.2430760201024 69.3605773345887]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Detalhes para ficar atento"
+:id "e32f1af0-4c5d-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill false
+:point [50.51696268081855 15.346359790171277]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750262658905
+:italic false}}
+:block/updated-at 1750273221354} 
+{:block/created-at 1750275307363
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 29
+:scale [1 1]
+:pageId "6852f0ba-d635-44db-a6b2-8ed3782c5956"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 112.99999047570643]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c3fb9ca0-4c65-11f0-86df-8527de875ac2"
+:noFill false
+:point [-1395.8195338770631 61.588387553343466]
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:collapsedHeight 0
+:nonce 1750266041414}}
+:block/updated-at 1750275307363} 
+{:block/created-at 1750123789703
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 5
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [274 56]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Usando Linux"
+:id "81b0dcd0-4b1a-11f0-abc4-7b433ac1805a"
+:fontWeight 400
+:noFill false
+:point [857.5 289.5]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750123766641
+:italic false}}
+:block/updated-at 1750123789703} 
+{:block/created-at 1750273221354
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 28
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "e32f6910-4c5d-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill true
+:point [-547.77 -32.95]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "e32f6911-4c5d-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [594.29 66.42]
+:bindingId "e32f6912-4c5d-11f0-86df-8527de875ac2"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750262658460
+:italic false}}
+:block/updated-at 1750273221354} 
+{:block/created-at 1750273223621
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 31
+:scale [1 1]
+:pageId "6852f0bd-8c10-4695-a53c-875074bead3c"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.99997232423861]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c615a300-4c65-11f0-86df-8527de875ac2"
+:noFill false
+:point [-339.18956313202375 507.6923227583421]
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:collapsedHeight 0
+:nonce 1750266045146}}
+:block/updated-at 1750273223621} 
+{:block/created-at 1750273228071
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 32
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [288.2430760201024 69.3605773345887]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "7fae0bd0-4c76-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill false
+:point [50.51696268081855 184.70693712475997]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750273228045
+:italic false}}
+:block/updated-at 1750273228071} 
+{:block/created-at 1750296984725
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 49
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "cca5b370-4cad-11f0-bb12-1db018d0c618"
+:fontWeight 400
+:noFill true
+:point [-688.83 48.2]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "cca58c60-4cad-11f0-bb12-1db018d0c618"}
+:end 
+{:id "end"
+:canBind true
+:point [0.2 10]
+:bindingId "cca58c61-4cad-11f0-bb12-1db018d0c618"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750296979553
+:italic false}}
+:block/updated-at 1750296984725} 
+{:block/created-at 1750273188444
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "5c944860-4b1a-11f0-abc4-7b433ac1805a"
+:fontWeight 400
+:noFill true
+:point [-700.82 -433.42]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.82 0]
+:bindingId "5c944861-4b1a-11f0-abc4-7b433ac1805a"}
+:end 
+{:id "end"
+:canBind true
+:point [0 34.71]
+:bindingId "5c946f70-4b1a-11f0-abc4-7b433ac1805a"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750123705621
+:italic false}}
+:block/updated-at 1750273188444} 
+{:block/created-at 1750296984725
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 30
+:scale [1 1]
+:pageId "6852f0bb-a93f-4042-9ff7-5c5ccb315b26"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41.00006155431815]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c53de0a0-4c65-11f0-86df-8527de875ac2"
+:noFill false
+:point [-888 56]
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:collapsedHeight 0
+:nonce 1750266043824}}
+:block/updated-at 1750296984725} 
+{:block/content "Por meio delas vamos ter uma maior noção e compreensão sobre o que nós estamos fazendo, e com o que estamos lidando."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6850c675-b1a4-43cb-bb10-a85fa0429e8b"}
+:block/parent 
+{:block/uuid #uuid "6850c470-b17d-47ad-bc10-8f27d4b6dd42"}
+:block/properties 
+{}
+:block/uuid #uuid "6852cdff-2f69-4ee4-ac42-473fd34c93bf"} 
+{:block/created-at 1750123898873
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "ac1c15c0-4b1a-11f0-abc4-7b433ac1805a"
+:fontWeight 400
+:noFill true
+:point [993.59 346.5]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.38 0]
+:bindingId "ac1c15c1-4b1a-11f0-abc4-7b433ac1805a"}
+:end 
+{:id "end"
+:canBind true
+:point [0 20.5]
+:bindingId "ac1c3cd0-4b1a-11f0-abc4-7b433ac1805a"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750123837953
+:italic false}}
+:block/updated-at 1750123898873} 
+{:block/created-at 1750256985786
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 8
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "899d84c0-4b1a-11f0-abc4-7b433ac1805a"
+:fontWeight 400
+:noFill true
+:point [1226.85 176.5]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "899d84c1-4b1a-11f0-abc4-7b433ac1805a"}
+:end 
+{:id "end"
+:canBind true
+:point [107.56 99.5]
+:bindingId "899d84c2-4b1a-11f0-abc4-7b433ac1805a"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750123780008
+:italic false}}
+:block/updated-at 1750256985786} 
+{:block/created-at 1750273228071
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 33
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "7fae59f0-4c76-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill true
+:point [194.64 85.71]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "7fae59f1-4c76-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [0 95]
+:bindingId "7fae59f2-4c76-11f0-86df-8527de875ac2"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750273228048
+:italic false}}
+:block/updated-at 1750273228071} 
+{:block/created-at 1750296496148
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 38
+:scale [1 1]
+:pageId "685315dc-fb31-4963-8171-4a1ed743f1f2"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 617.0000251597567]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e6545420-4c7b-11f0-86df-8527de875ac2"
+:noFill false
+:point [-1387.098537068512 549.6498981426003]
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:collapsedHeight 0
+:nonce 1750275547841}}
+:block/updated-at 1750296496148} 
+{:block/created-at 1750273854453
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 24
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [307.89162519411593 56.203066726990414]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Estrutura de uma Stock ROM"
+:id "463567e0-4c5d-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill false
+:point [-1360.85413818613 -7.614933480881518]
+:fontSize 20
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750262395977
+:italic false}}
+:block/updated-at 1750273854453} 
+{:block/created-at 1750275946539
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 46
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "b1303e70-4c7c-11f0-86df-8527de875ac2"
+:fontWeight 400
+:noFill true
+:point [-3519.99 35.34]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [593.02 0]
+:bindingId "b1306580-4c7c-11f0-86df-8527de875ac2"}
+:end 
+{:id "end"
+:canBind true
+:point [0 160.62]
+:bindingId "b1306581-4c7c-11f0-86df-8527de875ac2"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750275888385
+:italic false}}
+:block/updated-at 1750275946539} 
+{:block/created-at 1750827239773
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 50
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "63fa57e2-5180-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1187.71 534.65]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "63fa57e0-5180-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0.4 11]
+:bindingId "63fa57e1-5180-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750827232438
+:italic false}}
+:block/updated-at 1750827239773} 
+{:block/created-at 1750827243464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 51
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "676bb0e2-5180-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1192.14 341.26]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "676bb0e0-5180-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0.08 10]
+:bindingId "676bb0e1-5180-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750827238171
+:italic false}}
+:block/updated-at 1750827243464} 
+{:block/created-at 1750827264291
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 52
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "6d2ced52-5180-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1194.62 174.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "6d2ced50-5180-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0.21 10]
+:bindingId "7617f271-5180-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750827247872
+:italic false}}
+:block/updated-at 1750827264291} 
+{:block/created-at 1750827264291
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 53
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "72d74662-5180-11f0-8621-3954fda0263e"
+:fontWeight 400
+:noFill true
+:point [-1209.51 48.59]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.68 0]
+:bindingId "72d74660-5180-11f0-8621-3954fda0263e"}
+:end 
+{:id "end"
+:canBind true
+:point [0 9.97]
+:bindingId "72d74661-5180-11f0-8621-3954fda0263e"}}
+:decorations 
+{:end "arrow"}
+:parentId "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:nonce 1750827257350
+:italic false}}
+:block/updated-at 1750827264291})
+:pages (
+{:block/uuid #uuid "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6850c470-b17d-47ad-bc10-8f27d4b6dd42"
+:name "root e twrp no samsung"
+:bindings 
+{:f59aa130-4b1a-11f0-abc4-7b433ac1805a 
+{:id "f59aa130-4b1a-11f0-abc4-7b433ac1805a"
+:type "line"
+:fromId "f59aa132-4b1a-11f0-abc4-7b433ac1805a"
+:toId "ac1beeb0-4b1a-11f0-abc4-7b433ac1805a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:cca58c60-4cad-11f0-bb12-1db018d0c618 
+{:id "cca58c60-4cad-11f0-bb12-1db018d0c618"
+:type "line"
+:fromId "cca5b370-4cad-11f0-bb12-1db018d0c618"
+:toId "45377fe0-4c5d-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:64552561-4b1a-11f0-abc4-7b433ac1805a 
+{:id "64552561-4b1a-11f0-abc4-7b433ac1805a"
+:type "line"
+:fromId "64552560-4b1a-11f0-abc4-7b433ac1805a"
+:toId "56bec0a0-4b1a-11f0-abc4-7b433ac1805a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:72d74661-5180-11f0-8621-3954fda0263e 
+{:id "72d74661-5180-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "72d74662-5180-11f0-8621-3954fda0263e"
+:toId "c3fb9ca0-4c65-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.45 0.82]
+:distance 4}
+:a19422a0-4c50-11f0-86df-8527de875ac2 
+{:id "a19422a0-4c50-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "a193fb90-4c50-11f0-86df-8527de875ac2"
+:toId "a193d480-4c50-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:70b6c0e1-4c5d-11f0-86df-8527de875ac2 
+{:id "70b6c0e1-4c5d-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "70b6c0e2-4c5d-11f0-86df-8527de875ac2"
+:toId "3667d7d0-4c5d-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.48 0.69]
+:distance 4}
+:676bb0e0-5180-11f0-8621-3954fda0263e 
+{:id "676bb0e0-5180-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "676bb0e2-5180-11f0-8621-3954fda0263e"
+:toId "5f46d730-4c78-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:a7752d00-4c59-11f0-86df-8527de875ac2 
+{:id "a7752d00-4c59-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "a7752d02-4c59-11f0-86df-8527de875ac2"
+:toId "5c942150-4b1a-11f0-abc4-7b433ac1805a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:676bb0e1-5180-11f0-8621-3954fda0263e 
+{:id "676bb0e1-5180-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "676bb0e2-5180-11f0-8621-3954fda0263e"
+:toId "5d3247b0-4c7b-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.5 0.64]
+:distance 4}
+:7fae59f1-4c76-11f0-86df-8527de875ac2 
+{:id "7fae59f1-4c76-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "7fae59f0-4c76-11f0-86df-8527de875ac2"
+:toId "e32f1af0-4c5d-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:a7752d01-4c59-11f0-86df-8527de875ac2 
+{:id "a7752d01-4c59-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "a7752d02-4c59-11f0-86df-8527de875ac2"
+:toId "1125fe90-4c51-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.49 0.63]
+:distance 4}
+:e32f6912-4c5d-11f0-86df-8527de875ac2 
+{:id "e32f6912-4c5d-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "e32f6910-4c5d-11f0-86df-8527de875ac2"
+:toId "e32f1af0-4c5d-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:81b103e0-4b1a-11f0-abc4-7b433ac1805a 
+{:id "81b103e0-4b1a-11f0-abc4-7b433ac1805a"
+:type "line"
+:fromId "81b0dcd1-4b1a-11f0-abc4-7b433ac1805a"
+:toId "81b0dcd0-4b1a-11f0-abc4-7b433ac1805a"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:cf760bc1-4c50-11f0-86df-8527de875ac2 
+{:id "cf760bc1-4c50-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "64552560-4b1a-11f0-abc4-7b433ac1805a"
+:toId "c3786f70-4c50-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.28 0.69]
+:distance 4}
+:72d74660-5180-11f0-8621-3954fda0263e 
+{:id "72d74660-5180-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "72d74662-5180-11f0-8621-3954fda0263e"
+:toId "463567e0-4c5d-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:7617f271-5180-11f0-8621-3954fda0263e 
+{:id "7617f271-5180-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "6d2ced52-5180-11f0-8621-3954fda0263e"
+:toId "5f46d730-4c78-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:5d2a3bf1-4c7c-11f0-86df-8527de875ac2 
+{:id "5d2a3bf1-4c7c-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "5d2a3bf0-4c7c-11f0-86df-8527de875ac2"
+:toId "463567e0-4c5d-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:b0804f61-4c7c-11f0-86df-8527de875ac2 
+{:id "b0804f61-4c7c-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "b0804f60-4c7c-11f0-86df-8527de875ac2"
+:toId "5d2a14e0-4c7c-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:ab16bdc0-4c59-11f0-86df-8527de875ac2 
+{:id "ab16bdc0-4c59-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "ab16bdc2-4c59-11f0-86df-8527de875ac2"
+:toId "1125fe90-4c51-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:cca58c61-4cad-11f0-bb12-1db018d0c618 
+{:id "cca58c61-4cad-11f0-bb12-1db018d0c618"
+:type "line"
+:fromId "cca5b370-4cad-11f0-bb12-1db018d0c618"
+:toId "c53de0a0-4c65-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.5 0.79]
+:distance 4}
+:6d2ced50-5180-11f0-8621-3954fda0263e 
+{:id "6d2ced50-5180-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "6d2ced52-5180-11f0-8621-3954fda0263e"
+:toId "c3fb9ca0-4c65-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:b1306580-4c7c-11f0-86df-8527de875ac2 
+{:id "b1306580-4c7c-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "b1303e70-4c7c-11f0-86df-8527de875ac2"
+:toId "5d2a14e0-4c7c-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:70b6c0e0-4c5d-11f0-86df-8527de875ac2 
+{:id "70b6c0e0-4c5d-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "70b6c0e2-4c5d-11f0-86df-8527de875ac2"
+:toId "78b76700-4c52-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:5d2a3bf2-4c7c-11f0-86df-8527de875ac2 
+{:id "5d2a3bf2-4c7c-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "5d2a3bf0-4c7c-11f0-86df-8527de875ac2"
+:toId "5d2a14e0-4c7c-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:5c944861-4b1a-11f0-abc4-7b433ac1805a 
+{:id "5c944861-4b1a-11f0-abc4-7b433ac1805a"
+:type "line"
+:fromId "5c944860-4b1a-11f0-abc4-7b433ac1805a"
+:toId "56bec0a0-4b1a-11f0-abc4-7b433ac1805a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:ccb4c8e1-4c50-11f0-86df-8527de875ac2 
+{:id "ccb4c8e1-4c50-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "64552560-4b1a-11f0-abc4-7b433ac1805a"
+:toId "c3786f70-4c50-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.25 0.75]
+:distance 4}
+:4537a6f2-4c5d-11f0-86df-8527de875ac2 
+{:id "4537a6f2-4c5d-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "4537a6f0-4c5d-11f0-86df-8527de875ac2"
+:toId "45377fe0-4c5d-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:4635b602-4c5d-11f0-86df-8527de875ac2 
+{:id "4635b602-4c5d-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "4635b600-4c5d-11f0-86df-8527de875ac2"
+:toId "463567e0-4c5d-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:4537a6f1-4c5d-11f0-86df-8527de875ac2 
+{:id "4537a6f1-4c5d-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "4537a6f0-4c5d-11f0-86df-8527de875ac2"
+:toId "3667d7d0-4c5d-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:afc84a00-4c7c-11f0-86df-8527de875ac2 
+{:id "afc84a00-4c7c-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "afc822f0-4c7c-11f0-86df-8527de875ac2"
+:toId "5d2a14e0-4c7c-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:7fae59f2-4c76-11f0-86df-8527de875ac2 
+{:id "7fae59f2-4c76-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "7fae59f0-4c76-11f0-86df-8527de875ac2"
+:toId "7fae0bd0-4c76-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:6d2ced51-5180-11f0-8621-3954fda0263e 
+{:id "6d2ced51-5180-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "6d2ced52-5180-11f0-8621-3954fda0263e"
+:toId "5f46d730-4c78-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.52 0.66]
+:distance 4}
+:b288a281-4c7c-11f0-86df-8527de875ac2 
+{:id "b288a281-4c7c-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "b288a280-4c7c-11f0-86df-8527de875ac2"
+:toId "5d2a14e0-4c7c-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:ac1c15c1-4b1a-11f0-abc4-7b433ac1805a 
+{:id "ac1c15c1-4b1a-11f0-abc4-7b433ac1805a"
+:type "line"
+:fromId "ac1c15c0-4b1a-11f0-abc4-7b433ac1805a"
+:toId "81b0dcd0-4b1a-11f0-abc4-7b433ac1805a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:63fa57e1-5180-11f0-8621-3954fda0263e 
+{:id "63fa57e1-5180-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "63fa57e2-5180-11f0-8621-3954fda0263e"
+:toId "e6545420-4c7b-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.53 0.55]
+:distance 4}
+:b0804f62-4c7c-11f0-86df-8527de875ac2 
+{:id "b0804f62-4c7c-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "b0804f60-4c7c-11f0-86df-8527de875ac2"
+:toId "b0802850-4c7c-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:c378bd90-4c50-11f0-86df-8527de875ac2 
+{:id "c378bd90-4c50-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "c3789680-4c50-11f0-86df-8527de875ac2"
+:toId "c3786f70-4c50-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:b1306581-4c7c-11f0-86df-8527de875ac2 
+{:id "b1306581-4c7c-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "b1303e70-4c7c-11f0-86df-8527de875ac2"
+:toId "b1301760-4c7c-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:899d84c1-4b1a-11f0-abc4-7b433ac1805a 
+{:id "899d84c1-4b1a-11f0-abc4-7b433ac1805a"
+:type "line"
+:fromId "899d84c0-4b1a-11f0-abc4-7b433ac1805a"
+:toId "6454fe50-4b1a-11f0-abc4-7b433ac1805a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:afc84a01-4c7c-11f0-86df-8527de875ac2 
+{:id "afc84a01-4c7c-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "afc822f0-4c7c-11f0-86df-8527de875ac2"
+:toId "afc7fbe0-4c7c-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:80a3b672-4c76-11f0-86df-8527de875ac2 
+{:id "80a3b672-4c76-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "80a3b670-4c76-11f0-86df-8527de875ac2"
+:toId "80a38f60-4c76-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:c9081491-4c50-11f0-86df-8527de875ac2 
+{:id "c9081491-4c50-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "64552560-4b1a-11f0-abc4-7b433ac1805a"
+:toId "c3786f70-4c50-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.28 0.94]
+:distance 4}
+:64552562-4b1a-11f0-abc4-7b433ac1805a 
+{:id "64552562-4b1a-11f0-abc4-7b433ac1805a"
+:type "line"
+:fromId "64552560-4b1a-11f0-abc4-7b433ac1805a"
+:toId "6454fe50-4b1a-11f0-abc4-7b433ac1805a"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:ac1c3cd0-4b1a-11f0-abc4-7b433ac1805a 
+{:id "ac1c3cd0-4b1a-11f0-abc4-7b433ac1805a"
+:type "line"
+:fromId "ac1c15c0-4b1a-11f0-abc4-7b433ac1805a"
+:toId "ac1beeb0-4b1a-11f0-abc4-7b433ac1805a"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:5c946f70-4b1a-11f0-abc4-7b433ac1805a 
+{:id "5c946f70-4b1a-11f0-abc4-7b433ac1805a"
+:type "line"
+:fromId "5c944860-4b1a-11f0-abc4-7b433ac1805a"
+:toId "5c942150-4b1a-11f0-abc4-7b433ac1805a"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:ab16bdc1-4c59-11f0-86df-8527de875ac2 
+{:id "ab16bdc1-4c59-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "ab16bdc2-4c59-11f0-86df-8527de875ac2"
+:toId "78b76700-4c52-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.49 0.64]
+:distance 4}
+:63fa57e0-5180-11f0-8621-3954fda0263e 
+{:id "63fa57e0-5180-11f0-8621-3954fda0263e"
+:type "line"
+:fromId "63fa57e2-5180-11f0-8621-3954fda0263e"
+:toId "5d3247b0-4c7b-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:c3789681-4c50-11f0-86df-8527de875ac2 
+{:id "c3789681-4c50-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "c3789680-4c50-11f0-86df-8527de875ac2"
+:toId "56bec0a0-4b1a-11f0-abc4-7b433ac1805a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:b288a282-4c7c-11f0-86df-8527de875ac2 
+{:id "b288a282-4c7c-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "b288a280-4c7c-11f0-86df-8527de875ac2"
+:toId "b2885460-4c7c-11f0-86df-8527de875ac2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:4635b601-4c5d-11f0-86df-8527de875ac2 
+{:id "4635b601-4c5d-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "4635b600-4c5d-11f0-86df-8527de875ac2"
+:toId "3667d7d0-4c5d-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:80a3b671-4c76-11f0-86df-8527de875ac2 
+{:id "80a3b671-4c76-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "80a3b670-4c76-11f0-86df-8527de875ac2"
+:toId "e32f1af0-4c5d-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:81b0dcd2-4b1a-11f0-abc4-7b433ac1805a 
+{:id "81b0dcd2-4b1a-11f0-abc4-7b433ac1805a"
+:type "line"
+:fromId "81b0dcd1-4b1a-11f0-abc4-7b433ac1805a"
+:toId "6454fe50-4b1a-11f0-abc4-7b433ac1805a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:f59aa131-4b1a-11f0-abc4-7b433ac1805a 
+{:id "f59aa131-4b1a-11f0-abc4-7b433ac1805a"
+:type "line"
+:fromId "f59aa132-4b1a-11f0-abc4-7b433ac1805a"
+:toId "d5b13a00-4b1a-11f0-abc4-7b433ac1805a"
+:handleId "end"
+:point [0.51 0.79]
+:distance 4}
+:e32f6911-4c5d-11f0-86df-8527de875ac2 
+{:id "e32f6911-4c5d-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "e32f6910-4c5d-11f0-86df-8527de875ac2"
+:toId "3667d7d0-4c5d-11f0-86df-8527de875ac2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:899d84c2-4b1a-11f0-abc4-7b433ac1805a 
+{:id "899d84c2-4b1a-11f0-abc4-7b433ac1805a"
+:type "line"
+:fromId "899d84c0-4b1a-11f0-abc4-7b433ac1805a"
+:toId "899d5db0-4b1a-11f0-abc4-7b433ac1805a"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:a193fb91-4c50-11f0-86df-8527de875ac2 
+{:id "a193fb91-4c50-11f0-86df-8527de875ac2"
+:type "line"
+:fromId "a193fb90-4c50-11f0-86df-8527de875ac2"
+:toId "6454fe50-4b1a-11f0-abc4-7b433ac1805a"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("56bec0a0-4b1a-11f0-abc4-7b433ac1805a" "5c942150-4b1a-11f0-abc4-7b433ac1805a" "5c944860-4b1a-11f0-abc4-7b433ac1805a" "6454fe50-4b1a-11f0-abc4-7b433ac1805a" "64552560-4b1a-11f0-abc4-7b433ac1805a" "81b0dcd0-4b1a-11f0-abc4-7b433ac1805a" "81b0dcd1-4b1a-11f0-abc4-7b433ac1805a" "899d5db0-4b1a-11f0-abc4-7b433ac1805a" "899d84c0-4b1a-11f0-abc4-7b433ac1805a" "ac1beeb0-4b1a-11f0-abc4-7b433ac1805a" "ac1c15c0-4b1a-11f0-abc4-7b433ac1805a" "d5b13a00-4b1a-11f0-abc4-7b433ac1805a" "f59aa132-4b1a-11f0-abc4-7b433ac1805a" "a193d480-4c50-11f0-86df-8527de875ac2" "a193fb90-4c50-11f0-86df-8527de875ac2" "c3786f70-4c50-11f0-86df-8527de875ac2" "c3789680-4c50-11f0-86df-8527de875ac2" "1125fe90-4c51-11f0-86df-8527de875ac2" "78b76700-4c52-11f0-86df-8527de875ac2" "a7752d02-4c59-11f0-86df-8527de875ac2" "ab16bdc2-4c59-11f0-86df-8527de875ac2" "3667d7d0-4c5d-11f0-86df-8527de875ac2" "45377fe0-4c5d-11f0-86df-8527de875ac2" "4537a6f0-4c5d-11f0-86df-8527de875ac2" "463567e0-4c5d-11f0-86df-8527de875ac2" "4635b600-4c5d-11f0-86df-8527de875ac2" "70b6c0e2-4c5d-11f0-86df-8527de875ac2" "e32f1af0-4c5d-11f0-86df-8527de875ac2" "e32f6910-4c5d-11f0-86df-8527de875ac2" "c3fb9ca0-4c65-11f0-86df-8527de875ac2" "c53de0a0-4c65-11f0-86df-8527de875ac2" "c615a300-4c65-11f0-86df-8527de875ac2" "7fae0bd0-4c76-11f0-86df-8527de875ac2" "7fae59f0-4c76-11f0-86df-8527de875ac2" "80a38f60-4c76-11f0-86df-8527de875ac2" "80a3b670-4c76-11f0-86df-8527de875ac2" "5f46d730-4c78-11f0-86df-8527de875ac2" "5d3247b0-4c7b-11f0-86df-8527de875ac2" "e6545420-4c7b-11f0-86df-8527de875ac2" "5d2a14e0-4c7c-11f0-86df-8527de875ac2" "5d2a3bf0-4c7c-11f0-86df-8527de875ac2" "afc7fbe0-4c7c-11f0-86df-8527de875ac2" "afc822f0-4c7c-11f0-86df-8527de875ac2" "b0802850-4c7c-11f0-86df-8527de875ac2" "b0804f60-4c7c-11f0-86df-8527de875ac2" "b1301760-4c7c-11f0-86df-8527de875ac2" "b1303e70-4c7c-11f0-86df-8527de875ac2" "b2885460-4c7c-11f0-86df-8527de875ac2" "b288a280-4c7c-11f0-86df-8527de875ac2" "cca5b370-4cad-11f0-bb12-1db018d0c618" "63fa57e2-5180-11f0-8621-3954fda0263e" "676bb0e2-5180-11f0-8621-3954fda0263e" "6d2ced52-5180-11f0-8621-3954fda0263e" "72d74662-5180-11f0-8621-3954fda0263e")}}
+:block/updated-at 1750827264294
+:block/created-at 1750123632942
+:block/type "whiteboard"
+:block/name "root e twrp no samsung"
+:block/original-name "root e twrp no samsung"})}
