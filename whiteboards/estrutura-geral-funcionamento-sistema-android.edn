@@ -8,7 +8,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "684c1bce-fffe-4c4e-b5d0-33116bf6631c"} 
-{:block/created-at 1750256906711
+{:block/created-at 1752066063951
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -33,8 +33,251 @@
 :point [432 328]
 :parentId "684c1a3e-8fdd-43d5-8a58-4615c55c7097"
 :collapsedHeight 0
-:nonce 1749818317410}}
-:block/updated-at 1750256906711})
+:nonce 1749818317412}}
+:block/updated-at 1752066063951} 
+{:block/created-at 1752066282731
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "43d32872-5cc5-11f0-bd21-0136569000d2"
+:fontWeight 400
+:noFill true
+:point [520 168]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]}
+:end 
+{:id "end"
+:canBind true
+:point [24 0]
+:bindingId nil}}
+:decorations 
+{:end "arrow"}
+:parentId "684c1a3e-8fdd-43d5-8a58-4615c55c7097"
+:nonce 1752066276567
+:italic false}}
+:block/updated-at 1752066282731} 
+{:block/created-at 1752066650427
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [272 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "472fc0f0-5cc5-11f0-bd21-0136569000d2"
+:fontWeight 400
+:noFill false
+:point [744 184]
+:fontSize 20
+:parentId "684c1a3e-8fdd-43d5-8a58-4615c55c7097"
+:nonce 1752066283005
+:italic false}}
+:block/updated-at 1752066650427} 
+{:block/created-at 1752066285867
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 3
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [272 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "4969f980-5cc5-11f0-bd21-0136569000d2"
+:fontWeight 400
+:noFill false
+:point [1076 192]
+:fontSize 20
+:parentId "684c1a3e-8fdd-43d5-8a58-4615c55c7097"
+:nonce 1752066285848
+:italic false}}
+:block/updated-at 1752066285867} 
+{:block/created-at 1752066650428
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "496a95c0-5cc5-11f0-bd21-0136569000d2"
+:fontWeight 400
+:noFill true
+:point [1017 219.3]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "496a95c1-5cc5-11f0-bd21-0136569000d2"}
+:end 
+{:id "end"
+:canBind true
+:point [55 1.33]
+:bindingId "496abcd0-5cc5-11f0-bd21-0136569000d2"}}
+:decorations 
+{:end "arrow"}
+:parentId "684c1a3e-8fdd-43d5-8a58-4615c55c7097"
+:nonce 1752066285997
+:italic false}}
+:block/updated-at 1752066650428} 
+{:block/created-at 1752066326764
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 5
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [272 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "61cb6e00-5cc5-11f0-bd21-0136569000d2"
+:fontWeight 400
+:noFill false
+:point [1076 192]
+:fontSize 20
+:parentId "684c1a3e-8fdd-43d5-8a58-4615c55c7097"
+:nonce 1752066326752
+:italic false}}
+:block/updated-at 1752066326764} 
+{:block/created-at 1752066650428
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "61cc0a40-5cc5-11f0-bd21-0136569000d2"
+:fontWeight 400
+:noFill true
+:point [1017 219.3]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "61cc0a41-5cc5-11f0-bd21-0136569000d2"}
+:end 
+{:id "end"
+:canBind true
+:point [55 1.33]
+:bindingId "61cc0a42-5cc5-11f0-bd21-0136569000d2"}}
+:decorations 
+{:end "arrow"}
+:parentId "684c1a3e-8fdd-43d5-8a58-4615c55c7097"
+:nonce 1752066326900
+:italic false}}
+:block/updated-at 1752066650428} 
+{:block/created-at 1752066650428
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 8
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "64ce26b0-5cc5-11f0-bd21-0136569000d2"
+:fontWeight 400
+:noFill true
+:point [849.23 96]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [22.31 87]
+:bindingId "64ce26b1-5cc5-11f0-bd21-0136569000d2"}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId "64ce26b2-5cc5-11f0-bd21-0136569000d2"}}
+:decorations 
+{:end "arrow"}
+:parentId "684c1a3e-8fdd-43d5-8a58-4615c55c7097"
+:nonce 1752066331948
+:italic false}}
+:block/updated-at 1752066650428} 
+{:block/created-at 1752066343208
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 7
+:scale [1 1]
+:refs []
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [272 64]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "64cdd890-5cc5-11f0-bd21-0136569000d2"
+:fontWeight 400
+:noFill false
+:point [704 28]
+:fontSize 20
+:parentId "684c1a3e-8fdd-43d5-8a58-4615c55c7097"
+:nonce 1752066331803
+:italic false}}
+:block/updated-at 1752066343208})
 :pages (
 {:block/uuid #uuid "684c1a3e-8fdd-43d5-8a58-4615c55c7097"
 :block/properties 
@@ -43,11 +286,58 @@
 {:id "684c1a3e-8fdd-43d5-8a58-4615c55c7097"
 :name "estrutura e funcionamento geral do sistema android"
 :bindings 
-{}
+{:496a95c1-5cc5-11f0-bd21-0136569000d2 
+{:id "496a95c1-5cc5-11f0-bd21-0136569000d2"
+:type "line"
+:fromId "496a95c0-5cc5-11f0-bd21-0136569000d2"
+:toId "472fc0f0-5cc5-11f0-bd21-0136569000d2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:496abcd0-5cc5-11f0-bd21-0136569000d2 
+{:id "496abcd0-5cc5-11f0-bd21-0136569000d2"
+:type "line"
+:fromId "496a95c0-5cc5-11f0-bd21-0136569000d2"
+:toId "4969f980-5cc5-11f0-bd21-0136569000d2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:61cc0a41-5cc5-11f0-bd21-0136569000d2 
+{:id "61cc0a41-5cc5-11f0-bd21-0136569000d2"
+:type "line"
+:fromId "61cc0a40-5cc5-11f0-bd21-0136569000d2"
+:toId "472fc0f0-5cc5-11f0-bd21-0136569000d2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:61cc0a42-5cc5-11f0-bd21-0136569000d2 
+{:id "61cc0a42-5cc5-11f0-bd21-0136569000d2"
+:type "line"
+:fromId "61cc0a40-5cc5-11f0-bd21-0136569000d2"
+:toId "61cb6e00-5cc5-11f0-bd21-0136569000d2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}
+:64ce26b1-5cc5-11f0-bd21-0136569000d2 
+{:id "64ce26b1-5cc5-11f0-bd21-0136569000d2"
+:type "line"
+:fromId "64ce26b0-5cc5-11f0-bd21-0136569000d2"
+:toId "472fc0f0-5cc5-11f0-bd21-0136569000d2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:64ce26b2-5cc5-11f0-bd21-0136569000d2 
+{:id "64ce26b2-5cc5-11f0-bd21-0136569000d2"
+:type "line"
+:fromId "64ce26b0-5cc5-11f0-bd21-0136569000d2"
+:toId "64cdd890-5cc5-11f0-bd21-0136569000d2"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("53ce9ba0-4853-11f0-b760-9b91f4e77d56")}}
-:block/updated-at 1750256906711
+:shapes-index ("53ce9ba0-4853-11f0-b760-9b91f4e77d56" "43d32872-5cc5-11f0-bd21-0136569000d2" "472fc0f0-5cc5-11f0-bd21-0136569000d2" "4969f980-5cc5-11f0-bd21-0136569000d2" "496a95c0-5cc5-11f0-bd21-0136569000d2" "61cb6e00-5cc5-11f0-bd21-0136569000d2" "61cc0a40-5cc5-11f0-bd21-0136569000d2" "64cdd890-5cc5-11f0-bd21-0136569000d2" "64ce26b0-5cc5-11f0-bd21-0136569000d2")}}
+:block/updated-at 1752066653768
 :block/created-at 1749817918915
 :block/type "whiteboard"
 :block/name "estrutura e funcionamento geral do sistema android"

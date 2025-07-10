@@ -17,14 +17,13 @@
 - **Interjection**: Expresses a emotion, e.g: ouch!, wow!.
 - ---
 - ### Words order (SVO)
-- **Affirmative sentences**
-	- Basic structure: `Subject + Main verb + (s/es for he/she/it) + object + complement (optional)`
-	- **Examples**:
-		- ***I play soccer*** = Eu jogo futebol = Verbal form = First person singular, simple present.
-		- ***I want to play a game*** = Eu quero jogar um jogo = Verbal form = First person singular, simple present, infinitive (to play).
-		- ***I am going to read a book*** = Eu vou ler um livro = Verbal form = First person verbal, simple present, near future, infinitive (to read).
-		- ***She reads a book*** = Ela lê um livro = Verbal form = Third person singular, simple present.
-		-
-		-
-		-
-		-
+	- **Affirmative sentences**:
+		- Basic structure: `Subject + Main verb + (s/es for he/she/it) + object + complement (optional)`
+		- **Examples**:
+			- ***I play soccer*** = Eu jogo futebol = Verbal form = First person singular, simple present.
+			- ***I want to play a game*** = Eu quero jogar um jogo = Verbal form = First person singular, simple present, infinitive (to play).
+			- ***I am going to read a book*** = Eu vou ler um livro = Verbal form = First person verbal, simple present, near future, infinitive (to read).
+			- ***She reads a book*** = Ela lê um livro = Verbal form = Third person singular, simple present.
+-
+	- **Negative sentences**:
+	-
