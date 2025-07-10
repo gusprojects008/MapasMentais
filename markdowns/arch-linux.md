@@ -1,32 +1,31 @@
-# arch linux
+# Arch linux: conceitos básicos + instalação
 
-Melhor entendimento do funcionamento do computador, e sistema operacional.
+## Por que usar arch linux?
+    - Melhor entendimento do funcionamento do computador, e sistema operacional.
+    - Ideal para quem está estudando e começando na área da computação!
+    - É um software livre e código aberto para todos. Fornecendo mais transparência para quem utiliza.
+    - Liberdade em escolher programas e aplicações livres e de código aberto, que não coletam dados, ou, que te dá a possibilidade de escolher quais dados fornecer (Privacidade).
+    - Fornecendo um maior controle sobre seu sistema, o que é utilizado nele e o que você utiliza no dia a dia.
+    - Esses programas de código aberto, podem e são analisados por várias pessoas. E que constantemente estão em desenvolvimento, recebendo atualizações para correção de bugs e vulnerabilidades.
+---
+## Conceitos básicos
+### Tabelas de partições
+Um sistema de tabela de partições, define como um dispositivo de armazenamento gerencia e organiza as partições dele.
 
-Um sistemas de tabela de partições, define como um dispositivo de armazenamento gerencia e organiza as partições dele.
+### Firmwares
+O firmware de um dispositivo específico como um adaptador ou placa de rede wifi, é responsavel por fazer o gerenciamento e controle interno dos recursos do circuito do dispositvo, como:
+    - Inicialização de circuitos, micro-controladores, módulos de hardware
+    - Gerenciamento e modo de energia (modo de economia ou desempenho)
+    - Processamento de comandos vindos do driver
+    - Implementação de operações do protocolo 802.11 em tempo real
+    - Monitoramento de falhas
 
-Ideal para quem está estudando e começando na área da computação!
+O firmware de uma placa mãe de um computador é o software responsável por identificar, analisar, iniciar e gerenciar o comportamento incial dos dispositivos básicos do computador, CPU, memória RAM, dispositivos I/O, dispositivos de armazenameento como: HD(Hard disk), SSD(Solid State Driver) entre outros. Fazendo a inter-comunicaçao entre eles, e controlando a distribuição de recursos entre eles, como energia e memoria.
 
-Ideal para quem está estudando e começando na área da computação!
-
-Fornecendo um maior controle sobre seu sistema, o que é utilizado nele e o que você utiliza no dia a dia.
-
-O firmware de um dispositivo especifico,
- é responsavel por fazer o gerenciamento e controle interno dos recursos do circuito do dispositvo.
-
-Liberdade de escolha sobre softwares críticos utlizados no sistema.
-
-Liberdade em escolher programas e aplicações livres e de código aberto, que não coletam dados, ou, que te dá a possibilidade de escolher quais dados fornecer.
-
-São programas de código aberto, que podem ser analisados por qualquer pessoa. E que constantemente está em desenvolvimento, recebendo atualizações para correção de bugs e vulnerabilidades.
-
-Pois é um software livre e codigo aberto para todos.
-Fornecendo mais transparência para quem utiliza.
+>>> Em ambos os casos, ele é geralmente armazenado em um circuito integrado (chip) de memória na placa mãe, ou do circuito específico, como: ROM(Read Only Memory), PROM, EPROM ou memória flash. Mas em muitos dispositivos modernos que recebem atualizações regulares de firmware, para implementação de funcionalidades e correção de bugs, a própria fabricante fornece o(s) binário(s) do firmware do dispositivo, para assim, o próprio kernel do sistema operacional durante a inicialização, carregar eles na memória RAM ou no dispositivo em si.
 
 Durante a instalação do Archlinux, os pacotes são instalados no partição raiz que o sistema operacional irá utilizar, por meio do pacstrap e repositorios AUR (Arch User Repository). E no pacote "base" do  repositorio AUR, irá possuir as  principais ferramentas utilizadas pelo sistema  operacional, como o gerenciador de pacotes usado no archlinux "PACMAN", usado para instalar os outros programas e pacotes dos respositorios AUR.
 
-Em um computador, é o software responsável por identificar, análisar, iniciar e gerenciar o comportamento incial dos dispositivos básicos do computador, CPU, memória RAM, dispositivos I/O, dispositivos de armazenameento como: HD(Hard disk), SSD(Solid State Driver) entre outros. Fazendo a inter-comunicaçao entre eles, e controlando a distribuição de recursos entre eles, como energia e memoria.
-
-Ele é armazenado em um circuito integrado (chip) de memória na placa mãe, como: ROM(Read Only Memory), PROM, EPROM ou memória flash.
 
 É o tipo mais básico de firmware, que fornece uma interface e funcionalidades básicas para gerenciar as configurações internas do computador e seus dispositivos, assim como a inicialização deles.
 
@@ -97,40 +96,35 @@ ve
 
 Ventoy
 
-Por que usar Arch linux?:
-https://pt.wikipedia.org/wiki/Unix
+### Links e referências
+    - **História da arquitetura do linux e outros sistemas operacionais baseados em Unix [Unix](https://pt.wikipedia.org/wiki/Unix)**
 
-Sistema de tabela de partições:
-GPT:
-https://www.easeus.com/images/en/screenshot/partition-manager/gpt-disk-layout.png
-MBR:
-https://br.easeus.com/images/en/screenshot/partition-manager/mbr-disk-structure.png
+    - **Sistema de tabela de partições [GPT](https://www.easeus.com/images/en/screenshot/partition-manager/gpt-disk-layout.png) e [MBR](https://br.easeus.com/images/en/screenshot/partition-manager/mbr-disk-structure.png)**
 
-Sistema de arquivos:
-https://pt.wikibooks.org/wiki/Sistemas_operacionais/Sistemas_de_arquivos
+    - **[Sistema de arquivos](https://pt.wikibooks.org/wiki/Sistemas_operacionais/Sistemas_de_arquivos)**
 
-Memória ROM, RAM, NVRAM:
-https://siaguanta.com/wp-content/uploads/2019/12/rom2.png
-https://miracomosehace.com/wp-content/uploads/2020/05/usb-blanco.jpg
-https://www.guiahardware.es/wp-content/webp-express/webp-images/uploads/2018/12/memoria-ram-1024x512.jpeg.webp
-https://comphome.ru/wp-content/uploads/post/nvram.jpg
+    **Memória ROM, RAM, NVRAM**
+        - [ROM](https://siaguanta.com/wp-content/uploads/2019/12/rom2.png)
+        - [Pendrives e cartões SD](https://miracomosehace.com/wp-content/uploads/2020/05/usb-blanco.jpg)
+        - [Memória RAM](https://www.guiahardware.es/wp-content/webp-express/webp-images/uploads/2018/12/memoria-ram-1024x512.jpeg.webp)
+        - [NVRAM](https://comphome.ru/wp-content/uploads/post/nvram.jpg)
 
-UEFI protocols:
-https://uefi.org/specs/UEFI/2.10/13_Protocols_Media_Access.html#efi-load-file-protocol-loadfile
-https://uefi.org/specs/UEFI/2.10/13_Protocols_Media_Access.html#block-i-o-protocol
-https://uefi.org/specs/UEFI/2.10/13_Protocols_Media_Access.html
+    **UEFI protocols**
+        - [UEFI LoadFile](https://uefi.org/specs/UEFI/2.10/13_Protocols_Media_Access.html#efi-load-file-protocol-loadfile)
+        - [UEFI Block I/O](https://uefi.org/specs/UEFI/2.10/13_Protocols_Media_Access.html#block-i-o-protocol)
+        - [UEFI Media Access](https://uefi.org/specs/UEFI/2.10/13_Protocols_Media_Access.html)
 
-Bootloaders, initramfs.img, loopback.cfg, iso9660, GRUB2 mode:
-https://gist.github.com/Hanaasagi/2665e1e28ffcf91d5d62f72fa52fb732/revisions
-https://gist.github.com/Hanaasagi/2665e1e28ffcf91d5d62f72fa52fb732
-https://github.com/Jolicloud/grub2/blob/master/disk/loopback.c
-https://www.supergrubdisk.org/wiki/Loopback.cfg
-https://github.com/Jolicloud/grub2/blob/master/fs/iso9660.c
-https://www.ventoy.net/en/doc_grub2boot.html
+    **Bootloaders, initramfs.img, loopback.cfg, iso9660, GRUB2 mode**
+        - https://gist.github.com/Hanaasagi/2665e1e28ffcf91d5d62f72fa52fb732/revisions
+        - https://gist.github.com/Hanaasagi/2665e1e28ffcf91d5d62f72fa52fb732
+        - [loopback](https://github.com/Jolicloud/grub2/blob/master/disk/loopback.c)
+        - [SuperGRUB loopback.cfg](https://www.supergrubdisk.org/wiki/Loopback.cfg)
+        - [GRUB2 iso9660](https://github.com/Jolicloud/grub2/blob/master/fs/iso9660.c)
+        - [GRUB2 BOOT](https://www.ventoy.net/en/doc_grub2boot.html)
 
-Pendrive bootavel, ventoy:
-https://www.ventoy.net
-https://www.ventoy.net/en/doc_disk_layout.html
+    **Pendrive bootavel, ventoy**
+        - https://www.ventoy.net
+        - https://www.ventoy.net/en/doc_disk_layout.html
 
 O firmware identifica essas partições de boot,
 por meio da leitura da estrutura de dados sobre partições do dispositivo de armazenamento, criada pelo sistema de tabela de partições (GPT, MBR etc...). Na estrutura, ele indentifica a primeira entrada de partição que possua a flag de "boot", Indicando que ela é inicializavel.

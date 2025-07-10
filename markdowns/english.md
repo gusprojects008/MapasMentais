@@ -26,4 +26,7 @@
 			- ***She reads a book*** = Ela lê um livro = Verbal form = Third person singular, simple present.
 -
 	- **Negative sentences**:
-	-
+	- Basic strucuture: `Subject + Auxilliary verb + Negation (Not) + Main verb + object/complement
+	   	> in negative statements, the auxiliary verb is usually used in the negative form (contracted) example:
+		- ***Is not*** = **Doesn't**
+		- ***I do not*** = **I don't**
