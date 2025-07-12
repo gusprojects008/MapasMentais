@@ -20,7 +20,6 @@
 
 > 💡 **Lembrete:** Veja também alguns blogs que fiz para estudo, no meu site [Aqui](https://cyberspace-bnw.pages.dev/blogs/).
 
-
 ---
 
 ### Visualize pelo github
