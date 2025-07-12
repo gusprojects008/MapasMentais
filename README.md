@@ -1,7 +1,7 @@
 # Mapas mentais
 
 ## Índice
-- [Estrutura de processos no Linux](#estrutura-de-processos-criação-e-funcionamento)
+- [Estrutura de processos do Linux](#estrutura-de-processos-criação-e-funcionamento)
 
 ---
 
@@ -29,7 +29,7 @@
 
 ---
 
-### Estrutura de processo, criação e funcionamento
+### Estrutura de processos, criação e funcionamento
 - [Formato markdown](markdowns/process-structure.md)
 - [Formato Logseq .edn](whiteboards/process-structure.md)
 
