@@ -1,7 +1,20 @@
 # Mapas mentais
 
-## Índice
+## Índices
 - [Estrutura de processos do Linux](#estrutura-de-processos-criação-e-funcionamento)
+- [Arch Linux](#arch-linux)
+- [Ataques a redes Wi-Fi](#ataques-a-redes-wi-fi)
+- [Como a CPU armazena dados na RAM](#como-a-cpu-armazena-dados-na-ram)
+- [Como funciona um terminal e como a CPU executa instruções](#como-funciona-um-terminal-e-como-a-cpu-executa-instruções)
+- [Compiladores, montadores, arquivos objeto, linkers e executáveis](#compiladores-montadores-arquivos-objeto-linkers-e-executáveis)
+- [Estrutura geral e funcionamento do sistema Android](#estrutura-geral-e-funcionamento-do-sistema-android)
+- [Funcionamento do Magisk](#funcionamento-do-magisk)
+- [Funcionamento dos gerenciadores de pacotes Portage e Pacman](#funcionamento-dos-gerenciadores-de-pacotes-portage-e-pacman)
+- [Matemática básica para programadores](#matemática-básica-para-programadores)
+- [Princípios de segurança da informação](#princípios-de-segurança-da-informação)
+- [Roadmap de hacking](#roadmap-de-hacking)
+- [Root e TWRP em dispositivos Samsung](#root-e-twrp-em-dispositivos-samsung)
+- [English notes](#english-notes)
 
 ---
 
