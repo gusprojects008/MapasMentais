@@ -25,7 +25,7 @@
 4. Para mais detalhes consulte a documentação oficial **[Documentação Logseq](https://github.com/logseq/logseq)**
 
 ### Arquivos markdown podem ser visualizados em formato de mapa mental, por meio de sites como [markmap](https://markmap.js.org/repl)
-![Markmap](./assets/markmap_example.png)
+![Markmap](./assets/markmap_example.svg)
 
 ---
 
