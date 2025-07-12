@@ -12,7 +12,7 @@
 ![Markmap](./assets/markdown_logseq.png)
 
 ## Mapas mentais .edn no Logseq
-![Markmap](./assets/mapamental_logseq.png)
+![Markmap](./assets/mapa_mental_logseq.png)
 
 ---
 

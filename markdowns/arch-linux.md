@@ -1,28 +1,31 @@
 # Arch linux: conceitos básicos + instalação
 
 ## Por que usar arch linux?
-    - Melhor entendimento do funcionamento do computador, e sistema operacional.
-    - Ideal para quem está estudando e começando na área da computação!
-    - É um software livre e código aberto para todos. Fornecendo mais transparência para quem utiliza.
-    - Liberdade em escolher programas e aplicações livres e de código aberto, que não coletam dados, ou, que te dá a possibilidade de escolher quais dados fornecer (Privacidade).
-    - Fornecendo um maior controle sobre seu sistema, o que é utilizado nele e o que você utiliza no dia a dia.
-    - Esses programas de código aberto, podem e são analisados por várias pessoas. E que constantemente estão em desenvolvimento, recebendo atualizações para correção de bugs e vulnerabilidades.
+- Melhor entendimento do funcionamento do computador, e sistema operacional.
+- Ideal para quem está estudando e começando na área da computação!
+- É um software livre e código aberto para todos. Fornecendo mais transparência para quem utiliza.
+- Liberdade em escolher programas e aplicações livres e de código aberto, que não coletam dados, ou, que te dá a possibilidade de escolher quais dados fornecer (Privacidade).
+- Fornecendo um maior controle sobre seu sistema, o que é utilizado nele e o que você utiliza no dia a dia.
+- Esses programas de código aberto, podem e são analisados por várias pessoas. E que constantemente estão em desenvolvimento, recebendo atualizações para correção de bugs e vulnerabilidades.
+
 ---
+
 ## Conceitos básicos
+
 ### Tabelas de partições
 Um sistema de tabela de partições, define como um dispositivo de armazenamento gerencia e organiza as partições dele.
 
 ### Firmwares
 O firmware de um dispositivo específico como um adaptador ou placa de rede wifi, é responsavel por fazer o gerenciamento e controle interno dos recursos do circuito do dispositvo, como:
-    - Inicialização de circuitos, micro-controladores, módulos de hardware
-    - Gerenciamento e modo de energia (modo de economia ou desempenho)
-    - Processamento de comandos vindos do driver
-    - Implementação de operações do protocolo 802.11 em tempo real
-    - Monitoramento de falhas
+- Inicialização de circuitos, micro-controladores, módulos de hardware
+- Gerenciamento e modo de energia (modo de economia ou desempenho)
+- Processamento de comandos vindos do driver
+- Implementação de operações do protocolo 802.11 em tempo real
+- Monitoramento de falhas
 
 O firmware de uma placa mãe de um computador é o software responsável por identificar, analisar, iniciar e gerenciar o comportamento incial dos dispositivos básicos do computador, CPU, memória RAM, dispositivos I/O, dispositivos de armazenameento como: HD(Hard disk), SSD(Solid State Driver) entre outros. Fazendo a inter-comunicaçao entre eles, e controlando a distribuição de recursos entre eles, como energia e memoria.
 
->>> Em ambos os casos, ele é geralmente armazenado em um circuito integrado (chip) de memória na placa mãe, ou do circuito específico, como: ROM(Read Only Memory), PROM, EPROM ou memória flash. Mas em muitos dispositivos modernos que recebem atualizações regulares de firmware, para implementação de funcionalidades e correção de bugs, a própria fabricante fornece o(s) binário(s) do firmware do dispositivo, para assim, o próprio kernel do sistema operacional durante a inicialização, carregar eles na memória RAM ou no dispositivo em si.
+> Em ambos os casos, ele é geralmente armazenado em um circuito integrado (chip) de memória na placa mãe, ou do circuito específico, como: ROM(Read Only Memory), PROM, EPROM ou memória flash. Mas em muitos dispositivos modernos que recebem atualizações regulares de firmware, para implementação de funcionalidades e correção de bugs, a própria fabricante fornece o(s) binário(s) do firmware do dispositivo, para assim, o próprio kernel do sistema operacional durante a inicialização, carregar eles na memória RAM ou no dispositivo em si.
 
 Durante a instalação do Archlinux, os pacotes são instalados no partição raiz que o sistema operacional irá utilizar, por meio do pacstrap e repositorios AUR (Arch User Repository). E no pacote "base" do  repositorio AUR, irá possuir as  principais ferramentas utilizadas pelo sistema  operacional, como o gerenciador de pacotes usado no archlinux "PACMAN", usado para instalar os outros programas e pacotes dos respositorios AUR.
 
