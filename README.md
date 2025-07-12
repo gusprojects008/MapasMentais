@@ -1,8 +1,17 @@
 # Mapas mentais
 
+## Índice
+- [Estrutura de processos no Linux](#estrutura-de-processos-criação-e-funcionamento)
 
+---
+
+## Visualize pelo github
 ![Markmap](./assets/markdown_github.png)
+
+## Markdown em Logseq
 ![Markmap](./assets/markdown_logseq.png)
+
+## Mapas mentais .edn no Logseq
 ![Markmap](./assets/mapamental_logseq.png)
 
 ---
@@ -18,10 +27,9 @@
 ### Arquivos markdown podem ser visualizados em formato de mapa mental, por meio de sites como [markmap](https://markmap.js.org/repl)
 ![Markmap](./assets/markdown_mind_map.png)
 
-## Estrutura de processo, criação e funcionamento:
+---
+
+### Estrutura de processo, criação e funcionamento
 - [Formato markdown](markdowns/process-structure.md)
 - [Formato Logseq .edn](whiteboards/process-structure.md)
-
-
-Este repositório tem como objetivo compartilhar meus mapas mentais usados para estudo
 
