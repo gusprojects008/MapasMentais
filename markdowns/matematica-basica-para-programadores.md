@@ -184,4 +184,4 @@ Quanto menor a complexidade, **mais escalável** o algoritmo é para entradas gr
 - `value ^= value` — zera `value` (todo bit se torna 0).  
 - `value & (value - 1)` — remove o bit menos significativo “1” de `value`. 
 
-![Tabela de operações binárias básicas](./assets/operacoes-binarias.png)
+![Tabela de operações binárias básicas](../assets/operacoes-binarias.png)
