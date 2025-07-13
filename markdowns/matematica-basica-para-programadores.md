@@ -1,8 +1,6 @@
 # Matemática básica para programadores
 
-Uma das grandes vantagens de sempre ter em mente conceitos matemáticos e computacionais básicos, é capacidade de poder resolver problemas de forma mais rápida, simples e eficiente para a memória e processamento do computador.
-
-Além de auxiliar na criatividade de soluções e funcionalidades complexas e eficientes.
+> 📚 Uma das grandes vantagens de sempre ter em mente conceitos matemáticos e computacionais básicos, é capacidade de poder resolver problemas de forma mais rápida, simples e eficiente para a memória e processamento do computador. Além de auxiliar na criatividade de soluções e funcionalidades complexas e eficientes.
 
 ---
 
@@ -22,6 +20,11 @@ Além de auxiliar na criatividade de soluções e funcionalidades complexas e ef
 
 ---
 
+## Método para entender a ordem das operações matemáticas
+### PEMDAS *(Parênteses, Exponenciação, Multiplicação ou Divisão, Adição ou Subtração)*
+
+---
+
 ## Operadores aritméticos e funções matemáticas intermediárias, propósitos e funcionalidades
 
 - **`!`**: Fatorial calcula o produto de todos os inteiros positivos de 1 até `n`. Exemplo: `5! = 5 × 4 × 3 × 2 × 1 = 120`. Muito usado em **combinatória** (contar possibilidades), **recursão**, análise de **complexidade** e problemas de permutação.
@@ -31,7 +34,7 @@ Além de auxiliar na criatividade de soluções e funcionalidades complexas e ef
 
 ---
 
-### Funções trigonométricas e fundamentos gráficos
+## Funções trigonométricas e fundamentos gráficos
 
 Essas funções aparecem com frequência em **animações**, **processamento de sinais**, **física**, **geometria** e **visualização gráfica**.
 
@@ -41,13 +44,13 @@ Essas funções aparecem com frequência em **animações**, **processamento de 
 
 ---
 
-### Plano Cartesiano
+## Plano Cartesiano
 
 O **plano cartesiano** foi proposto por René Descartes e une a geometria com a álgebra, permitindo representar pontos no espaço com coordenadas numéricas (x, y). É a base para sistemas de gráficos, vetores, colisões, transformações geométricas e desenho computacional.
 
 ---
 
-### Transformadas de Fourier
+## Transformadas de Fourier
 
 As **transformadas de Fourier** (criação de Joseph Fourier) servem para decompor sinais em suas **frequências componentes**. Qualquer onda pode ser expressa como a soma de senos e cossenos.  
 Usada em:
@@ -134,3 +137,51 @@ Quanto menor a complexidade, **mais escalável** o algoritmo é para entradas gr
   - Matriz de adjacência (simples, mas consome espaço)
 - **Tipos**: Dirigido, não-dirigido, ponderado, cíclico, acíclico.
 - **Usos**: Redes, caminhos mínimos (Dijkstra, BFS/DFS), IA, web.
+
+---
+
+## Ordem e tipos de bytes
+
+- **Bit**  
+  - Unidade mínima de informação, vale `0` ou `1`.  
+- **Byte (B)**  
+  - Conjunto de **8 bits**.  
+- **Kilobyte (KB)**  
+  - `1024 bytes`.  
+- **Megabyte (MB)**  
+  - `1024 KB`.  
+- **Gigabyte (GB)**  
+  - `1024 MB`.
+- **Terabyte (TB)**  
+  - `1024 GB`.  
+- **Word**  
+  - Tamanho “natural” de dados para a CPU (ex: 16 bits em arquiteturas antigas).  
+- **Double Word (DWORD)**  
+  - `32 bits`.  
+- **Quad Word (QWORD)**  
+  - `64 bits`.  
+
+> Em programação de baixo nível (C, assembly, sistemas embarcados), saber o tamanho em bytes de cada tipo (`char`, `int`, `long`, `float`, `double`) é fundamental para alinhamento de memória, ponteiros e desempenho.
+
+---
+
+## Operações binárias
+
+> Trabalhar diretamente com bits é essencial para trabalhar com **bitmaps** de configurações ou informações de pacotes de rede, assim como **máscaras** de rede por exemplo, **flags**, **compressão**, **criptografia** e **otimizações de baixo nível**:
+
+| Operador | Nome             | Descrição       |
+|----------|------------------|-----------------|
+| `<< n`   | Shift left       | Desloca todos os bits **n** posições para a esquerda (multiplica por 2ⁿ).
+| `>> n`   | Shift right      | Desloca todos os bits **n** posições para a direita (divide por 2ⁿ, descarta bits menos significativos).|
+| `&`      | AND              | Bit a bit: `1 & 1 = 1`, senão `0`. Usado em máscaras para **limpar** bits. |
+| `\|`      | OR               | Bit a bit: `0 \| 1 = 1`. Usado para **definir** bits sem alterar os demais. |
+| `^`      | XOR              | Bit a bit: `1 ^ 1 = 0`, `1 ^ 0 = 1`. Útil para **toggle** de bits e truques de swap sem variável temporária. |
+| `~`      | NOT              | Inversão de todos os bits: `~1010 → 0101`. |
+
+### **Exemplos práticos**:  
+- `mask = value & 0x0F` — isola os 4 bits menos significativos.  
+- `value |= 1 << 7` — seta (coloca como 1) o bit de índice 7.  
+- `value ^= value` — zera `value` (todo bit se torna 0).  
+- `value & (value - 1)` — remove o bit menos significativo “1” de `value`. 
+
+![Tabela de operações binárias básicas](./assets/operacoes-binarias.png)
