@@ -59,9 +59,9 @@ Usada em:
 
 ---
 
-### Big O Notation
+## Big O Notation
 
-A **notação Big O** descreve o comportamento de um algoritimo em relação ao tempo de execução, desempenho/eficiência e complexidade à medida que a entrada/processamento de dados cresce. A notação ***Big Oh*** Ignora detalhes como tempo real de execução e foca na **ordem de crescimento** do algoritimo.
+A **notação Big O** descreve o comportamento de um algoritimo em relação ao tempo de execução e desempenho/eficiência à medida que a entrada/processamento de dados cresce. A notação ***Big Oh*** Ignora detalhes como tempo real de execução e foca na **ordem de crescimento** do algoritimo.
 
 | Notação      | Nome             | Exemplo                        |
 |--------------|------------------|--------------------------------|
@@ -91,29 +91,27 @@ Quanto menor a complexidade, **mais escalável** o algoritmo é para entradas gr
 - **Usos**: Inserções/remoções rápidas em qualquer ponto da lista.
 - **Limitações**: Acesso sequencial (O(n)).
 
-### 🥞 Pilha (Stack)
+### Hash Table (Map / Dicionário)
+- **Descrição**: Associa chaves a valores usando função de hash.
+- **Usos**: Busca e acesso ultra rápidos (O(1) em média).
+- **Limitações**: Colisões, pior caso O(n).
+
+### Pilha (Stack)
 - **Descrição**: Estrutura LIFO (Last In, First Out).
-- **Operações**: 
-  - `push(x)` → adiciona no topo
-  - `pop()` → remove do topo
 - **Usos**: Execução de funções, backtracking, algoritmos DFS.
 - **Complexidade**: O(1) para inserção e remoção.
 
-### 📚 Fila (Queue)
+### Conjuntos (Set)
+- **Descrição**: Coleção de valores únicos, sem ordem específica.
+- **Usos**: Verificação de duplicatas, operações matemáticas de união/interseção.
+
+### Fila (Queue)
 - **Descrição**: Estrutura FIFO (First In, First Out).
 - **Operações**: 
-  - `enqueue(x)` → insere no final
-  - `dequeue()` → remove do início
 - **Usos**: Algoritmos BFS, buffers, sistemas de espera.
 - **Variações**: Fila dupla (deque), prioridade (priority queue).
 
-### 🎯 Fila de Prioridade (Priority Queue / Heap)
-- **Descrição**: Elemento com maior (ou menor) prioridade é removido primeiro.
-- **Implementação comum**: Heap binário.
-- **Usos**: Algoritmos como Dijkstra, agendamento de tarefas.
-- **Complexidade**: Inserção e remoção O(log n).
-
-### 🌳 Árvores (Trees)
+### Árvores (Trees)
 - **Descrição**: Estrutura hierárquica onde cada nó aponta para filhos.
 - **Tipos importantes**:
   - Binária
@@ -123,23 +121,16 @@ Quanto menor a complexidade, **mais escalável** o algoritmo é para entradas gr
 - **Usos**: Busca eficiente, organização hierárquica, auto-complete.
 - **Complexidade média**: O(log n) busca/inserção em árvores balanceadas.
 
-### 📦 Hash Table (Map / Dicionário)
-- **Descrição**: Associa chaves a valores usando função de hash.
-- **Operações**:
-  - `put(k, v)`, `get(k)`, `delete(k)`
-- **Usos**: Busca e acesso ultra rápidos (O(1) em média).
-- **Limitações**: Colisões, pior caso O(n).
+### Fila de Prioridade (Priority Queue / Heap)
+- **Descrição**: Elemento com maior (ou menor) prioridade é removido primeiro.
+- **Implementação comum**: Heap binário.
+- **Usos**: Algoritmos como Dijkstra, agendamento de tarefas.
+- **Complexidade**: Inserção e remoção O(log n).
 
-### 🧠 Grafos (Graphs)
+### Grafos (Graphs)
 - **Descrição**: Conjunto de nós (vértices) conectados por arestas.
 - **Representações**:
   - Lista de adjacência (eficiente)
   - Matriz de adjacência (simples, mas consome espaço)
 - **Tipos**: Dirigido, não-dirigido, ponderado, cíclico, acíclico.
 - **Usos**: Redes, caminhos mínimos (Dijkstra, BFS/DFS), IA, web.
-
-### 🧮 Conjuntos (Set)
-- **Descrição**: Coleção de valores únicos, sem ordem específica.
-- **Usos**: Verificação de duplicatas, operações matemáticas de união/interseção.
-- **Operações típicas**: 
-
