@@ -118,11 +118,11 @@
 ---
 
 ## Indíces para créditos
-### [WEP](#wep)
+### [WEP](#wep-wired-equivalent-privacy)
 > Créditos as imagens: [WEP](https://www.gta.ufrj.br/ensino/eel879/trabalhos_vf_2011_2/rodrigo_paim/wep.html)
 Veja mais em [WEP Wikipedia](https://pt.wikipedia.org/wiki/Wired_Equivalent_Privacy)
 
-### [WPA/WPA2-Personal](#wpa/wpa2-personal)
+### [WPA/WPA2-Personal](#wpawpa2-personal)
 > Créditos as imagens: [WPA/WPA2 4-way handshake](https://www.researchgate.net/publication/328632250/figure/fig1/AS:11431281414288789@1746014898884/A-detailed-diagram-of-the-four-way-handshake-Msg-Message.tif) [Processo simplificado](https://duckduckgo.com/?t=ffab&q=WPA%2FWPA2-Personal+handshake&ia=images&iax=images&iai=https%3A%2F%2Fraw.githubusercontent.com%2Fkoutto%2Fpi-pwnbox-rogueap%2Fmain%2Fimg%2Fwpa-psk-authentication-4way-handshake.png)
 Veja mais em [WPA Wikipedia](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access)
 
