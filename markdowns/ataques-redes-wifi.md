@@ -42,7 +42,6 @@
 | **4-Way handshake WPA/WPA2-Personal**        | **Processo simplificado**                              |
 |----------------------------------------------|--------------------------------------------------------|
 |![](../assets/wpa-wpa2-personal-handshake.png)|![](../assets/wpa-psk-authentication-4way-handshake.png)|
-> O "r" significa counter, e nem todas as fórmulas estão completas.
 
 - **Handshake de 4 vias**:
   - **Mensagem 1** (AP => STA)
