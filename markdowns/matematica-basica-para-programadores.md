@@ -183,5 +183,6 @@ Quanto menor a complexidade, **mais escalável** o algoritmo é para entradas gr
 - `value |= 1 << 7` — seta (coloca como 1) o bit de índice 7.  
 - `value ^= value` — zera `value` (todo bit se torna 0).  
 - `value & (value - 1)` — remove o bit menos significativo “1” de `value`. 
+- `value = (value + 3) & ~3` - arrendonda para um múltiplo de 4.
 
 ![Tabela de operações binárias básicas](../assets/operacoes-binarias.png)
