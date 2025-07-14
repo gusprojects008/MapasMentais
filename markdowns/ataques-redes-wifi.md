@@ -50,20 +50,17 @@
   - **Mensagem 2** (STA => AP):
     - O cliente gera seu próprio *SNonce*.
     - Cliente calcula a PMK (Pairwise Master Key): `PMK = PBKDF2(HMAC_SHA1, passphrase, SSID, 4096, 256)`
-    - Com a PMK, ANonce, SNonce, MAC do AP e do cliente, ele calcula o PTK (Pairwise Transit Key):
-      ```
-      PTK = PRF(PMK, "Pairwise key expansion", Min(AP_MAC, STA_MAC) || Max(AP_MAC, STA_MAC) || Min(ANonce, SNonce) || Max(ANonce, SNonce))
-      ```
+    - Com a PMK, ANonce, SNonce, MAC do AP e do cliente, ele calcula o PTK (Pairwise Transit Key): `PTK = PRF(PMK, "Pairwise key expansion", Min(AP_MAC, STA_MAC) || Max(AP_MAC, STA_MAC) || Min(ANonce, SNonce) || Max(ANonce, SNonce))`
     - Em seguida, envia o *SNonce* e um MIC (Message Integrity Code) da mensagem 2, calculado com a chave KCK (Key Confirmation Key) extraída do PTK.
-    - MIC = HMAC-SHA1(KCK, dados_da_mensagem)
-    - KCK = Primeiros 128 bits da PTK.
+    - `MIC = HMAC-SHA1(KCK, dados_da_mensagem)`
+    - `KCK = Primeiros 128 bits da PTK.`
     - KEK (Key Encryption Key) = Próximos 128 bits.
     - TK (Temporal Key) = Restante 128 bits para TKIP, 256 bits para CCMP (Counter Mode CBC-MAC Protocol).
    
   - **Mensagem 3** (AP => STA):
     - O AP calcula o mesmo PTK, valida o MIC da mensagem 2.
     - Envia a GTK (Group Temporal Key) criptografada com a KEK (Key Encryption Key), também derivada do PTK.
-    - GTK = PRF-X(GMK,"Group key expansion",AA+GN+GNonce), A GMK é gerada aleatóriamente pelo AP.
+    - `GTK = PRF-X(GMK,"Group key expansion",AA+GN+GNonce)`, A GMK é gerada aleatóriamente pelo AP.
    
   - **Mensagem 4** (STA => AP):
     - O cliente confirma a instalação das chaves enviando o último MIC.
