@@ -1,6 +1,6 @@
 # Matemática básica para programadores
 
-> 📚 Uma das grandes vantagens de sempre ter em mente conceitos matemáticos e computacionais básicos, é capacidade de poder resolver problemas de forma mais rápida, simples e eficiente para a memória e processamento do computador. Além de auxiliar na criatividade de soluções e funcionalidades complexas e eficientes.
+> 📚 Uma das grandes vantagens de sempre ter em mente conceitos matemáticos e computacionais básicos, é a capacidade de poder resolver problemas de forma mais rápida, simples e eficiente para a memória e processamento do computador. Além de auxiliar na criatividade de soluções e funcionalidades complexas e eficientes.
 
 ---
 
@@ -12,10 +12,10 @@
 - **`-`**: Subtrai um número do outro `1 - 1 = 0`, assim também encontrando a diferença entre eles.
   - Operação em termos matemáticos: `Minuendo - Subtraendo = Diferença/resultado`   
 
-- `*`: Multiplica dois valores, repetindo o primeiro valor quantas vezes indica o segundo. Exemplo: `3 * 4 = 12` (ou seja, 3 somado 4 vezes).
+- `*`: Multiplica dois valores, repetindo o primeiro valor na mesma quantidade de vezes do segundo. Exemplo: `3 * 4 = 12 porque 3 + 3 + 3 + 3 = 12` (ou seja, 3 somado 4 vezes).
   - Operação em termos matemáticos: `Multiplicando × Multiplicador = Produto/resultado`
 
-- **`/`**: Divide um valor (Dividendo) pela quantidade de vezes do outro (Divisor), dessa forma, encontrando o número/resultado (Quociente) que indique quantas vezes ele pode ser multiplicado pelo segundo valor (Divisor), para chegar no primeiro valor (Dividendo). Exemplo: `10 / 2 = 5 -> 5 * 2 = 10`. Em linguagens de programação, usar "/" Pode gerar número com casas decimais (float), mas usar "//" resulta em um resultado inteiro (sem casa decimais).
+- **`/`**: Divide um valor (Dividendo) pela quantidade de vezes do outro (Divisor), dessa forma, encontrando o número/resultado (Quociente) que indique quantas vezes ele pode ser multiplicado pelo segundo valor (Divisor), para chegar no primeiro valor (Dividendo). Exemplo: `10 / 2 = 5` e `5 * 2 = 10`. Em linguagens de programação, usar "/" Pode retornar um número com casas decimais (float), mas usar "//" resulta em um inteiro (sem casa decimais).
   - Operação em termos matemáticos: `Dividendo ÷ Divisor = Quociente/resultado`
 
 ---
