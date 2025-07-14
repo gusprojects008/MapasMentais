@@ -22,26 +22,31 @@
 ---
 
 - ### Words order (SVO)
+
   - **Affirmative sentences**:
     - Basic structure: `Subject + Main verb + (s/es for he/she/it) + object + complement (optional)`
     - **Examples**:
-      - ***I play soccer*** = Eu jogo futebol = Verbal form = First person singular, simple present.
-      - ***I want to play a game*** = Eu quero jogar um jogo = Verbal form = First person singular, simple present, infinitive (to play).
-      - ***I am going to read a book*** = Eu vou ler um livro = Verbal form = First person verbal, simple present, near future, infinitive (to read).
-      - ***She reads a book*** = Ela lê um livro = Verbal form = Third person singular, simple present.
+      - ***I play soccer*** = Eu jogo futebol = Verbal form: First person singular, simple present.
+      - ***You wanted to play a game*** = Você queria jogar um jogo = Verbal form: Second person singular, simple past, infinitive (to play).
+      - ***They will read a book*** = Eles irão ler um livro = Verbal form: Third person plural, simple future.
 
   - **Negative sentences**:
     - **Basic structure**:  
-      `Subject + Auxiliary verb + Negation (Not) + Main verb + object/complement`  
-      > In negative statements, the auxiliary verb is usually used in the negative form (contracted).  
-      > Example: ***Is not*** == **Isn't** or ***I do not*** == **I don't**.
+      `Subject + Auxiliary verb + Negation (not) + Main verb + object/complement`  
+      > In negative statements, the auxiliary verb is usually used in the negative (contracted) form.  
+      > Examples: ***is not*** = **isn't**, ***do not*** = **don't**, ***will not*** = **won't**
     
     - **Examples**:
-      - ***I don't play soccer*** = Eu não jogo futebol.
-      - ***I don't want to play a game*** = Eu não quero jogar um jogo.
-      - ***I am not going to read a book*** = Eu não vou ler um livro.
-      - ***She doesn't read a book*** = Ela não lê um livro.
+      - ***I don't play soccer.*** = Eu não jogo futebol. = Verbal form: First person singular, simple present.
+      - ***You didn't want to play a game.*** = Você não queria jogar um jogo. = Verbal form: Second person singular, simple past.
+      - ***They won't read a book.*** = Eles não irão ler um livro. = Verbal form: Third person plural, simple future.
 
-  - **Future sentences**:
-    - **Basic structure**:
-       
+  - **Interrogative sentences**:
+    - **Basic structure**:  
+      `Auxiliary verb (Do, Does, Did, Will, Is) + Subject + Main verb + object/complement`
+    
+    - **Examples**:
+      - ***Do I play soccer well?*** = Eu jogo futebol bem? = Verbal form: First person singular, simple present.
+      - ***Did you know how to play football?*** = Você sabia jogar futebol? = Verbal form: Second person singular, simple past.
+      - ***Will he play football?*** = Ele jogará futebol? = Verbal form: Third person singular, simple future.
+
