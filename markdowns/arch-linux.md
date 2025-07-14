@@ -23,12 +23,9 @@ O firmware de um dispositivo específico como um adaptador ou placa de rede wifi
 - Implementação de operações do protocolo 802.11 em tempo real
 - Monitoramento de falhas
 
-O firmware de uma placa mãe de um computador é o software responsável por identificar, analisar, iniciar e gerenciar o comportamento incial dos dispositivos básicos do computador, CPU, memória RAM, dispositivos I/O, dispositivos de armazenameento como: HD(Hard disk), SSD(Solid State Driver) entre outros. Fazendo a inter-comunicaçao entre eles, e controlando a distribuição de recursos entre eles, como energia e memoria.
+O firmware de uma placa mãe de um computador é o software responsável por identificar, analisar, iniciar e gerenciar o comportamento incial dos dispositivos básicos do computador, CPU, memória RAM, dispositivos I/O, dispositivos de armazenameento como: HD(Hard disk), SSD(Solid State Driver) entre outros. Fazendo a inter-comunicaçao, e controlando a distribuição de recursos entre eles, como energia e memoria.
 
 > Em ambos os casos, ele é geralmente armazenado em um circuito integrado (chip) de memória na placa mãe, ou do circuito específico, como: ROM(Read Only Memory), PROM, EPROM ou memória flash. Mas em muitos dispositivos modernos que recebem atualizações regulares de firmware, para implementação de funcionalidades e correção de bugs, a própria fabricante fornece o(s) binário(s) do firmware do dispositivo, para assim, o próprio kernel do sistema operacional durante a inicialização, carregar eles na memória RAM ou no dispositivo em si.
-
-Durante a instalação do Archlinux, os pacotes são instalados no partição raiz que o sistema operacional irá utilizar, por meio do pacstrap e repositorios AUR (Arch User Repository). E no pacote "base" do  repositorio AUR, irá possuir as  principais ferramentas utilizadas pelo sistema  operacional, como o gerenciador de pacotes usado no archlinux "PACMAN", usado para instalar os outros programas e pacotes dos respositorios AUR.
-
 
 É o tipo mais básico de firmware, que fornece uma interface e funcionalidades básicas para gerenciar as configurações internas do computador e seus dispositivos, assim como a inicialização deles.
 
@@ -44,6 +41,9 @@ O UEFI é uma extensão unificada e padronizada do EFI, baseado nas funcionalida
 O EFI foi projetado para utilizar o sistema de tabela de partições GPT, ideal para os dispositivos de hoje em dia, que possuem uma maior capacidade de armazenamento.
 
 O UEFI como uma extensão do EFI, já possui recursos e funcionalidades que permitem suporte a mais dispositivos e definição de configurações específicas para eles.
+
+
+Durante a instalação do Archlinux, os pacotes são instalados no partição raiz que o sistema operacional irá utilizar, por meio do pacstrap e repositorios AUR (Arch User Repository). E no pacote "base" do  repositorio AUR, irá possuir as  principais ferramentas utilizadas pelo sistema  operacional, como o gerenciador de pacotes usado no archlinux "PACMAN", usado para instalar os outros programas e pacotes dos respositorios AUR.
 
 É uma partição usada para criar outras partições lógicas dentro dela.
 Essas partições lógicas geralmente são usadas para armazenar arquivos e em alguns casos sistema operacionais. Mas que geralmente não podem ser usadas para inicializar sistema operacionais.
@@ -68,9 +68,6 @@ Tendo geralmente um espaço de armazenamento de 512 bytes.
 partição.
 Dessa forma, no GPT não existe os conceitos de partições estendidas ou lógicas, mas apenas primárias, pois todas possuem um identificador global único que diferencia cada uma delas no sistema de tabela de partições.
 Assim, podem ser criadas 128 ou mais partições primárias, e com tamanhos de até 9.4ZT.
-
-O firmware de um dispositivo especifico,
- é responsável por fazer o gerenciamento e controle interno dos recursos do circuito do dispositvo.
 
 Como a distruibuiçao de energia entre os componentes e microcontroladores, assim como a comunicação (troca de informaçoes internas entre eles).
 
@@ -254,19 +251,6 @@ Criando uma cópia isolada de um sistema físico, dentro do atual sistema.
 
 Dessa forma, permitindo executar sistemas operacionais e programas dentro delas.
 
-Melhor entendimento do funcionamento do computador, e sistema operacional.
-Define como um dispositivo de armazenamento gerencia e organiza as partições que contém sistemas de arquivos.
-Ideal para quem está estudando e começando na área da computação!
-Fornecendo um maior controle sobre seu sistema, o que é utilizado nele e o que você utiliza no dia a dia.
-Liberdade de escolha sobre softwares críticos no sistema, e escolher de acordo com o propósito e objetivo de cada um.
-Liberdade em escolher programas e aplicações livre e de código aberto, que não coletam dados, ou, que te dá a possibilidade de escolher quais dados fornecer.
-São programas de código aberto, que passam po auditorias de segurança regulares. E que constantemente está em desenvolvimento, recebendo atualizações para correção de bugs e vulnerabilidades.
-Pois é um software livre e codigo aberto para todos.
-Fornecendo mais transparência para quem utiliza.
-Durante a instalação do  Archlinux, é instalado os  pacotes do repositorio  AUR(Arch User Repository),  e no pacote "base" do  repositorio AUR, possui as  principais ferramentas  usadas pelo sistema  operacional, como o gerenciador de pacotes usado no archlinux, usado para instalar os outros programas e pacotes do respositorio AUR.
-Em um computador, é o software responsável por identificar, análisar, iniciar e gerenciar o comportamento incial dos dispositivos básicos do computador, CPU, memória RAM, dispositivos I/O, dispositivos de armazenameento como: HD(Hard disk), SSD(Solid State Driver) entre outros. Fazendo a inter-comunicaçao entre eles, e controlando a distribuição de recursos entre eles, como energia e memoria.
-Ele é armazenado em um circuito integrado (chip) de memória na placa mãe, como: ROM(Read Only Memory), PROM, EPROM ou memória flash.
-É o tipo mais básico de firmware, que fornece uma interface e funcionalidades básicas para gerenciar as configurações internas do computador e seus dispositivos, assim como a inicialização deles.
 Baseado primeiramente no firmware EFI, que surgiu justamente para superar as limitações do firmware BIOS. Por conta dos avanços nas capacidades dos hadwares ná época, foi necessário surgir o EFI.
 Possui muitas limitações com os dispositivos existentes hoje em dia.
 Ele suporta apenas dispositivos de armazenamento que utilizam o sistema de tabela de partições MBR (Master Boot Record).
@@ -349,18 +333,6 @@ Isso é feito por meio do processo de virtualização. Através de softwares que
 Criando uma cópia isolada de um sistema físico, dentro do atual sistema.
 Dessa forma, permitindo executar sistemas operacionais e programas dentro delas.
 
-Melhor entendimento do funcionamento do computador, e sistema operacional.
-Define como um dispositivo de armazenamento gerencia e organiza as partições que contém sistemas de arquivos.
-Ideal para quem está estudando e começando na área da computação!
-Fornecendo um maior controle sobre seu sistema, o que é utilizado nele e o que você utiliza no dia a dia.
-Liberdade de escolha sobre softwares críticos no sistema, e escolher de acordo com o propósito e objetivo de cada um.
-Liberdade em escolher programas e aplicações livre e de código aberto, que não coletam dados, ou, que te dá a possibilidade de escolher quais dados fornecer.
-São programas de código aberto, que passam po auditorias de segurança regulares. E que constantemente está em desenvolvimento, recebendo atualizações para correção de bugs e vulnerabilidades.
-Pois é um software livre e codigo aberto para todos.
-Fornecendo mais transparência para quem utiliza.
-Durante a instalação do  Archlinux, é instalado os  pacotes do repositorio  AUR(Arch User Repository),  e no pacote "base" do  repositorio AUR, possui as  principais ferramentas  usadas pelo sistema  operacional, como o gerenciador de pacotes usado no archlinux, usado para instalar os outros programas e pacotes do respositorio AUR.
-Em um computador, é o software responsável por identificar, análisar, iniciar e gerenciar o comportamento incial dos dispositivos básicos do computador, CPU, memória RAM, dispositivos I/O, dispositivos de armazenameento como: HD(Hard disk), SSD(Solid State Driver) entre outros. Fazendo a inter-comunicaçao entre eles, e controlando a distribuição de recursos entre eles, como energia e memoria.
-Ele é armazenado em um circuito integrado (chip) de memória na placa mãe, como: ROM(Read Only Memory), PROM, EPROM ou memória flash.
 É o tipo mais básico de firmware, que fornece uma interface e funcionalidades básicas para gerenciar as configurações internas do computador e seus dispositivos, assim como a inicialização deles.
 Baseado primeiramente no firmware EFI, que surgiu justamente para superar as limitações do firmware BIOS. Por conta dos avanços nas capacidades dos hadwares ná época, foi necessário surgir o EFI.
 Possui muitas limitações com os dispositivos existentes hoje em dia.
