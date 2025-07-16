@@ -3,8 +3,9 @@
 - ## Learning order:
   - [Word classes](#word-classes)
   - [Words order (SVO)](#words-order-svo)
-  - Verb tenses
-  - Regular and irregular verbs
+  - [Verbs](#verbs)
+    - Regular and irregular verbs
+    - Verb tenses
 
 ---
 
@@ -18,6 +19,8 @@
   - **Conjunctions**: They link sentences or words, indicating relationships of meaning between them, e.g: but, because, and, although, or.
   - **Article**: Determine a noun, e.g: the, a.
   - **Interjection**: Expresses a emotion, e.g: ouch!, wow!.
+
+> In english, adjectives usually come before the noun! for example: red apple, beautiful house, a strange noise, etc...
 
 ---
 
@@ -50,3 +53,47 @@
       - ***Did you know how to play football?*** = Você sabia jogar futebol? = Verbal form: Second person singular, simple past.
       - ***Will he play football?*** = Ele jogará futebol? = Verbal form: Third person singular, simple future.
 
+### Verbs
+
+#### Regular and irregular verbs
+Regular verbs are verb that follow a pattern to fit a specific tense or mood, using prefixes to follow the pattern, for example: using "ed" to indicate that the verb is in the past tense, such as: worked, played, opened, etc...
+Note that all verbs (work, play, open) use the "ed" at the end to indicate that they are in past tense.
+
+However, irregular verbs have heir own form to indicate the tense (past, present, futere, etc...) or mood, for example:
+| Verb base (simple present) | Past simple | Past participle |
+|----------------------------|-------------|-----------------|
+| Go                         | Went        | gone            |
+| Eat                        | Ate         | Eaten           |
+| See                        | Saw         | Seen            |
+| Have                       | Had         | Had             |
+
+#### Verb tenses
+| Tense Name                     | Structure                                     | Example                                | Tradução                                 |
+|--------------------------------|-----------------------------------------------|----------------------------------------|------------------------------------------|
+| **Simple Present**             | Subject + base verb (+s/es for he/she/it)     | She works every day.                   | Ela trabalha todos os dias.              |
+| **Simple Past**                | Subject + past form of the verb               | We visited Paris.                      | Nós visitamos Paris.                     |
+| **Present Continuous**         | Subject + am/is/are + verb(-ing)              | I am studying now.                     | Eu estou estudando agora.                |
+| **Present Perfect**            | Subject + have/has + past participle          | They have finished the task.           | Eles terminaram a tarefa.                |
+| **Present Perfect Continuous** | Subject + have/has been + verb(-ing)          | He has been working all day.           | Ele está trabalhando o dia todo.         |
+
+| **Past Continuous**            | Subject + was/were + verb(-ing)               | She was reading a book.                | Ela estava lendo um livro.               |
+| **Past Perfect**               | Subject + had + past participle               | I had eaten before you arrived.        | Eu tinha comido antes de você chegar.    |
+| **Past Perfect Continuous**    | Subject + had been + verb(-ing)               | They had been studying for hours.      | Eles estavam estudando há horas.         |
+
+| **Simple Future**              | Subject + will + base verb                    | I will call you tomorrow.              | Eu vou te ligar amanhã.                  |
+| **Future Perfect**             | Subject + will have + past participle         | He will have finished by then.         | Ele terá terminado até lá.               |
+| **Future Continuous**          | Subject + will be + verb(-ing)                | She will be traveling at 9 AM.         | Ela estará viajando às 9h.               |
+| **Future Perfect Continuous**  | Subject + will have been + verb(-ing)         | We will have been working for 5 hours. | Estaremos trabalhando há 5 horas.        |
+
+#### To be verbs
+| Form |  Tempo e tipo   | Pessoa(s) usada(s) | Exemplo     | Tradução                          | 
+|------|-----------------|--------------------|-------------|-----------------------------------|
+| am   | Present simples | I                  | I am happy | Eu estou feliz! (am == Sou/Estou) | 
+| is   | Present simples | He, She, it        | She is at home | Ela está em casa (is == é/ser) |
+| be   | Present simples | 
+to
+has
+have
+are
+was/were
+been
