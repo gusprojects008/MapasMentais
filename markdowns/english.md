@@ -6,7 +6,7 @@
   - [Verbos](#verbs)
     - Regular and irregular verbs
     - Verb tenses
-  - [Palvras básicas do inglês](###basic-words)
+  - [Palvras básicas do inglês](###basic-english-words)
 
 ---
 
@@ -99,7 +99,7 @@ However, irregular verbs have heir own form to indicate the tense (past, present
 
 ---
 
-### Palavras básicas do inglês
+### Basic english words
 #### Dias da Semana em inglês
 
 | English       | Português       |
@@ -113,6 +113,7 @@ However, irregular verbs have heir own form to indicate the tense (past, present
 | Sunday        | Domingo         |
 | Today         | Hoje            |
 | Yesterday     | Ontém           |
+| Tomorrow      | Amanhã          |
 
 #### Partes do Corpo
 
