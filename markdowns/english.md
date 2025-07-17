@@ -6,7 +6,7 @@
   - [Verbos](#verbs)
     - Regular and irregular verbs
     - Verb tenses
-  - [Palvras básicas do inglês](###basic-english-words)
+  - [Palvras básicas do inglês](#basic-english-words)
 
 ---
 
@@ -156,7 +156,7 @@ However, irregular verbs have heir own form to indicate the tense (past, present
 | Soap          | Sabão           |
 | Toothbrush    | Escova de dente |
 
-# Coisas Básicas da Terra/Natureza
+#### Coisas Básicas da Terra/Natureza
 
 | English       | Português       |
 |---------------|-----------------|
