@@ -18,6 +18,16 @@
 - **`/`**: Divide um valor (Dividendo) pela quantidade de vezes do outro (Divisor), dessa forma, encontrando o número/resultado (Quociente) que indique quantas vezes ele pode ser multiplicado pelo segundo valor (Divisor), para chegar no primeiro valor (Dividendo). Exemplo: `10 / 2 = 5` e `5 * 2 = 10`. Em linguagens de programação, usar "/" Pode retornar um número com casas decimais (float), mas usar "//" resulta em um inteiro (sem casa decimais).
   - Operação em termos matemáticos: `Dividendo ÷ Divisor = Quociente/resultado`
 
+- **`Porcentagem`**: A porcentagem é usada para comparar valores proporcionalmente, indicando quantas partes de 100 um valor representa. Na maioria das linguagens de programação (ao contrário do que muitos pensam), o operador `%` NÃO representa a porcentagem, mas sim a operação de módulo (ver a seguir). A maioria das linguagens não possui um operador aritmético específico associado à porcentagem. A fórmula para operações de porcentagem pode ser expressa como `Valor a ser descontado = Preço * Desconto / 100` então nesse caso, para achar o valor que será descontado do preço real do produto, é necessário saber apenas quantas partes de 100 esse **Desconto** representa em relação ao valor base, então fazer a subtração entre o **Preço** e o **Valor a ser descontado** resultante da operação `Preço * Desconto / 100`.
+  - Operação em termos matemáticos: `Valor percentual = Valor base * Porcentagem / 100`
+
+- **`%`**: Esse operador é conhecido como ***módulo (mod)*** e é usado para calcular e retornar o resto da divisão entre inteiros. Exemplo: `10 % 3 = 1` (pois 3 cabe 3 vezes em 10, sobrando 1).
+
+- **`!`**: Fatorial calcula o produto de todos os inteiros positivos de 1 até `n`. Exemplo: `5! = 5 × 4 × 3 × 2 × 1 = 120`. Muito usado em **combinatória** (contar possibilidades), **recursão**, análise de **complexidade** e problemas de permutação.
+  - Operação em termos matemáticos: `n! = n × (n-1) × (n-2) × ... × 1`
+
+- **`log`**: Logaritmo inverte a operação de exponenciação. Retorna o expoente ao qual a base deve ser elevada para se obter um número. Exemplo: `log₂(8) = 3`, pois \(2^3 = 8\). Em programação, usa-se `log` (base `e`), `log10` (base 10), ou `log2` (base 2).
+
 ---
 
 ## Método para entender a ordem das operações matemáticas
@@ -25,12 +35,13 @@
 
 ---
 
-## Operadores aritméticos e funções matemáticas intermediárias, propósitos e funcionalidades
+## Plano Cartesiano
 
-- **`!`**: Fatorial calcula o produto de todos os inteiros positivos de 1 até `n`. Exemplo: `5! = 5 × 4 × 3 × 2 × 1 = 120`. Muito usado em **combinatória** (contar possibilidades), **recursão**, análise de **complexidade** e problemas de permutação.
-  - Operação em termos matemáticos: `n! = n × (n-1) × (n-2) × ... × 1`
+O **plano cartesiano** foi proposto por René Descartes e tem como objetivo unir a geometria à álgebra, permitindo a representação de pontos no espaço ou plano por meio de coordenadas numéricas.  
+Em espaços bidimensionais, os pontos são representados por pares (x, y), e em espaços tridimensionais por trios (x, y, z).  
+Esse sistema é a base para a construção de gráficos, vetores, detecção de colisões, transformações geométricas e aplicações em desenho computacional.
 
-- **`log`**: Logaritmo inverte a operação de exponenciação. Retorna o expoente ao qual a base deve ser elevada para se obter um número. Exemplo: `log₂(8) = 3`, pois \(2^3 = 8\). Em programação, usa-se `log` (base `e`), `log10` (base 10), ou `log2` (base 2).
+[Estrutura básica de um plano cartesiano](../assets/estrutura-plano-cartesiano.jpg)
 
 ---
 
@@ -42,11 +53,11 @@ Essas funções aparecem com frequência em **animações**, **processamento de 
 
 - **`sin`**: Função seno — Relaciona a projeção vertical de um ponto na circunferência unitária. Exemplo: `sin(0) = 0`, `sin(π/2) = 1`. Usado para vibrações, ondas, física e movimento oscilatório.
 
----
+- **`tan`**: Função tangente — Representa a razão entre o seno e o cosseno de um ângulo, ou seja, `tan(θ) = sin(θ) / cos(θ)`.  
+  Exemplo: `tan(0) = 0`, `tan(π/4) = 1`.  
+  Usada em cálculos de inclinação, derivadas de funções trigonométricas, vetores e problemas envolvendo ângulos de visão ou rampa.
 
-## Plano Cartesiano
-
-O **plano cartesiano** foi proposto por René Descartes e une a geometria com a álgebra, permitindo representar pontos no espaço com coordenadas numéricas (x, y). É a base para sistemas de gráficos, vetores, colisões, transformações geométricas e desenho computacional.
+[Seno, cosseno e tangentes](../assets/seno-cosseno-tanegente.png)
 
 ---
 
@@ -186,3 +197,14 @@ Quanto menor a complexidade, **mais escalável** o algoritmo é para entradas gr
 - `value = (value + 3) & ~3` - arrendonda para um múltiplo de 4.
 
 ![Tabela de operações binárias básicas](../assets/operacoes-binarias.png)
+
+---
+
+## Unidades de medida de:
+
+### Unidades de tempo
+[Cálculo de unidades de tempo](../assets/calculo-tempo.jpg)
+[Segundos](../assets/segundos.gif)
+
+### Unidades númericas
+[Tabela númerica](../assets/unidades-numericas.jpg)
