@@ -85,7 +85,7 @@
 - [Formato markdown](markdowns/principios-segurança-da-informação.md)
 
 ## Estrutura de processos, criação e funcionamento
-- [Formato markdown](markdowns/process-structure.md)
+- [Formato markdown](markdowns/estrutura-de-processos-comunicação-hardware-software.md)
 - [Formato Logseq .edn](whiteboards/process-structure.edn)
 
 ## Roadmap de hacking
