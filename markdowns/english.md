@@ -14,7 +14,7 @@
 - **Noun**: Name things, places, feelings and ideas, e.g: Gustavo, dog, car, the FBI, flower.
 - **Adjective**: Qualifies or characterizes a noun, e.g: beautiful, speed, happy, sad.
 - **Verb**: Indicates action, state or natural phenomenon, e.g: run, see, play, watch, study.
-- **Adverb**: Modify a verb, adjective or a other adverb, indicates mode, intensity, time or place, e.g: quickly (rapidamente), bravely (bravamente), happily (falizmente), why (por que), how (como).
+- **Adverb**: Modify a verb, adjective or a other adverb, indicates mode, intensity, time or place, e.g: quickly (rapidamente), bravely (bravamente), happily (felizmente), why (por que), how (como).
 - **Pronoun**: Replaces or accompanies a noun, example: you, my, myself (eu mesmo), this, who (quem), nobody (ninguém).
 - **Prepositions**: They link words, indicating relationships between time, place, cause, etc..., e.g: to (para), of, the, in, by, with.
 - **Conjunctions**: They link sentences or words, indicating relationships of meaning between them, e.g: but, because, and, although, or.
