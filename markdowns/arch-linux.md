@@ -167,25 +167,25 @@
 ### Links e Referências
 - **História da arquitetura do Linux e outros sistemas operacionais baseados em Unix:** [Unix](https://pt.wikipedia.org/wiki/Unix)
 - **Sistema de tabela de partições:**
-    - [GPT](https://www.easeus.com/images/en/screenshot/partition-manager/gpt-disk-layout.png)
-    - [MBR](https://br.easeus.com/images/en/screenshot/partition-manager/mbr-disk-structure.png)
+  - [GPT](https://www.easeus.com/images/en/screenshot/partition-manager/gpt-disk-layout.png)
+  - [MBR](https://br.easeus.com/images/en/screenshot/partition-manager/mbr-disk-structure.png)
 - **Sistema de arquivos:** [Sistemas de arquivos](https://pt.wikibooks.org/wiki/Sistemas_operacionais/Sistemas_de_arquivos)
 - **Memória ROM, RAM, NVRAM:**
-    - [ROM](https://siaguanta.com/wp-content/uploads/2019/12/rom2.png)
-    - [Pendrives e cartões SD](https://miracomosehace.com/wp-content/uploads/2020/05/usb-blanco.jpg)
-    - [Memória RAM](https://www.guiahardware.es/wp-content/webp-express/webp-images/uploads/2018/12/memoria-ram-1024x512.jpeg.webp)
-    - [NVRAM](https://comphome.ru/wp-content/uploads/post/nvram.jpg)
+  - [ROM](https://siaguanta.com/wp-content/uploads/2019/12/rom2.png)
+  - [Pendrives e cartões SD](https://miracomosehace.com/wp-content/uploads/2020/05/usb-blanco.jpg)
+  - [Memória RAM](https://www.guiahardware.es/wp-content/webp-express/webp-images/uploads/2018/12/memoria-ram-1024x512.jpeg.webp)
+  - [NVRAM](https://comphome.ru/wp-content/uploads/post/nvram.jpg)
 - **UEFI Protocols:**
-    - [UEFI LoadFile](https://uefi.org/specs/UEFI/2.10/13_Protocols_Media_Access.html#efi-load-file-protocol-loadfile)
-    - [UEFI Block I/O](https://uefi.org/specs/UEFI/2.10/13_Protocols_Media_Access.html#block-i-o-protocol)
-    - [UEFI Media Access](https://uefi.org/specs/UEFI/2.10/13_Protocols_Media_Access.html)
+  - [UEFI LoadFile](https://uefi.org/specs/UEFI/2.10/13_Protocols_Media_Access.html#efi-load-file-protocol-loadfile)
+  - [UEFI Block I/O](https://uefi.org/specs/UEFI/2.10/13_Protocols_Media_Access.html#block-i-o-protocol)
+  - [UEFI Media Access](https://uefi.org/specs/UEFI/2.10/13_Protocols_Media_Access.html)
 - **Bootloaders, initramfs.img, loopback.cfg, iso9660, GRUB2 mode:**
-    - https://gist.github.com/Hanaasagi/2665e1e28ffcf91d5d62f72fa52fb732/revisions
-    - https://gist.github.com/Hanaasagi/2665e1e28ffcf91d5d62f72fa52fb732
-    - [loopback](https://github.com/Jolicloud/grub2/blob/master/disk/loopback.c)
-    - [SuperGRUB loopback.cfg](https://www.supergrubdisk.org/wiki/Loopback.cfg)
-    - [GRUB2 iso9660](https://github.com/Jolicloud/grub2/blob/master/fs/iso9660.c)
-    - [GRUB2 BOOT](https://www.ventoy.net/en/doc_grub2boot.html)
+  - https://gist.github.com/Hanaasagi/2665e1e28ffcf91d5d62f72fa52fb732/revisions
+  - https://gist.github.com/Hanaasagi/2665e1e28ffcf91d5d62f72fa52fb732
+  - [loopback](https://github.com/Jolicloud/grub2/blob/master/disk/loopback.c)
+  - [SuperGRUB loopback.cfg](https://www.supergrubdisk.org/wiki/Loopback.cfg)
+  - [GRUB2 iso9660](https://github.com/Jolicloud/grub2/blob/master/fs/iso9660.c)
+  - [GRUB2 BOOT](https://www.ventoy.net/en/doc_grub2boot.html)
 - **Pendrive bootável, Ventoy:**
-    - [https://www.ventoy.net](https://www.ventoy.net)
-    - [https://www.ventoy.net/en/doc_disk_layout.html](https://www.ventoy.net/en/doc_disk_layout.html)
+  - [https://www.ventoy.net](https://www.ventoy.net)
+  - [https://www.ventoy.net/en/doc_disk_layout.html](https://www.ventoy.net/en/doc_disk_layout.html)

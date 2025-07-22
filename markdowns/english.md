@@ -11,15 +11,24 @@
 ---
 
 ### Word classes:
-- **Noun**: Name things, places, feelings and ideas, e.g: Gustavo, dog, car, the FBI, flower.
-- **Adjective**: Qualifies or characterizes a noun, e.g: beautiful, speed, happy, sad.
-- **Verb**: Indicates action, state or natural phenomenon, e.g: run, see, play, watch, study.
-- **Adverb**: Modify a verb, adjective or a other adverb, indicates mode, intensity, time or place, e.g: quickly (rapidamente), bravely (bravamente), happily (felizmente), why (por que), how (como).
-- **Pronoun**: Replaces or accompanies a noun, example: you, my, myself (eu mesmo), this, who (quem), nobody (ninguém).
-- **Prepositions**: They link words, indicating relationships between time, place, cause, etc..., e.g: to (para), of, the, in, by, with.
-- **Conjunctions**: They link sentences or words, indicating relationships of meaning between them, e.g: but, because, and, although, or.
-- **Article**: Determine a noun, e.g: the, a.
-- **Interjection**: Expresses a emotion, e.g: ouch!, wow!.
+- **Noun**: Name things, places, feelings and ideas.
+  Example: Gustavo, dog, car, the FBI, flower.
+- **Adjective**: Qualifies or characterizes a noun.
+  Example: beautiful, speed, happy, sad.
+- **Verb**: Indicates action, state or natural phenomenon.
+  Example: run, see, play, watch, study.
+- **Adverb**: Modify a verb, adjective or a other adverb, indicates mode, intensity, time or place.
+  Example: quickly (rapidamente), bravely (bravamente), happily (felizmente), why (por que), how (como).
+- **Pronoun**: Replaces or accompanies a noun.
+  Example: you, my, myself (eu mesmo), this, who (quem), nobody (ninguém).
+- **Prepositions**: They link words, indicating relationships of time, place, direction, cause, etc.
+  Example: to (para), of, in, by, with.
+- **Conjunctions**: They link words, phrases, clauses, indicating relationships of meaning between them.
+  Examples: but, because, and, although (embora), or.
+- **Articles**: Determine a noun.
+  Example: the, a (uma), an (um/uma/e).
+- **Interjection**: Expresses a emotion.
+  Example: ouch!, wow!.
 
 > In english, adjectives usually come before the noun! for example: red apple, beautiful house, a strange noise, etc...
 
@@ -64,10 +73,10 @@ Note that all verbs (work, play, open) use the "ed" at the end to indicate that 
 However, irregular verbs have heir own form to indicate the tense (past, present, futere, etc...) or mood, for example:
 | Verb base (simple present) | Past simple | Past participle |
 |----------------------------|-------------|-----------------|
-| Go                         | Went        | gone            |
-| Eat                        | Ate         | Eaten           |
-| See                        | Saw         | Seen            |
-| Have                       | Had         | Had             |
+| Go                         | Went (foi)  | gone (ido)      |
+| Eat                        | Ate (comeu) | Eaten (comido   |
+| See                        | Saw (viu)   | Seen (visto)    |
+| Have                       | Had (teve)  | Had (tinha)     |
 
 #### Verb tenses
 | Tense Name                     | Structure                                     | Example                                | Tradução                                 |
