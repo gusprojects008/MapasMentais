@@ -1,6 +1,6 @@
-# English study
+# English study (Estudos inglês)
 
-- ## Learning order:
+- ## Learning order (Ordem de estudo):
   - [Classes de palavras](#word-classes)
   - [Ordem das palavras (SVO)](#words-order-svo)
   - [Verbos](#verbs)
@@ -10,20 +10,20 @@
 
 ---
 
-### Word classes:
-- **Noun**: Name things, places, feelings and ideas.
+### Word classes (Classes de plavaras):
+- **Noun (Substantivo)**: Name things, places, feelings and ideas.
   Example: Gustavo, dog, car, the FBI, flower.
-- **Adjective**: Qualifies or characterizes a noun.
+- **Adjective (Adjetivo)**: Qualifies or characterizes a noun.
   Example: beautiful, speed, happy, sad.
-- **Verb**: Indicates action, state or natural phenomenon.
+- **Verb (Verbo)**: Indicates action, state or natural phenomenon.
   Example: run, see, play, watch, study.
-- **Adverb**: Modify a verb, adjective or a other adverb, indicates mode, intensity, time or place.
+- **Adverb (Advérbio)**: Modify a verb, adjective or a other adverb, indicates mode, intensity, time or place.
   Example: quickly (rapidamente), bravely (bravamente), happily (felizmente), why (por que), how (como).
-- **Pronoun**: Replaces or accompanies a noun.
+- **Pronoun (Pronome)**: Replaces or accompanies a noun.
   Example: you, my, myself (eu mesmo), this, who (quem), nobody (ninguém).
-- **Prepositions**: They link words, indicating relationships of time, place, direction, cause, etc.
+- **Prepositions (Preposições)**: They link words, indicating relationships of time, place, direction, cause, etc.
   Example: to (para), of, in, by, with.
-- **Conjunctions**: They link words, phrases, clauses, indicating relationships of meaning between them.
+- **Conjunctions (Conjunções)**: They link words, phrases, clauses, indicating relationships of meaning between them.
   Examples: but, because, and, although (embora), or.
 - **Articles**: Determine a noun.
   Example: the, a (uma), an (um/uma/e).
@@ -70,7 +70,7 @@
 Regular verbs are verb that follow a pattern to fit a specific tense or mood, using prefixes to follow the pattern, for example: using "ed" to indicate that the verb is in the past tense, such as: worked, played, opened, etc...
 Note that all verbs (work, play, open) use the "ed" at the end to indicate that they are in past tense.
 
-However, irregular verbs have heir own form to indicate the tense (past, present, futere, etc...) or mood, for example:
+However, irregular verbs have heir own form to indicate the tense (past, present, future, etc...) or mood, for example:
 | Verb base (simple present) | Past simple | Past participle |
 |----------------------------|-------------|-----------------|
 | Go                         | Went (foi)  | gone (ido)      |
@@ -81,18 +81,18 @@ However, irregular verbs have heir own form to indicate the tense (past, present
 #### Verb tenses
 | Tense Name                     | Structure                                     | Example                                | Tradução                                 |
 |--------------------------------|-----------------------------------------------|----------------------------------------|------------------------------------------|
-| **Simple Present**             | Subject + base verb (+s/es for he/she/it)     | She works every day.                   | Ela trabalha todos os dias.              |
-| **Simple Past**                | Subject + past form of the verb               | We visited Paris.                      | Nós visitamos Paris.                     |
-| **Present Continuous**         | Subject + am/is/are + verb(-ing)              | I am studying now.                     | Eu estou estudando agora.                |
-| **Present Perfect**            | Subject + have/has + past participle          | They have finished the task.           | Eles terminaram a tarefa.                |
-| **Present Perfect Continuous** | Subject + have/has been + verb(-ing)          | He has been working all day.           | Ele está trabalhando o dia todo.         |
-| **Past Continuous**            | Subject + was/were + verb(-ing)               | She was reading a book.                | Ela estava lendo um livro.               |
-| **Past Perfect**               | Subject + had + past participle               | I had eaten before you arrived.        | Eu tinha comido antes de você chegar.    |
-| **Past Perfect Continuous**    | Subject + had been + verb(-ing)               | They had been studying for hours.      | Eles estavam estudando há horas.         |
-| **Simple Future**              | Subject + will + base verb                    | I will call you tomorrow.              | Eu vou te ligar amanhã.                  |
-| **Future Perfect**             | Subject + will have + past participle         | He will have finished by then.         | Ele terá terminado até lá.               |
-| **Future Continuous**          | Subject + will be + verb(-ing)                | She will be traveling at 9 AM.         | Ela estará viajando às 9h.               |
-| **Future Perfect Continuous**  | Subject + will have been + verb(-ing)         | We will have been working for 5 hours. | Estaremos trabalhando há 5 horas.        |
+| **Simple Present**             | base verb (+s/es for he/she/it)     | She works every day.                   | Ela trabalha todos os dias.              |
+| **Simple Past**                | usually, base verb + (ed)           | We visited Paris.                      | Nós visitamos Paris.                     |
+| **Present Continuous**         | am/is/are + verb(-ing)              | I am studying now.                     | Eu estou estudando agora.                |
+| **Present Perfect**            | have/has + past participle          | They have finished the task.           | Eles terminaram a tarefa.                |
+| **Present Perfect Continuous** | have/has been + verb(-ing)          | He has been working all day.           | Ele está trabalhando o dia todo.         |
+| **Past Continuous**            | was/were + verb(-ing)               | She was reading a book.                | Ela estava lendo um livro.               |
+| **Past Perfect**               | had + past participle               | I had eaten before you arrived.        | Eu tinha comido antes de você chegar.    |
+| **Past Perfect Continuous**    | had been + verb(-ing)               | They had been studying for hours.      | Eles estavam estudando há horas.         |
+| **Simple Future**              | will + base verb                    | I will call you tomorrow.              | Eu vou te ligar amanhã.                  |
+| **Future Perfect**             | will have + past participle         | He will have finished by then.         | Ele terá terminado até lá.               |
+| **Future Continuous**          | will be + verb(-ing)                | She will be traveling at 9 AM.         | Ela estará viajando às 9h.               |
+| **Future Perfect Continuous**  | will have been + verb(-ing)         | We will have been working for 5 hours. | Estaremos trabalhando há 5 horas.        |
 
 #### To be verbs
 | Form  |  Tempo e tipo do Verbo  | Pessoa(s) usada(s)    | Exemplo                | Tradução                                                                 |
@@ -194,5 +194,29 @@ However, irregular verbs have heir own form to indicate the tense (past, present
 | Bird          | Pássaro         |
 | Fish          | Peixe           |
 
+#### Cores
 
+| English   | Português |
+|-----------|-----------|
+| Red       | Vermelho  |
+| Blue      | Azul      |
+| Green     | Verde     |
+| Yellow    | Amarelo   |
+| Black     | Preto     |
+| White     | Branco    |
+| Gray/Grey | Cinza     |
+| Orange    | Lanraja   |
+| Brown     | Marrom    |
+| Violet    | Violeta   |
+| Beige     | Bege      |
+| Gold      | Ouro      |
+| Silver    | Prata     |
+| Purple    | Roxo      |
+| Pink      | Rosa      |
+| Cyan      |           |
 
+#### Numbers
+
+| English | Português |
+|---------|-----------|
+| One     | 1         |
