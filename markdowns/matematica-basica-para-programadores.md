@@ -77,16 +77,18 @@ Usada em:
 
 A **notação Big O** descreve o comportamento de um algoritimo em relação ao tempo de execução e desempenho/eficiência à medida que a entrada/processamento de dados cresce. A notação ***Big Oh*** Ignora detalhes como tempo real de execução e foca na **ordem de crescimento** do algoritimo.
 
-| Notação      | Nome             | Exemplo                        |
-|--------------|------------------|--------------------------------|
-| `O(1)`       | Constante        | Acesso direto em array         |
-| `O(log n)`   | Logarítmica      | Busca binária                  |
-| `O(n)`       | Linear           | Percorrer uma lista            |
-| `O(n log n)` | Quase-linear     | Merge Sort, Quick Sort         |
-| `O(n²)`      | Quadrática       | Bubble Sort, nested loops      |
-| `O(2^n)`     | Exponencial      | Backtracking, subsets          |
+| Notação      | Nome e escala de tempo            | Exemplo                        |
+|--------------|-----------------------------------|--------------------------------|
+| `O(1)`       | Constante                         | Acesso direto em array         |
+| `O(log n)`   | Logarítmica                       | Busca binária                  |
+| `O(n)`       | Linear                            | Percorrer uma lista            |
+| `O(n log n)` | Quase-linear                      | Merge Sort, Quick Sort         |
+| `O(n²)`      | Quadrática                        | Bubble Sort, nested loops      |
+| `O(2^n)`     | Exponencial                       | Backtracking, subsets          |
 
 Quanto menor a complexidade, **mais escalável** o algoritmo é para entradas grandes.
+
+O **O** que aparace na notação, por exemplo *O(n)*, significa **Order**, ou seja, ordem de crescimento.
 
 ---
 
@@ -178,16 +180,18 @@ Quanto menor a complexidade, **mais escalável** o algoritmo é para entradas gr
 
 ## Operações binárias
 
+[Veja meu blog sobre o porquê dos computadores usam o sistema binário](https://cyberspace-bnw.pages.dev/blogs/contents/o-que-e-o-sistema-binario-e-como-ele-funciona)
+
 > Trabalhar diretamente com bits é essencial para trabalhar com **bitmaps** de configurações ou informações de pacotes de rede, assim como **máscaras** de rede por exemplo, **flags**, **compressão**, **criptografia** e **otimizações de baixo nível**:
 
-| Operador | Nome             | Descrição       |
-|----------|------------------|-----------------|
-| `<< n`   | Shift left       | Desloca todos os bits **n** posições para a esquerda (multiplica por 2ⁿ).
-| `>> n`   | Shift right      | Desloca todos os bits **n** posições para a direita (divide por 2ⁿ, descarta bits menos significativos).|
-| `&`      | AND              | Bit a bit: `1 & 1 = 1`, senão `0`. Usado em máscaras para **limpar** bits. |
-| `\|`      | OR               | Bit a bit: `0 \| 1 = 1`. Usado para **definir** bits sem alterar os demais. |
+| Operador | Nome             | Descrição                                                                                                    |
+|----------|------------------|--------------------------------------------------------------------------------------------------------------|
+| `<< n`   | Shift left       | Desloca todos os bits **n** posições para a esquerda (multiplica por 2ⁿ).                                    |
+| `>> n`   | Shift right      | Desloca todos os bits **n** posições para a direita (divide por 2ⁿ, descarta bits menos significativos).     |
+| `&`      | AND              | Bit a bit: `1 & 1 = 1`, senão `0`. Usado em máscaras para **limpar** bits.                                   |
+| `\|`     | OR               | Bit a bit: `0 \| 1 = 1`. Usado para **definir** bits sem alterar os demais.                                  |
 | `^`      | XOR              | Bit a bit: `1 ^ 1 = 0`, `1 ^ 0 = 1`. Útil para **toggle** de bits e truques de swap sem variável temporária. |
-| `~`      | NOT              | Inversão de todos os bits: `~1010 → 0101`. |
+| `~`      | NOT              | Inversão de todos os bits: `~1010 → 0101`.                                                                   |
 
 ### **Exemplos práticos**:  
 - `mask = value & 0x0F` — isola os 4 bits menos significativos.  
