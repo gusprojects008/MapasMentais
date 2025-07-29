@@ -243,54 +243,49 @@ However, irregular verbs have heir own form to indicate the tense (past, present
 ###### Rules for reading numbers
 > Identify the patterns!
 
-**Dozens**:
-
-| twenty  | 20  |
-| thirty  | 30  |
-| fourty  | 40  |
-| fifty   | 50  |
-| sixty   | 60  |
-| seventy | 70  |
-| eighty  | 80  |
-| ninety  | 90  |
-
+| Dozens  | Numbers |
+|---------|---------|
+| twenty  | 20      |
+| thirty  | 30      |
+| fourty  | 40      |
+| fifty   | 50      |
+| sixty   | 60      |
+| seventy | 70      |
+| eighty  | 80      |
+| ninety  | 90      |
 ***Examples***: *twenty one* == 21.
 
 
-**Hundreds**:
-
-| one hundred   | 100 |
-| two hundred   | 200 |
-| three hundred | 300 |
-| fourt hundred | 400 |
-| five hundred  | 500 |
-| six hundred   | 600 |
-| seven hundred | 700 |
-| eight hundred | 800 |
-| nine hundred  | 900 |
-
+| Hundreds      | Numbers |
+|---------------|---------|
+| one hundred   | 100     |
+| two hundred   | 200     |
+| three hundred | 300     |
+| fourt hundred | 400     |
+| five hundred  | 500     |
+| six hundred   | 600     |
+| seven hundred | 700     |
+| eight hundred | 800     |
+| nine hundred  | 900     |
 ***Examples***: *one hundred one* == 101
 
-
-**Thousands**:
-
-| one thousand   | 1000   |
-| two thousand   | 2000   |
-| three thousand | 3000   |
-| four thousand  | 4000   |
-| five thousand  | 5000   |
-| six thousand   | 6000   |
-| seven thousand | 7000   |
-| eight thousand | 8000   |
-| nine thousand  | 9000   |
-
+| Thousands      | Numbers |
+|----------------|---------|
+| one thousand   | 1000    |
+| two thousand   | 2000    |
+| three thousand | 3000    |
+| four thousand  | 4000    |
+| five thousand  | 5000    |
+| six thousand   | 6000    |
+| seven thousand | 7000    |
+| eight thousand | 8000    |
+| nine thousand  | 9000    |
 ***Examples***: *one thousand one* == 1001.
 
 
-**Millions**:
-
+| Millions     | Numbers |
+|--------------|---------|
 | one million  | 1000000 |
 | two million  | 2000000 |
 | idem million |         |
-
 ***Examples***: *one million three hundred thousand* == 1.300.000
