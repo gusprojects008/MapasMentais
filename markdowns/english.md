@@ -17,7 +17,7 @@
   Example: beautiful, speed, happy, sad.
 - **Verb (Verbo)**: Indicates action, state or natural phenomenon.
   Example: run, see, play, watch, study.
-- **Adverb (Advérbio)**: Modify a verb, adjective or a other adverb, indicates mode, intensity, time or place.
+- **Adverb (Advérbio)**: Modifies a verb, adjective or another adverb, indicates mode, intensity, time or place.
   Example: quickly (rapidamente), bravely (bravamente), happily (felizmente), why (por que), how (como).
 - **Pronoun (Pronome)**: Replaces or accompanies a noun.
   Example: you, my, myself (eu mesmo), this, who (quem), nobody (ninguém).
@@ -67,22 +67,22 @@
 ### Verbs
 
 #### Regular and irregular verbs
-Regular verbs are verb that follow a pattern to fit a specific tense or mood, using prefixes to follow the pattern, for example: using "ed" to indicate that the verb is in the past tense, such as: worked, played, opened, etc...
+Regular verbs are verb that follow a pattern to fit a specific tense or mood, using prefixes to do so, for example: using "ed" to indicate that the verb is in the past tense, such as: worked, played, opened, etc...
 Note that all verbs (work, play, open) use the "ed" at the end to indicate that they are in past tense.
 
 However, irregular verbs have heir own form to indicate the tense (past, present, future, etc...) or mood, for example:
 | Verb base (simple present) | Past simple | Past participle |
 |----------------------------|-------------|-----------------|
 | Go                         | Went (foi)  | gone (ido)      |
-| Eat                        | Ate (comeu) | Eaten (comido   |
+| Eat                        | Ate (comeu) | Eaten (comido)  |
 | See                        | Saw (viu)   | Seen (visto)    |
 | Have                       | Had (teve)  | Had (tinha)     |
 
 #### Verb tenses
-| Tense Name                     | Structure                                     | Example                                | Tradução                                 |
-|--------------------------------|-----------------------------------------------|----------------------------------------|------------------------------------------|
+| Tense Name                     | Structure                           | Example                                | Tradução                                 |
+|--------------------------------|-------------------------------------|----------------------------------------|------------------------------------------|
 | **Simple Present**             | base verb (+s/es for he/she/it)     | She works every day.                   | Ela trabalha todos os dias.              |
-| **Simple Past**                | usually, base verb + (ed)           | We visited Paris.                      | Nós visitamos Paris.                     |
+| **Simple Past**                | base verb + (ed)                    | We visited Paris.                      | Nós visitamos Paris.                     |
 | **Present Continuous**         | am/is/are + verb(-ing)              | I am studying now.                     | Eu estou estudando agora.                |
 | **Present Perfect**            | have/has + past participle          | They have finished the task.           | Eles terminaram a tarefa.                |
 | **Present Perfect Continuous** | have/has been + verb(-ing)          | He has been working all day.           | Ele está trabalhando o dia todo.         |
@@ -97,7 +97,7 @@ However, irregular verbs have heir own form to indicate the tense (past, present
 #### To be verbs
 | Form  |  Tempo e tipo do Verbo  | Pessoa(s) usada(s)    | Exemplo                | Tradução                                                                 |
 |-------|-------------------------|-----------------------|------------------------|--------------------------------------------------------------------------|
-| am    | present simples         |                       | I am happy             | Eu estou feliz! (am == Sou/Estou)                                        |
+| am    | present simples         | I                     | I am happy             | Eu estou feliz! (am == Sou/Estou)                                        |
 | is    | present simples         | He, She, it           | She is at home         | Ela está em casa (is == é/ser)                                           |
 | are   | present simples         | You, We, They         | They are students      | Eles são estudantes (are == são)                                         |
 | was   | passado simples         | I, He, She, It        | He was tired           | Ele estava cansado (was == era/estava)                                   |
@@ -217,6 +217,69 @@ However, irregular verbs have heir own form to indicate the tense (past, present
 
 #### Numbers
 
-| English | Português |
-|---------|-----------|
-| One     | 1         |
+| English   | Português |
+|-----------|-----------|
+| one       | 1         |
+| two       | 2         |
+| three     | 3         |
+| four      | 4         |
+| five      | 5         |
+| six       | 6         |
+| seven     | 7         |
+| eight     | 8         |
+| nine      | 9         |
+| ten       | 10        |
+| eleven    | 11        |
+| twevel    | 12        |
+| thirteen  | 13        |
+| fourteen  | 14        |
+| fifteen   | 15        |
+| sixteen   | 16        |
+| seventeen | 17        |
+| eighteen  | 18        |
+| nineteen  | 19        |
+| twenty    | 20        |
+
+###### Rules for reading numbers
+> Identify the patterns!
+
+**Dozens**:
+| twenty  | 20  |
+| thirty  | 30  |
+| fourty  | 40  |
+| fifty   | 50  |
+| sixty   | 60  |
+| seventy | 70  |
+| eighty  | 80  |
+| ninety  | 90  |
+***Examples***: *twenty one* == 21.
+
+**Hundreds**:
+| one hundred   | 100 |
+| two hundred   | 200 |
+| three hundred | 300 |
+| fourt hundred | 400 |
+| five hundred  | 500 |
+| six hundred   | 600 |
+| seven hundred | 700 |
+| eight hundred | 800 |
+| nine hundred  | 900 |
+***Examples***: *one hundred one* == 101
+
+**Thousands**:
+| one thousand   | 1000   |
+| two thousand   | 2000   |
+| three thousand | 3000   |
+| four thousand  | 4000   |
+| five thousand  | 5000   |
+| six thousand   | 6000   |
+| seven thousand | 7000   |
+| eight thousand | 8000   |
+| nine thousand  | 9000   |
+***Examples***: *one thousand one* == 1001.
+
+**Millions**:
+| one million  | 1000000 |
+| two million  | 2000000 |
+| idem million |         |
+***Examples***: *one million three hundred thousand* == 1.300.000
