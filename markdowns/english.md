@@ -244,6 +244,7 @@ However, irregular verbs have heir own form to indicate the tense (past, present
 > Identify the patterns!
 
 **Dozens**:
+
 | twenty  | 20  |
 | thirty  | 30  |
 | fourty  | 40  |
@@ -252,9 +253,12 @@ However, irregular verbs have heir own form to indicate the tense (past, present
 | seventy | 70  |
 | eighty  | 80  |
 | ninety  | 90  |
+
 ***Examples***: *twenty one* == 21.
 
+
 **Hundreds**:
+
 | one hundred   | 100 |
 | two hundred   | 200 |
 | three hundred | 300 |
@@ -264,9 +268,12 @@ However, irregular verbs have heir own form to indicate the tense (past, present
 | seven hundred | 700 |
 | eight hundred | 800 |
 | nine hundred  | 900 |
+
 ***Examples***: *one hundred one* == 101
 
+
 **Thousands**:
+
 | one thousand   | 1000   |
 | two thousand   | 2000   |
 | three thousand | 3000   |
@@ -276,10 +283,14 @@ However, irregular verbs have heir own form to indicate the tense (past, present
 | seven thousand | 7000   |
 | eight thousand | 8000   |
 | nine thousand  | 9000   |
+
 ***Examples***: *one thousand one* == 1001.
 
+
 **Millions**:
+
 | one million  | 1000000 |
 | two million  | 2000000 |
 | idem million |         |
+
 ***Examples***: *one million three hundred thousand* == 1.300.000
