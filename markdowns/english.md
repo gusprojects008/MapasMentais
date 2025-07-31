@@ -90,7 +90,7 @@
 
 #### Regular and Irregular Verbs
 
-**Regular verbs** are verbs that follow a fixed pattern to indicate tense or mood.  
+**Regular verbs** are verbs that follow a fixed pattern to indicate tense or mood.
 Usually, they add the suffix **-ed** in the past tense and past participle.  
 **Examples**: worked, played, opened.  
 > Note: All verbs (work, play, open) add **-ed** to indicate the past tense.
