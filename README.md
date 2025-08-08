@@ -15,6 +15,7 @@
 - [Roadmap de hacking](#roadmap-de-hacking)
 - [Root e TWRP em dispositivos Samsung](#root-e-twrp-em-dispositivos-samsung)
 - [English notes](#english-notes)
+- [Glossário de termos técnicos específico na programação](#termos-técnicos-programação)
 
 ---
 
@@ -97,4 +98,7 @@
 - [Formato Logseq .edn](whiteboards/root-twrp-samsung.edn)
 
 ## English notes
+- [Formato markdown](markdowns/english.md)
+
+## Termos técnicos programação
 - [Formato markdown](markdowns/english.md)

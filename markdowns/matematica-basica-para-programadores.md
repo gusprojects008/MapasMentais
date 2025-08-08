@@ -35,44 +35,6 @@
 
 ---
 
-## Plano Cartesiano
-
-O **plano cartesiano** foi proposto por René Descartes e tem como objetivo unir a geometria à álgebra, permitindo a representação de pontos no espaço ou plano por meio de coordenadas numéricas.  
-Em espaços bidimensionais, os pontos são representados por pares (x, y), e em espaços tridimensionais por trios (x, y, z).  
-Esse sistema é a base para a construção de gráficos, vetores, detecção de colisões, transformações geométricas e aplicações em desenho computacional.
-
-[Estrutura básica de um plano cartesiano](../assets/estrutura-plano-cartesiano.jpg)
-
----
-
-## Funções trigonométricas e fundamentos gráficos
-
-Essas funções aparecem com frequência em **animações**, **processamento de sinais**, **física**, **geometria** e **visualização gráfica**.
-
-- **`cos`**: Função cosseno — Relaciona a projeção horizontal de um ponto sobre a circunferência unitária. Exemplo: `cos(0) = 1`, `cos(π/2) = 0`. Usado para calcular ângulos, rotação de vetores e componentes x de movimentos periódicos.
-
-- **`sin`**: Função seno — Relaciona a projeção vertical de um ponto na circunferência unitária. Exemplo: `sin(0) = 0`, `sin(π/2) = 1`. Usado para vibrações, ondas, física e movimento oscilatório.
-
-- **`tan`**: Função tangente — Representa a razão entre o seno e o cosseno de um ângulo, ou seja, `tan(θ) = sin(θ) / cos(θ)`.  
-  Exemplo: `tan(0) = 0`, `tan(π/4) = 1`.  
-  Usada em cálculos de inclinação, derivadas de funções trigonométricas, vetores e problemas envolvendo ângulos de visão ou rampa.
-
-[Seno, cosseno e tangentes](../assets/seno-cosseno-tanegente.png)
-
----
-
-## Transformadas de Fourier
-
-As **transformadas de Fourier** (criação de Joseph Fourier) servem para decompor sinais em suas **frequências componentes**. Qualquer onda pode ser expressa como a soma de senos e cossenos.  
-Usada em:
-
-- Processamento de sinais (áudio, sensores, rádio).
-- Compressão (JPEG, MP3).
-- Reconhecimento de padrões (visão computacional).
-- Engenharia, eletrônica e matemática aplicada.
-
----
-
 ## Big O Notation
 
 A **notação Big O** descreve o comportamento de um algoritimo em relação ao tempo de execução e desempenho/eficiência à medida que a entrada/processamento de dados cresce. A notação ***Big Oh*** Ignora detalhes como tempo real de execução e foca na **ordem de crescimento** do algoritimo.
@@ -89,6 +51,65 @@ A **notação Big O** descreve o comportamento de um algoritimo em relação ao 
 Quanto menor a complexidade, **mais escalável** o algoritmo é para entradas grandes.
 
 O **O** que aparace na notação, por exemplo *O(n)*, significa **Order**, ou seja, ordem de crescimento.
+
+---
+
+## Operações binárias
+
+[Veja meu blog sobre o porquê dos computadores usam o sistema binário](https://cyberspace-bnw.pages.dev/blogs/contents/o-que-e-o-sistema-binario-e-como-ele-funciona)
+
+### Ordem e tipos de bytes
+
+- **Bit**  
+  - Unidade mínima de informação, vale `0` ou `1`.  
+- **Byte (B)**  
+  - Conjunto de **8 bits**.  
+- **Kilobyte (KB)**  
+  - `1024 bytes`.  
+- **Megabyte (MB)**  
+  - `1024 KB`.  
+- **Gigabyte (GB)**  
+  - `1024 MB`.
+- **Terabyte (TB)**  
+  - `1024 GB`.  
+- **Word**  
+  - Tamanho “natural” de dados para a CPU (ex: 16 bits em arquiteturas antigas).  
+- **Double Word (DWORD)**  
+  - `32 bits`.  
+- **Quad Word (QWORD)**  
+  - `64 bits`.  
+
+
+> Trabalhar diretamente com bits é essencial para trabalhar com **bitmaps** de configurações ou informações de pacotes de rede, assim como **máscaras** de rede por exemplo, **flags**, **compressão**, **criptografia** e **otimizações de baixo nível**:
+
+| Operador | Nome             | Descrição                                                                                                    |
+|----------|------------------|--------------------------------------------------------------------------------------------------------------|
+| `<< n`   | Shift left       | Desloca todos os bits **n** posições para a esquerda (multiplica por 2ⁿ).                                    |
+| `>> n`   | Shift right      | Desloca todos os bits **n** posições para a direita (divide por 2ⁿ, descarta bits menos significativos).     |
+| `&`      | AND              | Bit a bit: `1 & 1 = 1`, senão `0`. Usado em máscaras para **limpar** bits.                                   |
+| `\|`     | OR               | Bit a bit: `0 \| 1 = 1`. Usado para **definir** bits sem alterar os demais.                                  |
+| `^`      | XOR              | Bit a bit: `1 ^ 1 = 0`, `1 ^ 0 = 1`. Útil para **toggle** de bits e truques de swap sem variável temporária. |
+| `~`      | NOT              | Inversão de todos os bits: `~1010 → 0101`.                                                                   |
+
+### **Exemplos práticos**:  
+- `mask = value & 0x0F` — isola os 4 bits menos significativos.  
+- `value |= 1 << 7` — seta (coloca como 1) o bit de índice 7.  
+- `value ^= value` — zera `value` (todo bit se torna 0).  
+- `value & (value - 1)` — remove o bit menos significativo “1” de `value`. 
+- `value = (value + 3) & ~3` - arrendonda para um múltiplo de 4.
+
+[Tabela de operações binárias básicas](../assets/operacoes-binarias.png)
+
+---
+
+## Unidades de medida de:
+
+### Unidades de tempo
+[Cálculo de unidades de tempo](../assets/calculo-tempo.jpg)
+[Segundos](../assets/segundos.gif)
+
+### Unidades númericas
+[Tabela númerica](../assets/unidades-numericas.jpg)
 
 ---
 
@@ -151,64 +172,42 @@ O **O** que aparace na notação, por exemplo *O(n)*, significa **Order**, ou se
 - **Tipos**: Dirigido, não-dirigido, ponderado, cíclico, acíclico.
 - **Usos**: Redes, caminhos mínimos (Dijkstra, BFS/DFS), IA, web.
 
----
-
-## Ordem e tipos de bytes
-
-- **Bit**  
-  - Unidade mínima de informação, vale `0` ou `1`.  
-- **Byte (B)**  
-  - Conjunto de **8 bits**.  
-- **Kilobyte (KB)**  
-  - `1024 bytes`.  
-- **Megabyte (MB)**  
-  - `1024 KB`.  
-- **Gigabyte (GB)**  
-  - `1024 MB`.
-- **Terabyte (TB)**  
-  - `1024 GB`.  
-- **Word**  
-  - Tamanho “natural” de dados para a CPU (ex: 16 bits em arquiteturas antigas).  
-- **Double Word (DWORD)**  
-  - `32 bits`.  
-- **Quad Word (QWORD)**  
-  - `64 bits`.  
-
 > Em programação de baixo nível (C, assembly, sistemas embarcados), saber o tamanho em bytes de cada tipo (`char`, `int`, `long`, `float`, `double`) é fundamental para alinhamento de memória, ponteiros e desempenho.
 
 ---
 
-## Operações binárias
+## Plano Cartesiano
 
-[Veja meu blog sobre o porquê dos computadores usam o sistema binário](https://cyberspace-bnw.pages.dev/blogs/contents/o-que-e-o-sistema-binario-e-como-ele-funciona)
+O **plano cartesiano** foi proposto por René Descartes e tem como objetivo unir a geometria à álgebra, permitindo a representação de pontos no espaço ou plano por meio de coordenadas numéricas.  
+Em espaços bidimensionais, os pontos são representados por pares (x, y), e em espaços tridimensionais por trios (x, y, z).  
+Esse sistema é a base para a construção de gráficos, vetores, detecção de colisões, transformações geométricas e aplicações em desenho computacional.
 
-> Trabalhar diretamente com bits é essencial para trabalhar com **bitmaps** de configurações ou informações de pacotes de rede, assim como **máscaras** de rede por exemplo, **flags**, **compressão**, **criptografia** e **otimizações de baixo nível**:
-
-| Operador | Nome             | Descrição                                                                                                    |
-|----------|------------------|--------------------------------------------------------------------------------------------------------------|
-| `<< n`   | Shift left       | Desloca todos os bits **n** posições para a esquerda (multiplica por 2ⁿ).                                    |
-| `>> n`   | Shift right      | Desloca todos os bits **n** posições para a direita (divide por 2ⁿ, descarta bits menos significativos).     |
-| `&`      | AND              | Bit a bit: `1 & 1 = 1`, senão `0`. Usado em máscaras para **limpar** bits.                                   |
-| `\|`     | OR               | Bit a bit: `0 \| 1 = 1`. Usado para **definir** bits sem alterar os demais.                                  |
-| `^`      | XOR              | Bit a bit: `1 ^ 1 = 0`, `1 ^ 0 = 1`. Útil para **toggle** de bits e truques de swap sem variável temporária. |
-| `~`      | NOT              | Inversão de todos os bits: `~1010 → 0101`.                                                                   |
-
-### **Exemplos práticos**:  
-- `mask = value & 0x0F` — isola os 4 bits menos significativos.  
-- `value |= 1 << 7` — seta (coloca como 1) o bit de índice 7.  
-- `value ^= value` — zera `value` (todo bit se torna 0).  
-- `value & (value - 1)` — remove o bit menos significativo “1” de `value`. 
-- `value = (value + 3) & ~3` - arrendonda para um múltiplo de 4.
-
-![Tabela de operações binárias básicas](../assets/operacoes-binarias.png)
+[Estrutura básica de um plano cartesiano](../assets/estrutura-plano-cartesiano.jpg)
 
 ---
 
-## Unidades de medida de:
+## Funções trigonométricas e fundamentos gráficos
 
-### Unidades de tempo
-[Cálculo de unidades de tempo](../assets/calculo-tempo.jpg)
-[Segundos](../assets/segundos.gif)
+Essas funções aparecem com frequência em **animações**, **processamento de sinais**, **física**, **geometria** e **visualização gráfica**.
 
-### Unidades númericas
-[Tabela númerica](../assets/unidades-numericas.jpg)
+- **`cos`**: Função cosseno — Relaciona a projeção horizontal de um ponto sobre a circunferência unitária. Exemplo: `cos(0) = 1`, `cos(π/2) = 0`. Usado para calcular ângulos, rotação de vetores e componentes x de movimentos periódicos.
+
+- **`sin`**: Função seno — Relaciona a projeção vertical de um ponto na circunferência unitária. Exemplo: `sin(0) = 0`, `sin(π/2) = 1`. Usado para vibrações, ondas, física e movimento oscilatório.
+
+- **`tan`**: Função tangente — Representa a razão entre o seno e o cosseno de um ângulo, ou seja, `tan(θ) = sin(θ) / cos(θ)`.  
+  Exemplo: `tan(0) = 0`, `tan(π/4) = 1`.  
+  Usada em cálculos de inclinação, derivadas de funções trigonométricas, vetores e problemas envolvendo ângulos de visão ou rampa.
+
+[Seno, cosseno e tangentes](../assets/seno-cosseno-tangente.png)
+
+---
+
+## Transformadas de Fourier
+
+As **transformadas de Fourier** (criação de Joseph Fourier) servem para decompor sinais em suas **frequências componentes**. Qualquer onda pode ser expressa como a soma de senos e cossenos.  
+Usada em:
+
+- Processamento de sinais (áudio, sensores, rádio).
+- Compressão (JPEG, MP3).
+- Reconhecimento de padrões (visão computacional).
+- Engenharia, eletrônica e matemática aplicada.

@@ -1,6 +1,8 @@
 # Glossário de Termos Técnicos em Computação
 
 ## Sistemas Operacionais e Processos
+- **DRM (Direct Rendering Manager)**: É um subsistema do kernel linux, responsável por permitir e controlar a comunicação e acesso entre aplicações em espaço de usuário, e GPUs.
+- **ACPI (Advanced Configuration Power Interface)**: É um subsistema do kernel linux, responsável por permitir e controlar a comunicação e acesso entre aplicações em espaço de usuário, e GPUs.
 - **Mutex (Mutual Exclusion)**: Mecanismo de sincronização que garante que apenas uma thread acesse um recurso por vez.
 - **Deadlock**: Situação em que processos ou threads ficam bloqueados aguardando recursos uns dos outros indefinidamente.
 - **Semáforo (Semaphore)**: Estrutura de controle usada para limitar ou coordenar o acesso a recursos compartilhados.
@@ -115,6 +117,41 @@
 - **Garbage Collector**: Mecanismo que gerencia e libera memória automaticamente.
 - **Overloading**: Definição de múltiplas funções ou operadores com o mesmo nome mas parâmetros diferentes.
 - **API (Application Programming Interface)**: Conjunto de rotinas e padrões para integração entre softwares.
+  - Tipos:
+    - **API REST (Representational State Transfer)**:  
+      Tipo mais comum de API web, baseada no protocolo HTTP.  
+      Utiliza métodos HTTP como `GET`, `POST`, `PUT`, `DELETE` e códigos de status como `200 OK`, `404 Not Found`, `500 Internal Server Error`, entre outros.  
+      Geralmente retorna dados em formato **JSON** ou **XML**.  
+      É **sem estado (stateless)**: cada requisição deve conter todas as informações necessárias.  
+    
+    - **API SOAP (Simple Object Access Protocol)**:  
+      Protocolo mais antigo e formal para troca de mensagens.  
+      Baseado em **XML**, exige um contrato (WSDL - Web Services Description Language) e suporta operações mais complexas, incluindo segurança (WS-Security) e transações.  
+      Utiliza o protocolo **HTTP** ou **SMTP** como transporte.  
+    
+    - **API GraphQL**:  
+      Criada pelo Facebook, permite que o cliente defina **exatamente quais dados deseja**.  
+      Usa uma única URL de endpoint e uma linguagem própria de consulta.  
+      Reduz o problema de **overfetching** (dados demais) e **underfetching** (dados de menos) comuns em REST.  
+    
+    - **API gRPC (Google Remote Procedure Call)**:  
+      Criada pelo Google, é uma alternativa moderna ao REST.  
+      Utiliza **Protocol Buffers (protobuf)** como formato de serialização binária, muito mais leve que JSON.  
+      Suporta chamadas assíncronas, streaming bidirecional e é baseada em HTTP/2.  
+      Muito usada em sistemas distribuídos e microserviços.  
+    
+    - **API WebSocket**:  
+      Não é exatamente uma API no sentido tradicional, mas um protocolo de comunicação.  
+      Permite comunicação **bidirecional em tempo real** entre cliente e servidor.  
+      Muito usada em chats, jogos multiplayer e sistemas com atualização contínua de dados (ex: dashboards em tempo real).  
+
+    - **API Local (Bibliotecas/SDKs)**:  
+      APIs que não usam rede. São bibliotecas (ex: OpenGL, POSIX, WinAPI) que oferecem funcionalidades diretamente em chamadas locais no sistema operacional.  
+      Usadas para acesso a hardware, manipulação de arquivos, interface gráfica etc.  
+
+    - **API RESTful vs REST-like**:  
+      RESTful segue **rigorosamente os princípios REST** (recursos como entidades, verbos HTTP, stateless, cacheável).  
+      REST-like ou RESTful "modificado" aplica apenas parte desses princípios, geralmente em projetos menores ou mais flexíveis.
 - **SDK (Software Development Kit)**: Conjunto de ferramentas e bibliotecas para desenvolvimento de aplicações.
 - **IDE (Integrated Development Environment)**: Ambiente integrado com ferramentas de programação, como editor, compilador e debugger.
 - **Refatoração**: Reescrita de código para melhorar sua qualidade sem alterar sua funcionalidade.
@@ -164,4 +201,4 @@
 - **ROM (Read-Only Memory)**: Memória apenas de leitura, geralmente usada para firmware.
 - **Cache**: Memória de alta velocidade que armazena dados usados frequentemente.
 - **Overclocking**: Aumento da frequência de operação de um processador além das especificações de fábrica.
- **Virtualização**: Técnica que permite executar múltiplos sistemas operacionais em um mesmo hardware físico.
+- **Virtualização**: Técnica que permite executar múltiplos sistemas operacionais em um mesmo hardware físico.
