@@ -101,4 +101,4 @@
 - [Formato markdown](markdowns/english.md)
 
 ## Termos técnicos programação
-- [Formato markdown](markdowns/english.md)
+- [Formato markdown](markdowns/termos-tecnicos-basicos-computacao.md)
