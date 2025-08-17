@@ -155,6 +155,10 @@ They have their own forms for the past simple and past participle.
 | Today         | Hoje            |
 | Yesterday     | Ontem           |
 | Tomorrow      | Amanhã          |
+| Weekends      | Finais de semana|
+| Morning       | Manhã           |
+| Afternoon     | Tarde           |
+| Night/Evening | Noite           |
 
 #### Partes do Corpo
 
