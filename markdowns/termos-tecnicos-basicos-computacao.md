@@ -13,11 +13,6 @@
 - **chroot (Change Root)**: Técnica que altera o diretório raiz de um processo, criando um ambiente isolado semelhante a uma mini-instalação de SO.
 - **Concorrência**: Capacidade de executar múltiplas tarefas em sobreposição temporal.
 - **Paralelismo**: Execução simultânea de várias tarefas em diferentes núcleos/processadores.
-- **Kernel**: Núcleo do sistema operacional, responsável pela comunicação entre hardware e software.
-- **Bootloader**: Programa inicial que carrega o sistema operacional na inicialização do computador.
-- **Firmware**: Software básico armazenado em memória não volátil de dispositivos, que fornece instruções de baixo nível para o hardware.
-- **Driver**: Programa que permite que o sistema operacional se comunique com dispositivos de hardware.
-- **Threads**: Fluxos de execução independentes dentro de um mesmo processo.
 
 ### Hooks e Handlers
 - **Hooks**: Pontos de extensão em softwares ou sistemas onde é possível inserir código personalizado para alterar ou interceptar comportamentos padrão.
@@ -86,18 +81,11 @@
 - **Blockchain**: Estrutura de dados distribuída e imutável usada como registro descentralizado.
 - **Sandbox**: Técnica usada para isolar aplicações em um ambiente seguro e controlado para evitar impactos no sistema real.
 - **Docker**: Plataforma que utiliza containers para empacotar aplicações e suas dependências, fornecendo isolamento semelhante a máquinas virtuais, mas com menor overhead.
-- **Criptografia**: Técnica de proteger informações por meio de codificação.
 - **Chave Simétrica**: Método de criptografia em que a mesma chave é usada para criptografar e descriptografar.
 - **Chave Assimétrica**: Método de criptografia que usa um par de chaves (pública e privada).
 - **Hash**: Função que gera uma representação única (resumo) de dados.
 - **Salt**: Valor aleatório adicionado a senhas antes da aplicação de funções hash para aumentar a segurança.
 - **Token**: Credencial digital usada para autenticação ou autorização.
-- **2FA (Two-Factor Authentication)**: Autenticação em duas etapas para maior segurança.
-- **Exploit**: Código ou técnica que aproveita vulnerabilidades em sistemas.
-- **Vulnerabilidade**: Fraqueza em software, hardware ou rede que pode ser explorada.
-- **Malware**: Programas maliciosos, como vírus, trojans e worms.
-- **Phishing**: Tentativa de obter informações sensíveis enganando o usuário.
-- **Backdoor**: Acesso oculto deixado em um sistema para entrada não autorizada.
 
 ---
 
@@ -111,7 +99,7 @@
     - `SELECT`  
   - **DCL (Data Control Language)**: Controle de permissões.  
     - `GRANT`, `REVOKE`  
-  - **TCL (Transaction Control Language)**: Controle de transações.  
+  - **TCL (Transaction Control Language)**: Controle de transações.
     - `COMMIT`, `ROLLBACK`, `SAVEPOINT`
 - **venv (Virtual Environment)**: Ferramenta do Python para criar ambientes isolados, permitindo que projetos usem diferentes versões de bibliotecas sem conflitos.
 - **Garbage Collector**: Mecanismo que gerencia e libera memória automaticamente.
